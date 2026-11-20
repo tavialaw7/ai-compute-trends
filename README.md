@@ -60,4 +60,4 @@ Epoch AI, "Data on AI models", licensed CC BY 4.0. The CSV in `data/` is a snaps
 - Era boundaries (2010, 2023) are my choices.
 - Shares count models, not their importance. Sector and year are mixed in the openness comparison, so it shows a pattern and not a cause.
 
-MIT licensed code. Built by [Tavia](https://github.com/tavialaw7).
+MIT licensed code. Built by [Tavia](https://github.com/tavialaw7). See also [Eval Review Lab](https://github.com/tavialaw7/eval-review-lab), a paired LLM evaluation pipeline with reviewer QC and a CI release gate.

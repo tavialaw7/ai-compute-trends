@@ -1,0 +1,1012 @@
+id,model,organization,pub_date,year,domain,is_language,sector,country,accessibility,open_weights,frontier,confidence,parameters,compute_flop,cost_usd_2023,log10_compute_flop
+1,GPT-5.5 Pro,OpenAI,2026-04-23,2026,"Multimodal,Language,Vision",1,Industry,United States of America,API access,0,0,Likely,,,,
+2,GPT-5.5,OpenAI,2026-04-23,2026,"Multimodal,Language,Vision",1,Industry,United States of America,API access,0,0,Likely,,,,
+3,GPT Image 2,OpenAI,2026-04-21,2026,Image generation,0,Industry,United States of America,API access,0,0,Likely,,,,
+4,Claude Opus 4.7,Anthropic,2026-04-16,2026,Language,1,Industry,United States of America,API access,0,0,Likely,,,,
+5,Nemotron 3 Super,NVIDIA,2026-03-11,2026,Language,1,Industry,United States of America,,,0,Likely,120000000000.0,,,
+6,GPT-5.4 Pro,OpenAI,2026-03-05,2026,"Multimodal,Language,Vision",1,Industry,United States of America,API access,0,0,Likely,,,,
+7,GPT-5.4,OpenAI,2026-03-05,2026,"Multimodal,Language,Vision",1,Industry,United States of America,API access,0,0,Likely,,,,
+8,Gemini 3.0 Flash-lite,Google DeepMind,2026-03-03,2026,Language,1,Industry,United States of America,API access,0,0,Likely,,,,
+9,SWE 1.6,Cognition,2026-03-01,2026,Language,1,Industry,United States of America,Hosted access (no API),0,0,Likely,,,,
+10,Qwen3.5-122B-A10B,Alibaba,2026-02-24,2026,Language,1,Industry,China,Open weights (restricted use),1,0,Likely,122000000000.0,,,
+11,Gemini 3.1 Pro,Google DeepMind,2026-02-19,2026,"Language,Vision",1,Industry,United States of America,API access,0,0,Likely,,,,
+12,GLM-5,Z.ai (Zhipu AI),2026-02-17,2026,Language,1,Industry,China,Open weights (unrestricted),1,0,Likely,744000000000.0,6.84e+24,,24.8351
+13,Qwen3.5 397B-A17B,Alibaba,2026-02-13,2026,"Language,Vision",1,Industry,China,Open weights (unrestricted),1,0,Likely,397000000000.0,,,
+14,Seedance 2.0,ByteDance,2026-02-12,2026,"Image generation,Video,Audio",0,Industry,China,Hosted access (no API),0,0,Likely,,,,
+15,GPT-5.3 Codex,OpenAI,2026-02-05,2026,Language,1,Industry,United States of America,API access,0,0,Likely,,,,
+16,Qwen3-Coder-Next,Alibaba,2026-02-02,2026,Language,1,Industry,China,Open weights (unrestricted),1,0,Likely,80000000000.0,,,
+17,Kimi K2.5,Moonshot,2026-02-02,2026,Language,1,Industry,China,Open weights (unrestricted),1,0,Likely,1040000000000.0,5.8e+24,,24.7634
+18,Qwen3-Max-Thinking,Alibaba,2026-01-25,2026,Language,1,Industry,China,API access,0,0,Likely,,,,
+19,Solar Open 100B,Upstage,2025-12-31,2025,Language,1,Industry,Korea (Republic of),API access,0,0,Confident,102000000000.0,,,
+20,K-EXAONE,LG AI Research,2025-12-31,2025,Language,1,Industry,Korea (Republic of),API access,0,0,Confident,236000000000.0,1.52e+24,,24.1818
+21,VAETKI,NC AI,2025-12-30,2025,Language,1,Industry,Korea (Republic of),Open weights (unrestricted),1,0,Confident,100000000000.0,,,
+22,A.X K1,SK Telecom,2025-12-30,2025,Language,1,Industry,Korea (Republic of),,,0,Confident,519000000000.0,,9642947.0,
+23,HyperCLOVA X SEED 32B Think,NAVER,2025-12-29,2025,"Multimodal,Language,Vision",1,Industry,Korea (Republic of),,,0,Confident,32000000000.0,,,
+24,MiniMax-M2.1,MiniMax,2025-12-23,2025,Language,1,Industry,China,Open weights (restricted use),1,0,Confident,229000000000.0,,,
+25,GLM-4.7,Z.ai (Zhipu AI),2025-12-22,2025,Language,1,Industry,China,Open weights (unrestricted),1,0,Likely,358000000000.0,4.42e+24,,24.6454
+26,GPT-5.2 Codex,OpenAI,2025-12-18,2025,Language,1,Industry,United States of America,API access,0,0,Likely,,,,
+27,Nemotron 3-Nano-30B-A3B,NVIDIA,2025-12-15,2025,Language,1,Industry,United States of America,Open weights (restricted use),1,0,Likely,31600000000.0,4.8e+23,,23.6812
+28,GPT-5.2 Pro,OpenAI,2025-12-11,2025,"Multimodal,Language,Vision",1,Industry,United States of America,API access,0,0,Likely,,,,
+29,GPT-5.2,OpenAI,2025-12-11,2025,,0,Industry,United States of America,API access,0,0,Unknown,,,,
+30,SIMA 2,Google DeepMind,2025-12-04,2025,3D modeling,0,Industry,United States of America,Unreleased,0,0,Likely,,,,
+31,DeepSeekMath-V2,DeepSeek,2025-11-27,2025,Language,1,Industry,China,Open weights (unrestricted),1,0,Confident,685000000000.0,,,
+32,Claude Opus 4.5,Anthropic,2025-11-24,2025,"Language,Multimodal,Vision",1,Industry,United States of America,API access,0,0,Unknown,,,,
+33,Olmo 3,Allen Institute for AI,2025-11-20,2025,Language,1,Other,United States of America,Open weights (unrestricted),1,0,Confident,32000000000.0,1.1e+24,,24.0414
+34,Gemini 3 Pro Image (Nano Banana Pro),Google DeepMind,2025-11-20,2025,Image generation,0,Industry,United States of America,API access,0,0,Likely,,,,
+35,Grok 4.1 Fast,xAI,2025-11-19,2025,Language,1,Industry,United States of America,API access,0,0,Unknown,,,,
+36,GPT-5.1-Codex-Max,OpenAI,2025-11-19,2025,Language,1,Industry,United States of America,API access,0,0,Unknown,,,,
+37,Gemini 3 Pro,Google DeepMind,2025-11-18,2025,"Multimodal,Language,Vision",1,Industry,United States of America,API access,0,0,Unknown,,,,
+38,π0.6 (pi-0.6),Physical Intelligence,2025-11-17,2025,Robotics,0,Industry,United States of America,Unreleased,0,0,Likely,5260000000.0,,,
+39,P1-235B-A22B,Shanghai AI Lab,2025-11-17,2025,Language,1,Academia,China,Open weights (unrestricted),1,0,Likely,235000000000.0,,,
+40,Grok 4.1,xAI,2025-11-17,2025,Language,1,Industry,United States of America,API access,0,0,Unknown,,,,
+41,GPT-5.1 Instant,OpenAI,2025-11-13,2025,"Multimodal,Language,Vision",1,Industry,United States of America,API access,0,0,Unknown,,,,
+42,GPT-5.1,OpenAI,2025-11-13,2025,"Multimodal,Language,Vision",1,Industry,United States of America,API access,0,0,Unknown,,,,
+43,GPT-5.1-Codex,OpenAI,2025-11-12,2025,Language,1,Industry,United States of America,API access,0,0,Unknown,,,,
+44,Meta's Generative Ads Model (GEM),Meta AI,2025-11-10,2025,Recommendation,0,Industry,United States of America,Unreleased,0,0,Likely,,,,
+45,Kimi K2 Thinking,Moonshot,2025-11-06,2025,Language,1,Industry,China,Open weights (restricted use),1,0,Likely,1000000000000.0,4.2e+24,,24.6232
+46,Tongyi DeepResearch,Alibaba,2025-10-28,2025,Language,1,Industry,China,Open weights (unrestricted),1,0,Confident,30500000000.0,,,
+47,MiniMax-M2,MiniMax,2025-10-27,2025,Language,1,Industry,China,Open weights (unrestricted),1,0,Confident,229000000000.0,,,
+48,Veo 3.1,Google DeepMind,2025-10-15,2025,"Video,Vision",0,Industry,United States of America,API access,0,0,Unknown,,,,
+49,Claude Haiku 4.5,Anthropic,2025-10-15,2025,Language,1,Industry,United States of America,API access,0,0,Unknown,,,,
+50,Ling-1T,Ant Group,2025-10-10,2025,Language,1,Industry,China,Open weights (unrestricted),1,0,Confident,1000000000000.0,6.000001e+24,,24.7782
+51,GPT-5 Pro,OpenAI,2025-10-07,2025,"Multimodal,Language,Vision",1,Industry,United States of America,API access,0,0,Unknown,,,,
+52,Sora 2.0,OpenAI,2025-09-30,2025,Video,0,Industry,United States of America,Hosted access (no API),0,0,Unknown,,,,
+53,GLM-4.6,"Z.ai (Zhipu AI),Tsinghua University",2025-09-30,2025,Language,1,Collaboration,China,Open weights (unrestricted),1,0,Likely,357000000000.0,4.42e+24,,24.6454
+54,Claude Sonnet 4.5,Anthropic,2025-09-29,2025,"Language,Vision,Multimodal",1,Industry,United States of America,API access,0,0,Unknown,,,,
+55,Gemini Robotics-ER 1.5,Google DeepMind,2025-09-25,2025,"Vision,Language,Speech",1,Industry,United States of America,API access,0,0,Unknown,,,,
+56,Qwen3-Omni-30B-A3B,Alibaba,2025-09-22,2025,"Multimodal,Language,Vision,Speech,Video",1,Industry,China,Open weights (unrestricted),1,0,Confident,35300000000.0,3.6e+22,,22.5563
+57,AgentFounder-30B,Alibaba,2025-09-16,2025,Language,1,Industry,China,Open weights (unrestricted),1,0,Confident,30000000000.0,6.5367e+23,,23.8154
+58,Qwen3-Max,Alibaba,2025-09-05,2025,Language,1,Industry,China,API access,0,0,Speculative,1000000000000.0,1.512e+25,,25.1796
+59,LongCat-Flash,Meituan Inc,2025-09-01,2025,Language,1,Industry,China,Open weights (unrestricted),1,0,Likely,560000000000.0,3.726e+24,,24.5712
+60,Gemini 2.5 Flash Image (Nano Banana),Google,2025-08-26,2025,Image generation,0,Industry,United States of America,API access,0,0,Unknown,,,,
+61,GPT-5 nano,OpenAI,2025-08-07,2025,"Multimodal,Language,Vision",1,Industry,United States of America,API access,0,0,Unknown,,,,
+62,GPT-5 mini,OpenAI,2025-08-07,2025,"Multimodal,Language,Vision",1,Industry,United States of America,API access,0,0,Unknown,,,,
+63,GPT-5,OpenAI,2025-08-07,2025,"Multimodal,Language,Vision",1,Industry,United States of America,API access,0,0,Speculative,,6.6e+25,,25.8195
+64,gpt-oss-120b,OpenAI,2025-08-05,2025,Language,1,Industry,United States of America,Open weights (unrestricted),1,0,Confident,116830000000.0,4.94e+24,,24.6937
+65,gpt-oss-20b,OpenAI,2025-08-05,2025,Language,1,Industry,United States of America,Open weights (unrestricted),1,0,Confident,20910000000.0,5.49e+23,,23.7396
+66,GLM-4.5,"Z.ai (Zhipu AI),Tsinghua University",2025-08-05,2025,Language,1,Collaboration,China,Open weights (unrestricted),1,0,Confident,355000000000.0,4.42e+24,,24.6454
+67,Claude Opus 4.1,Anthropic,2025-08-05,2025,"Language,Multimodal,Vision",1,Industry,United States of America,API access,0,0,Unknown,,,,
+68,Qwen Image,Alibaba,2025-08-04,2025,"Image generation,Vision",0,Industry,China,Open weights (unrestricted),1,0,Confident,27000000000.0,,,
+69,Hierarchical Reasoning Model (HPM),Sapient Intelligence,2025-08-04,2025,"Language,Vision,Multimodal",1,,Singapore,Unreleased,0,0,Confident,27000000.0,,,
+70,MindLink-72B,Kunlun Inc.,2025-08-01,2025,Language,1,Industry,China,,,0,Confident,72000000000.0,,,
+71,Gemini 2.5 Deep Think,"Google,Google DeepMind",2025-08-01,2025,"Language,Multimodal,Vision,Video,Audio,Mathematics",1,Industry,United States of America,Hosted access (no API),0,0,Unknown,,,,
+72,Qwen3-235B-A22B-Thinking (Jul 2025),Alibaba,2025-07-25,2025,Language,1,Industry,China,Open weights (unrestricted),1,0,Likely,235000000000.0,4.752e+24,,24.6769
+73,Qwen3-235B-A22B (Jul 2025),Alibaba,2025-07-25,2025,Language,1,Industry,China,Open weights (unrestricted),1,0,Likely,235000000000.0,4.752e+24,,24.6769
+74,Qwen3-Coder-480B-A35B,Alibaba,2025-07-22,2025,Language,1,Industry,China,Open weights (unrestricted),1,0,Confident,480000000000.0,1.575e+24,,24.1973
+75,EXAONE 4.0 (32B),LG AI Research,2025-07-15,2025,Language,1,Industry,Korea (Republic of),Open weights (non-commercial),1,0,Confident,32000000000.0,2.69000000000001e+24,,24.4298
+76,Gemini Embedding,Google DeepMind,2025-07-14,2025,Language,1,Industry,United States of America,API access,0,0,Unknown,,,,
+77,Kimi K2,Moonshot,2025-07-11,2025,Language,1,Industry,China,Open weights (restricted use),1,0,Confident,1000000000000.0,2.976e+24,,24.4736
+78,Grok 4 Heavy,xAI,2025-07-10,2025,Language,1,Industry,United States of America,Unreleased,0,0,Unknown,,,,
+79,Grok 4,xAI,2025-07-09,2025,"Language,Multimodal,Vision",1,Industry,United States of America,API access,0,1,Speculative,3000000000000.0,5.0000000000001e+26,387842678.08636147,26.699
+80,EXAONE Path 2.0,LG AI Research,2025-07-09,2025,"Vision,Medicine",0,Industry,Korea (Republic of),Open weights (non-commercial),1,0,Confident,175000000.0,,,
+81,FGN,Google DeepMind,2025-06-12,2025,Earth science,0,Industry,United States of America,Unreleased,0,0,Confident,720000000.0,9.618950880000001e+21,,21.9831
+82,Seed-1.6-Thinking,ByteDance,2025-06-11,2025,"Multimodal,Language,Vision",1,Industry,China,API access,0,0,Confident,230000000000.0,,,
+83,Qwen3 Embedding,Alibaba,2025-06-05,2025,Language,1,Industry,China,Open weights (unrestricted),1,0,Confident,8000000000.0,,,
+84,Gemini 2.5 Pro (Jun 2025),Google DeepMind,2025-06-05,2025,"Language,Vision,Video,Multimodal,Speech",1,Industry,United States of America,API access,0,0,Unknown,,,,
+85,DeepSeek-R1 (May 2025),DeepSeek,2025-05-28,2025,Language,1,Industry,China,Open weights (unrestricted),1,0,Confident,671000000000.0,4.020010000000001e+24,6770000.0,24.6042
+86,Claude Sonnet 4,Anthropic,2025-05-22,2025,"Language,Multimodal,Vision",1,Industry,United States of America,API access,0,0,Unknown,,,,
+87,Claude Opus 4,Anthropic,2025-05-22,2025,"Language,Multimodal,Vision",1,Industry,United States of America,API access,0,0,Unknown,,,,
+88,Veo 3,Google DeepMind,2025-05-21,2025,"Video,Vision",0,Industry,United States of America,API access,0,0,Unknown,,,,
+89,Imagen 4,Google,2025-05-20,2025,Image generation,0,Industry,United States of America,API access,0,0,Unknown,,,,
+90,Seed1.5-VL,ByteDance,2025-05-11,2025,"Vision,Language,Multimodal,Video",1,Industry,China,API access,0,0,Confident,,1.388556e+24,,24.1426
+91,Gemini 2.5 Pro (May 2025),Google DeepMind,2025-05-06,2025,"Language,Vision,Video,Multimodal,Speech",1,Industry,United States of America,API access,0,0,Unknown,,,,
+92,Qwen3-235B-A22B,Alibaba,2025-04-29,2025,Language,1,Industry,China,Open weights (unrestricted),1,0,Likely,235000000000.0,4.752e+24,,24.6769
+93,gpt-image-1,OpenAI,2025-04-23,2025,"Image generation,Vision",0,Industry,United States of America,API access,0,0,Unknown,,,,
+94,Pangu Ultra,Huawei,2025-04-10,2025,Language,1,Industry,China,Hosted access (no API),0,0,Confident,135000000000.0,1.0692e+25,,25.0291
+95,Llama 4 Scout,Meta AI,2025-04-05,2025,"Multimodal,Language,Vision",1,Industry,United States of America,Open weights (restricted use),1,0,Likely,109000000000.0,4.08e+24,,24.6107
+96,Llama 4 Maverick,Meta AI,2025-04-05,2025,"Multimodal,Language,Vision",1,Industry,United States of America,Open weights (restricted use),1,0,Likely,400000000000.0,2.244000000001e+24,,24.351
+97,Llama 4 Behemoth (preview),Meta AI,2025-04-05,2025,"Multimodal,Language,Vision",1,Industry,United States of America,Unreleased,0,1,Likely,2000000000000.0,5.18400000000001e+25,44588963.624007165,25.7147
+98,GPT-4o (Mar 2025),OpenAI,2025-03-27,2025,"Multimodal,Language,Audio,Speech,Vision",1,Industry,United States of America,API access,0,1,Speculative,,,,
+99,Gemini 2.5 Pro (Mar 2025),Google DeepMind,2025-03-25,2025,"Language,Vision,Video,Multimodal,Speech",1,Industry,United States of America,API access,0,0,Unknown,,,,
+100,DeepSeek-V3 (Mar 2025),DeepSeek,2025-03-24,2025,Language,1,Industry,China,Open weights (restricted use),1,0,Confident,671000000000.0,3.3e+24,5390000.0,24.5185
+101,Diffusion Renderer,"NVIDIA,University of Toronto,Vector Institute,University of Illinois Urbana-Champaign (UIUC)",2025-03-22,2025,Video,0,Collaboration,United States of America,Open weights (non-commercial),1,0,Confident,1100000000.0,,,
+102,o1-pro,OpenAI,2025-03-19,2025,"Language,Mathematics,Multimodal",1,Industry,United States of America,API access,0,0,Likely,,,,
+103,EXAONE Deep 32B,LG AI Research,2025-03-16,2025,Language,1,Industry,Korea (Republic of),Open weights (non-commercial),1,0,Confident,32000000000.0,1.26e+24,,24.1004
+104,ERNIE-4.5-VL-424B-A47B (文心大模型4.5),Baidu,2025-03-16,2025,"Multimodal,Language,Vision,Video",1,Industry,China,Open weights (unrestricted),1,0,Confident,424000000000.0,,,
+105,Hunyuan-TurboS,Tencent,2025-03-11,2025,Language,1,Industry,China,API access,0,0,Confident,560000000000.0,5.4e+24,,24.7324
+106,QwQ-32B,Alibaba,2025-03-06,2025,Language,1,Industry,China,Open weights (unrestricted),1,0,Speculative,32500000000.0,3.51e+24,,24.5453
+107,Mistral OCR,Mistral AI,2025-03-06,2025,"Multimodal,Vision,Language",1,Industry,France,API access,0,0,Unknown,,,,
+108,Mercury,Inception Labs,2025-02-27,2025,Language,1,Industry,United States of America,API access,0,0,Unknown,,,,
+109,GPT-4.5,OpenAI,2025-02-27,2025,"Language,Vision,Multimodal",1,Industry,United States of America,API access,0,1,Likely,,3.8e+26,339957479.93550694,26.5798
+110,Claude 3.7 Sonnet,Anthropic,2025-02-24,2025,"Language,Vision,Multimodal",1,Industry,United States of America,API access,0,0,Likely,,3.35e+25,,25.525
+111,Grok 3,xAI,2025-02-17,2025,"Language,Vision,Multimodal",1,Industry,United States of America,API access,0,1,Likely,3000000000000.0,3.5e+26,217835545.5267339,26.5441
+112,Eurus-2-7B-PRIME,"Tsinghua University,University of Illinois Urbana-Champaign (UIUC),Shanghai AI Lab,Peking University,Shanghai Jiao Tong University,CUHK Shenzhen Research Institute",2025-02-03,2025,Mathematics,0,Academia,China,Open weights (unrestricted),1,0,Speculative,7000000000.0,,,
+113,o3-mini,OpenAI,2025-01-31,2025,Language,1,Industry,United States of America,API access,0,0,Unknown,,,,
+114,GPT-4o (Jan 2025),OpenAI,2025-01-29,2025,"Multimodal,Language,Audio,Speech,Vision",1,Industry,United States of America,API access,0,1,Speculative,,,,
+115,Computer-Using Agent (CUA),OpenAI,2025-01-23,2025,"Vision,Language,Multimodal",1,Industry,United States of America,Hosted access (no API),0,0,Unknown,,,,
+116,Kimi k1.5,Moonshot,2025-01-22,2025,"Multimodal,Language,Vision",1,Industry,China,API access,0,0,Unknown,,,,
+117,Doubao-1.5-pro,ByteDance,2025-01-22,2025,Language,1,Industry,China,Hosted access (no API),0,0,Confident,,,,
+118,Eagle 2,"NVIDIA,Nanjing University,Tsinghua University,Hong Kong Polytechnic University,Johns Hopkins University,New York University (NYU)",2025-01-20,2025,"Vision,Robotics,Language",1,Collaboration,United States of America,Open weights (non-commercial),1,0,Confident,8930000000.0,4.7156e+22,,22.6735
+119,DeepSeek-R1,DeepSeek,2025-01-20,2025,Language,1,Industry,China,Open weights (unrestricted),1,0,Confident,671000000000.0,3.5e+24,6770000.0,24.5441
+120,INTELLECT-MATH,Prime Intellect,2025-01-17,2025,Mathematics,0,Industry,United States of America,Open weights (unrestricted),1,0,Confident,7000000000.0,,,
+121,Stable Point Aware 3D (SPAR3D),"Stability AI,University of Illinois Urbana-Champaign (UIUC)",2025-01-08,2025,3D modeling,0,Collaboration,United Kingdom of Great Britain and Northern Ireland,Open weights (restricted use),1,0,Unknown,,,,
+122,STORM-B/8,"University of Southern California,Georgia Institute of Technology,Stanford University,NVIDIA",2024-12-31,2024,3D modeling,0,Collaboration,United States of America,,,0,Confident,100598707.0,,,
+123,DeepSeek-V3,DeepSeek,2024-12-24,2024,Language,1,Industry,China,Open weights (restricted use),1,0,Confident,671000000000.0,3.3e+24,5390000.0,24.5185
+124,o3,OpenAI,2024-12-20,2024,"Language,Vision,Multimodal",1,Industry,United States of America,API access,0,0,Unknown,,,,
+125,Veo 2,Google DeepMind,2024-12-16,2024,"Video,Vision",0,Industry,United States of America,API access,0,0,Unknown,,,,
+126,Apollo 7B,"Meta AI,Stanford University",2024-12-13,2024,"Video,Language,Multimodal",1,Collaboration,United States of America,Unreleased,0,0,Confident,7000000000.0,,,
+127,Gemini 2.0 Pro,Google DeepMind,2024-12-11,2024,"Language,Multimodal,Vision,Video,Audio",1,Industry,United States of America,Hosted access (no API),0,0,Unknown,,,,
+128,Sora Turbo,OpenAI,2024-12-09,2024,"Video,Vision",0,Industry,United States of America,Hosted access (no API),0,0,Unknown,,,,
+129,EXAONE 3.5 32B,LG AI Research,2024-12-09,2024,Language,1,Industry,Korea (Republic of),Open weights (non-commercial),1,0,Confident,32000000000.0,1.25e+24,,24.0969
+130,Llama 3.3 70B,Meta AI,2024-12-06,2024,Language,1,Industry,United States of America,Open weights (restricted use),1,0,Confident,70000000000.0,6.8649768e+24,,24.8366
+131,o1,OpenAI,2024-12-05,2024,"Language,Mathematics,Multimodal",1,Industry,United States of America,API access,0,0,Unknown,,,,
+132,NVILA 15B,"NVIDIA,Massachusetts Institute of Technology (MIT),University of California (UC) Berkeley,University of California San Diego,University of Washington,Tsinghua University",2024-12-05,2024,"Vision,Language,Multimodal,Video",1,Collaboration,United States of America,Open weights (non-commercial),1,0,Confident,15000000000.0,,,
+133,Infinity,ByteDance,2024-12-05,2024,Image generation,0,Industry,China,Open weights (unrestricted),1,0,Confident,2000000000.0,,,
+134,Amazon Nova Pro,Amazon,2024-12-03,2024,"Multimodal,Language,Video,Vision",1,Industry,United States of America,API access,0,0,Speculative,,6.000010000000001e+24,,24.7782
+135,Fugatto 1,NVIDIA,2024-11-25,2024,"Multimodal,Language,Audio",1,Industry,United States of America,Unreleased,0,0,Confident,2500000000.0,,,
+136,GPT-4o (Nov 2024),OpenAI,2024-11-20,2024,"Multimodal,Language,Audio,Speech,Vision",1,Industry,United States of America,API access,0,1,Speculative,,,,
+137,Suno v4,Suno,2024-11-19,2024,Audio,0,Industry,United States of America,Hosted access (no API),0,0,Unknown,,,,
+138,Pixtral Large,Mistral AI,2024-11-18,2024,"Multimodal,Language,Vision",1,Industry,France,Open weights (non-commercial),1,0,Confident,124000000000.0,,,
+139,k0-math,Moonshot,2024-11-16,2024,"Mathematics,Language",1,Industry,China,Unreleased,0,0,Unknown,,,,
+140,Gemini-Exp-1114,Google DeepMind,2024-11-15,2024,Language,1,Industry,United States of America,Hosted access (no API),0,0,Unknown,,,,
+141,SeedEdit,ByteDance,2024-11-11,2024,Vision,0,Industry,China,API access,0,0,Unknown,,,,
+142,Hunyuan-Large,Tencent,2024-11-06,2024,Language,1,Industry,China,Open weights (restricted use),1,0,Confident,389000000000.0,3.49237e+24,,24.5431
+143,Doubao-pro,ByteDance,2024-10-28,2024,Language,1,Industry,China,API access,0,0,Likely,500000000000.0,2.505e+25,,25.3988
+144,NVLM-X 72B,NVIDIA,2024-10-22,2024,"Vision,Language",1,Industry,United States of America,Unreleased,0,0,Likely,72000000000.0,3.0398181e+24,,24.4828
+145,NVLM-H 72B,NVIDIA,2024-10-22,2024,"Vision,Language",1,Industry,United States of America,Unreleased,0,0,Likely,72000000000.0,3.02e+24,,24.48
+146,NVLM-D 72B,NVIDIA,2024-10-22,2024,"Vision,Language",1,Industry,United States of America,Open weights (non-commercial),1,0,Confident,72000000000.0,3.02e+24,,24.48
+147,Yi-Lightning,01.AI,2024-10-18,2024,Language,1,Industry,China,API access,0,0,Confident,,1.5e+24,,24.1761
+148,CHAI-1,Chai discovery,2024-10-15,2024,Biology,0,Industry,United States of America,Open weights (non-commercial),1,0,Confident,,7.7605724e+21,,21.8899
+149,RDT-1B,Tsinghua University,2024-10-10,2024,Robotics,0,Academia,China,Open weights (unrestricted),1,0,Likely,1200000000.0,4.06e+22,,22.6085
+150,Palmyra X 004,Writer,2024-10-09,2024,Language,1,Industry,United States of America,API access,0,0,,150000000000.0,,,
+151,GR-2,ByteDance,2024-10-08,2024,Robotics,0,Industry,China,Unreleased,0,0,Confident,230000000.0,,,
+152,Movie Gen Video,Meta AI,2024-10-04,2024,"Video,Vision",0,Industry,United States of America,Unreleased,0,0,Confident,30000000000.0,1.65e+24,,24.2175
+153,PixelDance,ByteDance,2024-09-24,2024,"Video,Vision",0,Industry,China,Hosted access (no API),0,0,Unknown,,,,
+154,Llama 3.2 11B,Meta AI,2024-09-24,2024,"Multimodal,Vision,Language",1,Industry,United States of America,Open weights (restricted use),1,0,Confident,10600000000.0,5.79e+23,,23.7627
+155,Telechat2-115B,China Telecom,2024-09-20,2024,Language,1,Industry,China,Open weights (restricted use),1,0,Confident,115000000000.0,6.9e+24,,24.8388
+156,Qwen2.5-72B,Alibaba,2024-09-19,2024,Language,1,Industry,China,Open weights (unrestricted),1,0,Confident,72700000000.0,7.8e+24,,24.8921
+157,Qwen2.5 Instruct (72B),Alibaba,2024-09-19,2024,Language,1,Industry,China,Open weights (restricted use),1,0,Confident,72700000000.0,7.8516e+24,,24.895
+158,Oryx 34B,"Tsinghua University,Tencent,Nanyang Technological University",2024-09-19,2024,"Multimodal,Vision,3D modeling,Video,Language",1,Collaboration,China,Open weights (unrestricted),1,0,Confident,34000000000.0,,,
+159,Qwen2.5-32B,Alibaba,2024-09-17,2024,Language,1,Industry,China,Open weights (unrestricted),1,0,Confident,32500000000.0,3.51e+24,,24.5453
+160,o1-preview,OpenAI,2024-09-12,2024,"Language,Mathematics,Biology",1,Industry,United States of America,API access,0,0,Unknown,,,,
+161,o1-mini,OpenAI,2024-09-12,2024,Language,1,Industry,United States of America,API access,0,0,Unknown,,,,
+162,DeepSeek-V2.5,DeepSeek,2024-09-06,2024,Language,1,Industry,China,Open weights (restricted use),1,0,Confident,236000000000.0,1.7892e+24,,24.2527
+163,Hunyuan Turbo,Tencent,2024-09-05,2024,Language,1,Industry,China,API access,0,0,Unknown,,,,
+164,Harrison.rad.1,Harrison.ai,2024-09-05,2024,"Vision,Medicine,Language,Multimodal",1,Industry,Australia,Unreleased,0,0,Unknown,,,,
+165,AlphaProteo,Google DeepMind,2024-09-05,2024,Biology,0,Industry,United States of America,Unreleased,0,0,Unknown,,,,
+166,Hairuo,Inspur,2024-08-29,2024,Language,1,Industry,China,Hosted access (no API),0,0,Unknown,,,,
+167,GLM-4-Plus,Z.ai (Zhipu AI),2024-08-29,2024,Language,1,Industry,China,API access,0,1,Speculative,,,,
+168,Jamba 1.5-Large,AI21 Labs,2024-08-22,2024,Language,1,Industry,Israel,Open weights (restricted use),1,0,Confident,398000000000.0,,,
+169,Grok-2,xAI,2024-08-13,2024,"Language,Vision,Multimodal",1,Industry,United States of America,API access,0,1,Confident,,2.96e+25,31602310.530835517,25.4713
+170,Table Tennis Agent,Google DeepMind,2024-08-07,2024,Robotics,0,Industry,United States of America,Unreleased,0,0,Likely,185000.0,,,
+171,LLaVA-OV-72B,"ByteDance,Nanyang Technological University,Chinese University of Hong Kong (CUHK),Hong Kong University of Science and Technology (HKUST)",2024-08-06,2024,"Multimodal,Vision,Language,Video",1,Collaboration,China,Open weights (unrestricted),1,0,Confident,72000000000.0,3.036551985824e+24,,24.4824
+172,GPT-4o (Aug 2024),OpenAI,2024-08-06,2024,"Multimodal,Language,Audio,Speech,Vision",1,Industry,United States of America,API access,0,1,Speculative,,,,
+173,AFM-server,Apple,2024-07-29,2024,Language,1,Industry,United States of America,Hosted access (no API),0,0,Likely,,4.3e+24,,24.6335
+174,AFM-on-device,Apple,2024-07-29,2024,Language,1,Industry,United States of America,Hosted access (no API),0,0,Confident,2730000000.0,4.5126e+23,,23.6544
+175,Mistral Large 2,Mistral AI,2024-07-24,2024,Language,1,Industry,France,Open weights (non-commercial),1,0,Likely,123000000000.0,2.13e+25,,25.3284
+176,Llama 3.1-405B,Meta AI,2024-07-23,2024,Language,1,Industry,United States of America,Open weights (restricted use),1,1,Confident,405000000000.0,3.8e+25,52885433.95402246,25.5798
+177,GPT-4o mini,OpenAI,2024-07-18,2024,"Language,Multimodal,Vision",1,Industry,United States of America,API access,0,0,Speculative,,,,
+178,Mathstral,Mistral AI,2024-07-16,2024,"Mathematics,Language",1,Industry,France,Open weights (unrestricted),1,0,Confident,7000000000.0,,,
+179,DeepL LLM,DeepL,2024-07-16,2024,Language,1,Industry,Germany,Hosted access (no API),0,0,Unknown,,,,
+180,SenseChat 5.5,SenseTime,2024-07-06,2024,"Multimodal,Language,Vision",1,Industry,Hong Kong,Hosted access (no API),0,0,Confident,600000000000.0,,,
+181,Ernie 4.0 Turbo,Baidu,2024-06-28,2024,"Multimodal,Language,Vision",1,Industry,China,API access,0,0,Unknown,,,,
+182,ESM3 (98B),"EvolutionaryScale,University of California (UC) Berkeley",2024-06-25,2024,Biology,0,Collaboration,United States of America,Unreleased,0,0,Confident,98500000000.0,1.07e+24,,24.0294
+183,Cambrian-1-34B,New York University (NYU),2024-06-24,2024,"Multimodal,Vision,Language",1,Academia,United States of America,Open weights (unrestricted),1,0,Confident,34000000000.0,,,
+184,Claude 3.5 Sonnet,Anthropic,2024-06-20,2024,"Multimodal,Language,Vision",1,Industry,United States of America,API access,0,1,Speculative,,2.700000000000001e+25,25870993.12024943,25.4314
+185,DeepSeek-Coder-V2 236B,DeepSeek,2024-06-17,2024,Language,1,Industry,China,Open weights (restricted use),1,0,Confident,236000000000.0,1.2852e+24,,24.109
+186,Nemotron-4 340B,NVIDIA,2024-06-14,2024,Language,1,Industry,United States of America,Open weights (unrestricted),1,1,Confident,340000000000.0,1.8e+25,21271017.96222655,25.2553
+187,OpenVLA,"Stanford University,University of California (UC) Berkeley,Toyota Research Institute,Google DeepMind,Massachusetts Institute of Technology (MIT),Physical Intelligence",2024-06-13,2024,"Robotics,Vision,Language",1,Collaboration,United States of America,Open weights (unrestricted),1,0,Confident,7188100000.0,1.1e+23,,23.0414
+188,Llama-3.1-Nemotron-70B-Instruct,"NVIDIA,Meta AI",2024-06-12,2024,Language,1,Industry,United States of America,Open weights (restricted use),1,0,Confident,,7.929e+24,,24.8992
+189,Qwen2-72B,Alibaba,2024-06-07,2024,Language,1,Industry,China,Open weights (unrestricted),1,0,Confident,72710000000.0,3.02e+24,,24.48
+190,ALLaM adapted 70B,Saudi Data and Artificial Intelligence Authority,2024-05-21,2024,Language,1,Collaboration,Saudi Arabia,Unreleased,0,0,Confident,70000000000.0,1.062e+24,,24.0261
+191,Octo-Base,"University of California (UC) Berkeley,Stanford University,Carnegie Mellon University (CMU),DeepMind",2024-05-20,2024,Robotics,0,Collaboration,United States of America,Open weights (unrestricted),1,0,Confident,93000000.0,5.85e+20,,20.7672
+192,GLM-4 (0520),Z.ai (Zhipu AI),2024-05-20,2024,Language,1,Industry,China,API access,0,0,Likely,,,,
+193,Yi-Large,01.AI,2024-05-13,2024,Language,1,Industry,China,API access,0,0,Speculative,100000000000.0,1.8e+24,,24.2553
+194,GPT-4o,OpenAI,2024-05-13,2024,"Multimodal,Language,Audio,Speech,Vision",1,Industry,United States of America,API access,0,1,Speculative,,,,
+195,AlphaFold 3,"Google DeepMind,Isomorphic Labs",2024-05-08,2024,Biology,0,Industry,United States of America,Open weights (non-commercial),1,0,Confident,,4.1405645e+22,,22.6171
+196,VILA1.5-13B,"NVIDIA,Massachusetts Institute of Technology (MIT)",2024-05-03,2024,"Multimodal,Language,Vision,Video",1,Collaboration,United States of America,Open weights (non-commercial),1,0,Confident,13493916736.0,2.3003136e+21,,21.3618
+197,GenCast,Google DeepMind,2024-05-01,2024,Earth science,0,Industry,United States of America,Open weights (non-commercial),1,0,Confident,,8.169984e+20,,20.9122
+198,Llama 3-70B,Meta AI,2024-04-18,2024,Language,1,Industry,United States of America,Open weights (restricted use),1,0,Confident,70000000000.0,7.861e+24,,24.8955
+199,Reka Core,Reka AI,2024-04-15,2024,"Multimodal,Language,Vision,Video,Speech",1,Industry,United States of America,API access,0,0,Speculative,67000000000.0,8.400010000000001e+24,,24.9243
+200,GPT-4 Turbo (Apr 2024),OpenAI,2024-04-09,2024,"Multimodal,Vision,Language,Image generation",1,Industry,United States of America,API access,0,1,Unknown,,,,
+201,ReALM,Apple,2024-03-29,2024,Language,1,Industry,United States of America,Unreleased,0,0,Confident,3000000000.0,,,
+202,DBRX,Databricks,2024-03-27,2024,Language,1,Industry,United States of America,Open weights (restricted use),1,0,Confident,132000000000.0,2.6e+24,,24.415
+203,MM1-30B,Apple,2024-03-14,2024,"Multimodal,Language,Vision",1,Industry,United States of America,Unreleased,0,0,Likely,30000000000.0,4.86e+23,,23.6866
+204,ManiGaussian,"Tsinghua University,Nanyang Technological University,Carnegie Mellon University (CMU)",2024-03-13,2024,"Robotics,Vision,Video",0,Academia,China,Open weights (unrestricted),1,0,Confident,,,,
+205,Inflection-2.5,Inflection AI,2024-03-07,2024,Language,1,Industry,United States of America,Hosted access (no API),0,0,Likely,,8.000001e+24,11804593.33,24.9031
+206,Claude 3 Sonnet,Anthropic,2024-03-04,2024,"Multimodal,Language,Vision",1,Industry,United States of America,API access,0,0,Unknown,,,,
+207,Claude 3 Opus,Anthropic,2024-03-04,2024,"Multimodal,Language,Vision",1,Industry,United States of America,API access,0,1,Speculative,,,,
+208,Aramco Metabrain AI,Saudi Aramco,2024-03-04,2024,Language,1,Collaboration,Saudi Arabia,Unreleased,0,0,Likely,250000000000.0,1.05e+25,,25.0212
+209,Mistral Large,Mistral AI,2024-02-26,2024,Language,1,Industry,France,API access,0,0,Likely,,1.12e+25,14110111.93,25.0492
+210,MegaScale (Production),"ByteDance,Peking University",2024-02-23,2024,Language,1,Collaboration,China,Unreleased,0,0,Speculative,530000000000.0,3.9e+24,2614019.245,24.5911
+211,Stable Diffusion 3,Stability AI,2024-02-22,2024,Image generation,0,Industry,United Kingdom of Great Britain and Northern Ireland,API access,0,0,Confident,8000000000.0,5.0000000000000004e+22,,22.699
+212,Sora,OpenAI,2024-02-15,2024,"Video,Vision",0,Industry,United States of America,Hosted access (no API),0,0,Unknown,,,,
+213,Gemini 1.5 Pro,Google DeepMind,2024-02-15,2024,"Language,Multimodal",1,Industry,United States of America,API access,0,1,Speculative,,,,
+214,Aya,"Cohere for AI,Brown University,Cohere,Carnegie Mellon University (CMU),Massachusetts Institute of Technology (MIT)",2024-02-12,2024,Language,1,Collaboration,Canada,Open weights (unrestricted),1,0,Speculative,13000000000.0,,,
+215,Qwen1.5-72B,Alibaba,2024-02-04,2024,Language,1,Industry,China,Open weights (restricted use),1,0,Confident,72000000000.0,1.3e+24,,24.1139
+216,Qwen-VL-Max,Alibaba,2024-01-25,2024,"Multimodal,Language,Vision",1,Industry,China,API access,0,0,Confident,7000000000.0,,,
+217,AlphaGeometry,"Google DeepMind,New York University (NYU)",2024-01-17,2024,Mathematics,0,Collaboration,United States of America,Open weights (unrestricted),1,0,Confident,151000000.0,,,
+218,Palmyra X 003,Writer,2024-01-01,2024,Language,1,Industry,United States of America,API access,0,0,,72000000000.0,,,
+219,Kimi Explorer,Moonshot,2024-01-01,2024,Language,1,Industry,China,Hosted access (no API),0,0,Unknown,,,,
+220,CoRe,Tsinghua University,2023-12-29,2023,"Mathematics,Language",1,Academia,China,Unreleased,0,0,Speculative,12400000000.0,,,
+221,GQA-8-XXL,Google Research,2023-12-23,2023,Language,1,Industry,United States of America,Unreleased,0,0,Confident,11000000000.0,3.4912896e+22,,22.543
+222,nekomata-14b,rinna,2023-12-21,2023,Language,1,Industry,Japan,Open weights (restricted use),1,0,Confident,14200000000.0,2.5562e+23,,23.4076
+223,Gemini Nano-2,Google DeepMind,2023-12-19,2023,"Multimodal,Language,Vision,Audio",1,Industry,United States of America,Unreleased,0,0,Confident,3250000000.0,,,
+224,Gemini Nano-1,Google DeepMind,2023-12-19,2023,"Multimodal,Language,Vision,Audio",1,Industry,United States of America,API access,0,0,Confident,1800000000.0,,,
+225,FunSearch,Google DeepMind,2023-12-14,2023,"Language,Search",1,Industry,United States of America,Open weights (unrestricted),1,0,Speculative,15000000000.0,3.87e+23,,23.5877
+226,CogAgent,"Tsinghua University,Z.ai (Zhipu AI)",2023-12-14,2023,"Vision,Language",1,Collaboration,China,Open weights (restricted use),1,0,Likely,18000000000.0,6.707e+22,,22.8265
+227,VILA-13B,"NVIDIA,Massachusetts Institute of Technology (MIT)",2023-12-12,2023,"Multimodal,Language,Vision",1,Collaboration,United States of America,Open weights (non-commercial),1,0,Confident,13350839296.0,2.3003136e+21,,21.3618
+228,W.A.L.T,"Stanford University,Google Research,Georgia Institute of Technology",2023-12-11,2023,Video,0,Collaboration,United States of America,Unreleased,0,0,Confident,4719000000.0,,,
+229,Mixtral 8x7B,Mistral AI,2023-12-11,2023,Language,1,Industry,France,Open weights (unrestricted),1,0,Speculative,46700000000.0,7.74e+23,,23.8887
+230,SeamlessM4T,"Facebook,INRIA,University of California (UC) Berkeley",2023-12-08,2023,"Speech,Language",1,Collaboration,United States of America,Open weights (unrestricted),1,0,Confident,2300000000.0,,,
+231,Llama Guard,Meta AI,2023-12-07,2023,Language,1,Industry,United States of America,Open weights (restricted use),1,0,Confident,7000000000.0,1.6e+23,,23.2041
+232,Gemini 1.0 Ultra,Google DeepMind,2023-12-06,2023,"Multimodal,Language,Vision",1,Industry,United States of America,API access,0,1,Speculative,,5.0000000001e+25,30719419.93534952,25.699
+233,Gemini 1.0 Pro,Google DeepMind,2023-12-06,2023,"Multimodal,Language,Vision",1,Industry,United States of America,API access,0,0,Speculative,,,,
+234,Mamba-24M (SC09),"Carnegie Mellon University (CMU),Princeton University",2023-12-01,2023,Speech,0,Academia,United States of America,Unreleased,0,0,Confident,23400000.0,,,
+235,Qwen-72B,Alibaba,2023-11-30,2023,Language,1,Industry,China,Open weights (restricted use),1,0,Confident,72000000000.0,1.3e+24,,24.1139
+236,PPLX-70B-Online,Perplexity,2023-11-29,2023,Language,1,Industry,United States of America,API access,0,0,Likely,70000000000.0,,,
+237,GNoME for crystal discovery,Google DeepMind,2023-11-29,2023,Materials science,0,Industry,United States of America,Unreleased,0,0,Likely,16240000.0,,,
+238,Inflection-2,Inflection AI,2023-11-22,2023,Language,1,Industry,United States of America,Hosted access (no API),0,1,Confident,,1.001e+25,13461144.182562498,25.0004
+239,Claude 2.1,Anthropic,2023-11-21,2023,Language,1,Industry,United States of America,API access,0,0,Unknown,,,,
+240,AndesGPT,Oppo Mobile Telecommunications,2023-11-16,2023,Language,1,Industry,China,Hosted access (no API),0,0,Unknown,,,,
+241,Nemotron-3-8B,NVIDIA,2023-11-15,2023,Language,1,Industry,United States of America,Open weights (restricted use),1,0,Confident,8000000000.0,1.8e+23,214467.02013524104,23.2553
+242,Qwen-Audio-Chat,Alibaba,2023-11-14,2023,"Language,Speech,Audio",1,Industry,China,Open weights (restricted use),1,0,Likely,8460000000.0,,,
+243,GraphCast,Google DeepMind,2023-11-14,2023,Earth science,0,Industry,United States of America,Open weights (non-commercial),1,0,Speculative,,2.1000000000000002e+22,,22.3222
+244,Volcano 13B,"Korea University,Korea Advanced Institute of Science and Technology (KAIST),LG",2023-11-13,2023,"Language,Multimodal,Vision",1,Collaboration,Korea (Republic of),Open weights (non-commercial),1,0,Likely,13000000000.0,4.56e+22,,22.659
+245,SPHINX (Llama 2 13B),"Shanghai AI Lab,Chinese University of Hong Kong (CUHK),ShanghaiTech University",2023-11-13,2023,"Vision,Language,Multimodal",1,Academia,China,Open weights (restricted use),1,0,Likely,19900000000.0,3.04e+22,239188.6875340231,22.4829
+246,RoFormer,Zhuiyi Technology,2023-11-08,2023,Language,1,Industry,China,Unreleased,0,0,Confident,110000000.0,2.162688e+18,,18.335
+247,MultiBand Diffusion,"Meta AI,Hebrew University of Jerusalem,LORIA",2023-11-08,2023,"Audio,Speech",0,Collaboration,United States of America,Open weights (unrestricted),1,0,Confident,,2.6e+19,22.81032329809286,19.415
+248,OmniVec,TensorTour,2023-11-07,2023,"Multimodal,Vision,Speech,Language,Video,3D modeling",1,Industry,United States of America,Unreleased,0,0,Unknown,,,,
+249,mPLUG-Owl2,Alibaba,2023-11-07,2023,"Vision,Language,Multimodal",1,Industry,China,Open weights (unrestricted),1,0,Speculative,7120000000.0,,,
+250,GPT-4 Turbo (Nov 2023),OpenAI,2023-11-06,2023,"Multimodal,Vision,Language,Image generation",1,Industry,United States of America,API access,0,1,Unknown,,,,
+251,CogVLM-17B,"Tsinghua University,Z.ai (Zhipu AI),Beihang University",2023-11-06,2023,"Multimodal,Vision,Language",1,Collaboration,China,Open weights (restricted use),1,0,Confident,17000000000.0,6.331e+22,,22.8015
+252,LLaVA 1.5,"University of Wisconsin Madison,Microsoft Research",2023-11-05,2023,"Multimodal,Language,Vision",1,Collaboration,United States of America,Open weights (restricted use),1,0,Confident,13000000000.0,7.807e+22,,22.8925
+253,Grok-1,xAI,2023-11-04,2023,Language,1,Industry,United States of America,Open weights (unrestricted),1,0,Likely,314000000000.0,2.90000000001e+24,,24.4624
+254,RT-Trajectory,"Google DeepMind,University of California San Diego,Stanford University",2023-11-03,2023,Robotics,0,Collaboration,United States of America,Unreleased,0,0,Unknown,,,,
+255,BLUUMI,"University of Turku,Hugging Face",2023-11-03,2023,Language,1,Collaboration,Finland,Open weights (restricted use),1,0,Likely,176000000000.0,,,
+256,Yi-34B,01.AI,2023-11-02,2023,Language,1,Industry,China,Open weights (restricted use),1,0,Confident,34000000000.0,6.1e+23,,23.7853
+257,Cohere Embed,Cohere,2023-11-02,2023,Language,1,Industry,Canada,API access,0,0,Unknown,,,,
+258,Skywork-13B,Kunlun Inc.,2023-10-30,2023,Language,1,Industry,China,Open weights (restricted use),1,0,Confident,13000000000.0,2.5e+23,,23.3979
+259,ChatGLM3-6B,Z.ai (Zhipu AI),2023-10-27,2023,"Multimodal,Language,Vision",1,Industry,China,Open weights (restricted use),1,0,Speculative,6000000000.0,5.04e+22,,22.7024
+260,DiT-XL/2 + CADS,"ETH Zurich,Disney Research",2023-10-26,2023,Image generation,0,Collaboration,Switzerland,Unreleased,0,0,Likely,675000000.0,,,
+261,CODEFUSION (Python),"Microsoft,Microsoft Research",2023-10-26,2023,Language,1,Industry,United States of America,Unreleased,0,0,Confident,75000000.0,7.92e+18,8.542235671062665,18.8987
+262,DALL·E 3,OpenAI,2023-10-19,2023,Image generation,0,Industry,United States of America,API access,0,0,Unknown,,,,
+263,PaLI-3,"Google DeepMind,Google Research,Google Cloud",2023-10-17,2023,"Multimodal,Language,Vision",1,Industry,United States of America,Unreleased,0,0,Confident,5000000000.0,,,
+264,ERNIE 4.0,Baidu,2023-10-17,2023,"Multimodal,Language,Video,Image generation",1,Industry,China,API access,0,0,Unknown,,,,
+265,RT-2-X,Google DeepMind,2023-10-13,2023,Robotics,0,Industry,United States of America,Unreleased,0,0,Confident,55000000000.0,,,
+266,Ferret (13B),"Columbia University,Apple",2023-10-11,2023,"Multimodal,Language,Vision",1,Collaboration,United States of America,Open weights (non-commercial),1,0,Confident,13000000000.0,,,
+267,RoseTTAFold All-Atom (RFAA),"University of Washington,Seoul National University,University of Sheffield",2023-10-09,2023,Biology,0,Academia,United States of America,Open weights (unrestricted),1,0,Confident,,2.14e+20,,20.3304
+268,FinGPT-13B,"University of California Los Angeles (UCLA),Columbia University,New York University (NYU)",2023-10-07,2023,Language,1,Academia,United States of America,Open weights (unrestricted),1,0,Likely,13000000000.0,1.6e+23,,23.2041
+269,CTM (CIFAR-10),"Stanford University,Sony",2023-10-01,2023,Image generation,0,Collaboration,United States of America,Open weights (unrestricted),1,0,Unknown,,,,
+270,GPT-3.5 Turbo Instruct,OpenAI,2023-09-28,2023,Language,1,Industry,United States of America,API access,0,0,Likely,20000000000.0,,,
+271,Amazon Titan,Amazon,2023-09-28,2023,"Language,Image generation",1,Industry,United States of America,API access,0,1,Likely,200000000000.0,4.8e+24,7933464.673729055,24.6812
+272,Show-1,National University of Singapore,2023-09-27,2023,Video,0,Academia,Singapore,Open weights (non-commercial),1,0,Unknown,,,,
+273,GPT-4V,OpenAI,2023-09-25,2023,"Multimodal,Vision,Language",1,Industry,United States of America,API access,0,0,Unknown,,,,
+274,AlphaMissense,Google DeepMind,2023-09-22,2023,Biology,0,Industry,United States of America,Unreleased,0,0,Likely,93000000.0,,,
+275,Robot Parkour,"Shanghai Qi Zhi institute,Stanford University,Carnegie Mellon University (CMU),Tsinghua University",2023-09-12,2023,Robotics,0,Academia,China,Unreleased,0,0,Confident,500000.0,,,
+276,Falcon-180B,Technology Innovation Institute,2023-09-06,2023,Language,1,Other,United Arab Emirates,Open weights (restricted use),1,1,Confident,180000000000.0,3.76e+24,10743500.868805483,24.5752
+277,Swift,Intel Labs,2023-08-30,2023,Robotics,0,Industry,United States of America,Unreleased,0,0,Likely,56804.0,5.337e+16,,16.7273
+278,Jais,"Cerebras Systems,Mohamed bin Zayed University of Artificial Intelligence (MBZUAI),Inception G42",2023-08-29,2023,Language,1,Collaboration,United States of America,Open weights (unrestricted),1,0,Confident,13000000000.0,4.8946763e+22,,22.6897
+279,PeptideBERT,Carnegie Mellon University (CMU),2023-08-28,2023,Biology,0,Academia,United States of America,Open weights (unrestricted),1,0,Confident,,4.9e+16,,16.6902
+280,Qwen-VL,Alibaba,2023-08-24,2023,"Multimodal,Language,Vision",1,Industry,China,Open weights (restricted use),1,0,Likely,9600000000.0,,,
+281,GGNN,"Westlake University,Tsinghua University,Toyota Technological Institute at Chicago",2023-08-05,2023,Biology,0,Academia,China,Unreleased,0,0,Confident,,7.56e+21,,21.8785
+282,RT-2,Google DeepMind,2023-07-28,2023,Robotics,0,Industry,United States of America,Unreleased,0,0,Confident,55000000000.0,,,
+283,AudioLM,Google Research,2023-07-26,2023,Audio,0,Industry,United States of America,Unreleased,0,0,Speculative,1500000000.0,3.9e+18,,18.5911
+284,Llama 2-70B,Meta AI,2023-07-18,2023,Language,1,Industry,United States of America,Open weights (restricted use),1,0,Confident,70000000000.0,8.1e+23,1102561.194,23.9085
+285,Llama 2-7B,Meta AI,2023-07-18,2023,Language,1,Industry,United States of America,Open weights (restricted use),1,0,Confident,7000000000.0,8.4e+22,114259.38527188865,22.9243
+286,GPT3-2.7B (FlashAttention-2),"Stanford University,Princeton University",2023-07-18,2023,Language,1,Academia,United States of America,Unreleased,0,0,Confident,2700000000.0,,,
+287,Claude 2,Anthropic,2023-07-11,2023,Language,1,Industry,United States of America,API access,0,1,Speculative,,3.866e+24,4902644.123383027,24.5873
+288,xTrimoPGLM -100B,"Tsinghua University,BioMap Research",2023-07-06,2023,Biology,0,Collaboration,China,Unreleased,0,0,Confident,100000000000.0,6.2e+23,1823415.258,23.7924
+289,InternLM,"Shanghai AI Lab,SenseTime",2023-07-06,2023,Language,1,Collaboration,China,Unreleased,0,0,Confident,104000000000.0,9.984e+23,1505257.378,23.9993
+290,Pangu-Weather,Huawei,2023-07-05,2023,Earth science,0,Industry,China,Open weights (non-commercial),1,0,Confident,256000000.0,3.98e+22,51279.017519054316,22.5999
+291,Stable Diffusion XL (SDXL),Stability AI,2023-07-04,2023,Image generation,0,Industry,United Kingdom of Great Britain and Northern Ireland,Open weights (non-commercial),1,0,Speculative,3400000000.0,,,
+292,HyenaDNA,"Stanford University,Harvard University,Mila - Quebec AI (originally Montreal Institute for Learning Algorithms),University of Montreal / Université de Montréal",2023-06-27,2023,Biology,0,Academia,United States of America,Open weights (restricted use),1,0,Confident,6600000.0,1.811e+21,5000.0,21.2579
+293,ERNIE 3.5,Baidu,2023-06-27,2023,Language,1,Industry,China,Hosted access (no API),0,0,Unknown,,,,
+294,GPT-3.5 Turbo,OpenAI,2023-06-13,2023,Language,1,Industry,United States of America,API access,0,0,Likely,20000000000.0,,,
+295,MusicGen,Meta AI,2023-06-08,2023,Audio,0,Industry,United States of America,Open weights (non-commercial),1,0,Likely,3359000000.0,,,
+296,LTM-1,Magic,2023-06-06,2023,Language,1,Industry,United States of America,Unreleased,0,0,Unknown,,,,
+297,PaLI-X,Google Research,2023-05-29,2023,"Multimodal,Language,Vision,Video",1,Industry,United States of America,Unreleased,0,0,Likely,55000000000.0,5.6e+23,,23.7482
+298,DPO on Pythia-2.8B,"Stanford University,CZ Biohub Network",2023-05-29,2023,Language,1,Academia,United States of America,Unreleased,0,0,Confident,2800000000.0,,,
+299,Goat-7B,National University of Singapore,2023-05-23,2023,Language,1,Academia,Singapore,Open weights (non-commercial),1,0,Speculative,7000000000.0,,,
+300,CodeT5+,Salesforce,2023-05-20,2023,Language,1,Industry,United States of America,Open weights (unrestricted),1,0,Confident,16000000000.0,,,
+301,ONE-PEACE,"Alibaba,Huazhong University of Science and Technology",2023-05-18,2023,"Multimodal,Vision,Speech,Language",1,Collaboration,China,Open weights (unrestricted),1,0,Speculative,4000000000.0,1.8e+20,,20.2553
+302,CoEdiT-xxl,"University of Minnesota,Grammarly",2023-05-17,2023,Language,1,Collaboration,United States of America,Open weights (non-commercial),1,0,Likely,11000000000.0,,,
+303,Med-PaLM 2,"Google Research,DeepMind",2023-05-16,2023,"Medicine,Language",1,Industry,United States of America,Unreleased,0,0,Likely,340000000000.0,,,
+304,InstructBLIP,"Salesforce Research,Hong Kong University of Science and Technology (HKUST),Nanyang Technological University",2023-05-11,2023,"Multimodal,Language,Vision",1,Collaboration,United States of America,Open weights (non-commercial),1,0,Confident,13000000000.0,1.94e+20,,20.2878
+305,PaLM 2,Google,2023-05-10,2023,Language,1,Industry,United States of America,API access,0,1,Likely,340000000000.0,7.34e+24,5014266.983518871,24.8657
+306,StarCoder,"Hugging Face,ServiceNow,Northeastern University,Mila - Quebec AI (originally Montreal Institute for Learning Algorithms),Carnegie Mellon University (CMU),Johns Hopkins University,Leipzig University,ScaDS.AI,Queen Mary University of London,Roblox,Sea AI Lab,Technion - Israel Institute of Technology,Monash University,CSIRO,Data61,McGill University,Saama,University of British Columbia (UBC),Massachusetts Institute of Technology (MIT),Technical University of Munich,IBM,University of Vermont,UnfoldML,SAP,University of Notre Dame,Columbia University,New York University (NYU),University of Allahabad,Discover Dollar,Toloka,Telefonica,Stanford University,Weizmann Institute of Science,Alan Turing Institute,Wellesley College,EleutherAI,Forschungszentrum Julich",2023-05-09,2023,Language,1,Collaboration,United States of America,Open weights (restricted use),1,0,Confident,15500000000.0,8.46e+22,212217.65075330864,22.9274
+307,ImageBind,Meta AI,2023-05-09,2023,"Multimodal,Vision,Audio,Language,Image generation,Speech",1,Industry,United States of America,Open weights (non-commercial),1,0,Likely,932000000.0,,,
+308,Agile Soccer Robot,Google DeepMind,2023-04-26,2023,Robotics,0,Industry,United States of America,Unreleased,0,0,Unknown,,,,
+309,LLaVA,"University of Wisconsin Madison,Microsoft Research,Columbia University",2023-04-17,2023,"Multimodal,Vision,Language",1,Collaboration,United States of America,Open weights (unrestricted),1,0,Confident,13000000000.0,7.8049e+22,42.46267260692187,22.8924
+310,DINOv2,"Facebook AI Research,INRIA",2023-04-14,2023,Vision,0,Collaboration,United States of America,Open weights (unrestricted),1,0,Confident,1140000000.0,7.41851136e+21,10203.605181058361,21.8703
+311,Incoder-6.7B,"Facebook AI Research,University of Washington,University of California (UC) Berkeley,Carnegie Mellon University (CMU),Toyota Technological Institute at Chicago",2023-04-09,2023,Language,1,Collaboration,United States of America,Open weights (non-commercial),1,0,Confident,6700000000.0,3.00001e+21,3129.0771365574788,21.4771
+312,Segment Anything Model,Meta AI,2023-04-05,2023,Vision,0,Industry,United States of America,Open weights (unrestricted),1,0,Confident,636000000.0,7.8e+21,15888.411228475235,21.8921
+313,BloombergGPT,"Bloomberg,Johns Hopkins University",2023-03-30,2023,Language,1,Collaboration,United States of America,Unreleased,0,0,Confident,50558868480.0,2.36e+23,369586.1352802876,23.3729
+314,VideoMAE V2,"Nanjing University,Shenzhen Institute of Advanced Technology,Shanghai AI Lab",2023-03-29,2023,Video,0,Academia,China,Open weights (unrestricted),1,0,Confident,1000000000.0,9.7e+21,18339.96928068276,21.9868
+315,SigLIP 400M,Google DeepMind,2023-03-27,2023,Vision,0,Industry,United States of America,Open weights (unrestricted),1,0,Confident,400000000.0,4.9467301e+21,,21.6943
+316,Firefly,Adobe,2023-03-21,2023,Image generation,0,Industry,United States of America,Hosted access (no API),0,0,Unknown,,,,
+317,PanGu-Σ,Huawei Noah's Ark Lab,2023-03-20,2023,Language,1,Industry,China,Unreleased,0,0,Confident,1085000000000.0,4.67e+23,,23.6693
+318,Gen-2,Runway,2023-03-20,2023,Video,0,Industry,United States of America,API access,0,0,Unknown,,,,
+319,LEP-AD,"King Abdullah University of Science and Technology (KAUST),Karolinska Institute",2023-03-15,2023,Biology,0,Academia,Saudi Arabia,Unreleased,0,0,Confident,3007381000.0,,,
+320,GPT-4 (Mar 2023),OpenAI,2023-03-15,2023,"Multimodal,Language,Vision",1,Industry,United States of America,API access,0,1,Likely,1800000000000.0,2.1e+25,37334304.976625234,25.3222
+321,GPT-4 (Jun 2023),OpenAI,2023-03-15,2023,"Multimodal,Language,Vision",1,Industry,United States of America,API access,0,1,Likely,1800000000000.0,2.1e+25,,25.3222
+322,Falcon-40B,Technology Innovation Institute,2023-03-15,2023,Language,1,Other,United Arab Emirates,Open weights (unrestricted),1,0,Confident,40000000000.0,2.4e+23,319783.157242365,23.3802
+323,Claude,Anthropic,2023-03-14,2023,Language,1,Industry,United States of America,API access,0,0,Unknown,,,,
+324,PaLM-E,"Google,TU Berlin",2023-03-06,2023,"Robotics,Vision,Language",1,Collaboration,United States of America,Unreleased,0,0,Likely,562000000000.0,,,
+325,AudioGen,"Meta AI,Hebrew University of Jerusalem",2023-03-05,2023,Audio,0,Collaboration,United States of America,Open weights (non-commercial),1,0,Likely,1000000000.0,9.5e+21,9429.74091062958,21.9777
+326,DiT-XL/2,"New York University (NYU),University of California (UC) Berkeley",2023-03-02,2023,Image generation,0,Academia,United States of America,Open weights (non-commercial),1,0,Confident,675000000.0,6e+20,111048.19613085664,20.7782
+327,LLaMA-65B,Meta AI,2023-02-24,2023,Language,1,Industry,United States of America,Open weights (non-commercial),1,0,Confident,65200000000.0,5.5e+23,578026.3043,23.7404
+328,BASIC-L + Lion,"Google,University of California Los Angeles (UCLA)",2023-02-13,2023,Vision,0,Collaboration,United States of America,Unreleased,0,0,Confident,3070000000.0,,,
+329,ViT-22B,Google,2023-02-10,2023,Vision,0,Industry,United States of America,Unreleased,0,0,Confident,21743000000.0,1.93248e+23,285555.57016183576,23.2861
+330,ProteinDT,"University of California (UC) Berkeley,California Institute of Technology,University of Toronto,University of Wisconsin Madison,Texas A&M,NVIDIA,Mila - Quebec AI (originally Montreal Institute for Learning Algorithms)",2023-02-09,2023,"Biology,Language",1,Collaboration,United States of America,Open weights (unrestricted),1,0,Likely,,,,
+331,Gen-1,Runway,2023-02-06,2023,Video,0,Industry,United States of America,API access,0,0,Unknown,,,,
+332,BLIP-2 (Q-Former),Salesforce Research,2023-01-30,2023,"Vision,Language",1,Industry,United States of America,Open weights (unrestricted),1,0,Confident,1480000000.0,1.20000000001e+21,1960.8225382725811,21.0792
+333,DDPM-IP (CelebA),Utrecht University,2023-01-27,2023,Image generation,0,Academia,Netherlands,Open weights (unrestricted),1,0,Likely,295000000.0,3.5e+20,390.4861317667304,20.5441
+334,MusicLM,Google,2023-01-26,2023,Audio,0,Industry,United States of America,Unreleased,0,0,Confident,860000000.0,,,
+335,Ankh_large,"Technical University of Munich,Columbia University",2023-01-16,2023,Biology,0,Academia,Germany,Open weights (non-commercial),1,0,Confident,1900000000.0,6.5e+21,4802.398249072418,21.8129
+336,Nucleotide Transformer,"NVIDIA,Technical University of Munich,InstaDeep",2023-01-15,2023,Biology,0,Collaboration,United States of America,Open weights (non-commercial),1,0,Likely,2500000000.0,8.08e+21,51064.70621394041,21.9074
+337,DreamerV3,"DeepMind,University of Toronto",2023-01-10,2023,Games,0,Collaboration,United Kingdom of Great Britain and Northern Ireland,Unreleased,0,0,Likely,200000000.0,2.2032e+20,,20.3431
+338,VALL-E,Microsoft,2023-01-05,2023,"Audio,Speech",0,Industry,United States of America,Unreleased,0,0,Speculative,353000000.0,1.01e+19,11.40575196486363,19.0043
+339,Hybrid H3-2.7B,"Stanford University,University at Buffalo",2022-12-28,2022,Language,1,Academia,United States of America,Open weights (unrestricted),1,0,Likely,2700000000.0,6.48e+21,,21.8116
+340,CaLM,University of Oxford,2022-12-19,2022,Biology,0,Academia,United Kingdom of Great Britain and Northern Ireland,Unreleased,0,0,Likely,86000000.0,2.9e+19,,19.4624
+341,RT-1,Google,2022-12-13,2022,Robotics,0,Industry,United States of America,Open weights (unrestricted),1,0,Confident,35000000.0,,,
+342,TranceptEve,"University of Oxford,Harvard Medical School",2022-12-10,2022,Biology,0,Academia,United Kingdom of Great Britain and Northern Ireland,Unreleased,0,0,Unknown,,,,
+343,Vega v2,"Wuhan University,JD Explore Academy,Shanghai AI Lab,Nanyang Technological University,Washington University in St Louis,Chongqing University of Posts and Telecommunications,University of Sydney",2022-12-04,2022,Language,1,Academia,China,Unreleased,0,0,Confident,6000000000.0,7.76e+22,,22.8899
+344,DeepNash,DeepMind,2022-12-01,2022,Games,0,Industry,United Kingdom of Great Britain and Northern Ireland,Unreleased,0,0,Unknown,,,,
+345,DiT-XL/2 + Discriminator Guidance,"Korea Advanced Institute of Science and Technology (KAIST),NAVER",2022-11-28,2022,Image generation,0,Collaboration,Korea (Republic of),Unreleased,0,0,Unknown,,,,
+346,Discriminator Guidance,"Korea Advanced Institute of Science and Technology (KAIST),NAVER",2022-11-28,2022,Image generation,0,Collaboration,Korea (Republic of),Open weights (non-commercial),1,0,Confident,,2.1570000001e+20,337.8811363173893,20.3339
+347,ALM 1.0,Beijing Academy of Artificial Intelligence / BAAI,2022-11-28,2022,Language,1,Academia,China,Hosted access (no API),0,0,Speculative,335000000.0,,,
+348,CICERO,Meta AI,2022-11-22,2022,Games,0,Industry,United States of America,Open weights (non-commercial),1,0,Unknown,,,,
+349,AR-LDM,"Alibaba,University of Waterloo,Vector Institute",2022-11-20,2022,Image generation,0,Collaboration,China,Unreleased,0,0,Confident,1500000000.0,5.1e+20,745.8360575556148,20.7076
+350,Fusion in Encoder,Samsung,2022-11-18,2022,Language,1,Industry,Korea (Republic of),Unreleased,0,0,Likely,330000000.0,1.3e+20,233.0630322095263,20.1139
+351,Galactica,Meta AI,2022-11-16,2022,"Language,Biology",1,Industry,United States of America,Open weights (non-commercial),1,0,Likely,120000000000.0,3.24e+23,591076.8943544837,23.5105
+352,EVA-01,"Beijing Academy of Artificial Intelligence / BAAI,Huazhong University of Science and Technology,Zhejiang University (ZJU),Beijing Institute of Technology",2022-11-14,2022,Vision,0,Academia,China,Open weights (unrestricted),1,0,Confident,1011000000.0,1.501e+22,29374.46909439904,22.1764
+353,AltCLIP_M9,Beijing Academy of Artificial Intelligence / BAAI,2022-11-12,2022,"Multimodal,Language,Vision",1,Academia,China,Open weights (unrestricted),1,0,Unknown,,,,
+354,InternImage,"Shanghai AI Lab,Tsinghua University,Nanjing University,SenseTime,Chinese University of Hong Kong (CUHK)",2022-11-10,2022,Vision,0,Collaboration,China,Open weights (unrestricted),1,0,Confident,1080000000.0,2.408e+21,,21.3817
+355,mT0-13B,"Hugging Face,BigScience",2022-11-03,2022,Language,1,Collaboration,United States of America,Open weights (unrestricted),1,0,Confident,13000000000.0,,,
+356,Mogrifier RLSTM (WT2),DeepMind,2022-11-03,2022,Language,1,Industry,United Kingdom of Great Britain and Northern Ireland,Unreleased,0,0,Confident,35000000.0,1.4e+17,,17.1461
+357,eDiff-I,NVIDIA,2022-11-02,2022,Image generation,0,Industry,United States of America,Unreleased,0,0,Likely,9100000000.0,5.46e+19,,19.7372
+358,EnCodec,Meta AI,2022-10-24,2022,Audio,0,Industry,United States of America,Open weights (non-commercial),1,0,Unknown,,,,
+359,U-PaLM (540B),Google,2022-10-20,2022,Language,1,Industry,United States of America,Unreleased,0,1,Confident,540000000000.0,2.53e+24,,24.4031
+360,LMSI-Palm,"Google,University of Illinois Urbana-Champaign (UIUC)",2022-10-20,2022,Language,1,Collaboration,United States of America,Unreleased,0,0,Confident,540000000000.0,,,
+361,Flan-PaLM 540B,Google,2022-10-20,2022,Language,1,Industry,United States of America,Unreleased,0,1,Confident,540000000000.0,2.540000000001e+24,,24.4048
+362,GenSLM,"University of Chicago,NVIDIA,Harvard University,Cerebras Systems,Technical University of Munich,California Institute of Technology",2022-10-11,2022,Biology,0,Collaboration,United States of America,Open weights (unrestricted),1,0,Confident,25000000000.0,1.42e+21,,21.1523
+363,Diplodocus,"Meta AI,Massachusetts Institute of Technology (MIT)",2022-10-11,2022,Games,0,Collaboration,United States of America,Open weights (non-commercial),1,0,Unknown,,,,
+364,Phenaki,"University College London (UCL),University of Michigan,Google Brain",2022-10-05,2022,Video,0,Collaboration,United Kingdom of Great Britain and Northern Ireland,Unreleased,0,0,,1800000000.0,,,
+365,AlphaTensor,DeepMind,2022-10-05,2022,"Other,Games,Mathematics",0,Industry,United Kingdom of Great Britain and Northern Ireland,Unreleased,0,0,Confident,,7.1414784e+20,,20.8538
+366,DiffDock,Massachusetts Institute of Technology (MIT),2022-10-04,2022,Biology,0,Academia,United States of America,Open weights (unrestricted),1,0,Likely,20240000.0,7.2e+19,,19.8573
+367,Make-A-Video,Meta AI,2022-09-29,2022,Video,0,Industry,United States of America,Hosted access (no API),0,0,Unknown,,,,
+368,Whisper,OpenAI,2022-09-21,2022,Speech,0,Industry,United States of America,Open weights (unrestricted),1,0,Likely,1550000000.0,4.2072663e+21,,21.624
+369,SauTech,"Saudi Data and Artificial Intelligence Authority,Saudi Company for Artificial Intelligence",2022-09-14,2022,"Speech,Audio",0,Collaboration,Saudi Arabia,Hosted access (no API),0,0,Unknown,,,,
+370,PaLI,Google,2022-09-14,2022,"Language,Vision,Multimodal",1,Industry,United States of America,Unreleased,0,0,Likely,16900000000.0,1.69e+23,50878.10777366616,23.2279
+371,BEIT-3,Microsoft,2022-08-22,2022,"Multimodal,Vision,Language",1,Industry,United States of America,Open weights (unrestricted),1,0,Likely,1900000000.0,7e+19,,19.8451
+372,BlenderBot 3,"McGill University,Meta AI,Mila - Quebec AI (originally Montreal Institute for Learning Algorithms)",2022-08-10,2022,Language,1,Collaboration,Canada,Open weights (non-commercial),1,0,Likely,175000000000.0,4.3e+23,,23.6335
+373,GLM-130B,Tsinghua University,2022-08-04,2022,Language,1,Academia,China,Open weights (non-commercial),1,0,Confident,130000000000.0,3.5490054945e+23,820296.6313095269,23.5501
+374,AlexaTM 20B,Amazon,2022-08-02,2022,Language,1,Industry,United States of America,API access,0,0,Confident,19750000000.0,2.04374016e+23,267943.21130997164,23.3104
+375,OmegaPLM,"Massachusetts Institute of Technology (MIT),Westlake University",2022-07-22,2022,Biology,0,Academia,United States of America,Unreleased,0,0,Confident,670000000.0,1.03514112e+22,52400.32118528479,22.015
+376,ESM2-15B,"Meta AI,New York University (NYU),Stanford University,Massachusetts Institute of Technology (MIT)",2022-07-21,2022,Biology,0,Collaboration,United States of America,Open weights (unrestricted),1,0,Confident,15000000000.0,7.35000000001e+22,163467.82019979745,22.8663
+377,BLOOM-176B,"Hugging Face,BigScience",2022-07-11,2022,Language,1,Collaboration,United States of America,Open weights (restricted use),1,0,Confident,176247271424.0,3.65664e+23,995819.1171,23.5631
+378,NLLB,Meta AI,2022-07-06,2022,Language,1,Industry,United States of America,Open weights (unrestricted),1,0,Confident,54500000000.0,1.751113728e+22,50667.25034038439,22.2433
+379,CodeT5-large,Salesforce,2022-07-05,2022,Language,1,Industry,United States of America,Open weights (unrestricted),1,0,Likely,770000000.0,2.72e+21,4478.145684414144,21.4346
+380,Minerva (540B),Google,2022-06-29,2022,Language,1,Industry,United States of America,Unreleased,0,1,Confident,540350000000.0,2.7415e+24,,24.438
+381,ProGen2-xlarge,"Salesforce Research,Columbia University,Johns Hopkins University",2022-06-27,2022,Biology,0,Collaboration,United States of America,Open weights (unrestricted),1,0,Confident,6400000000.0,1.35e+22,11850.178410269727,22.1303
+382,Parti,Google Research,2022-06-22,2022,Image generation,0,Industry,United States of America,Unreleased,0,0,Confident,20000000000.0,5.09607936e+23,427178.712,23.7072
+383,CoCa,Google Research,2022-06-14,2022,Vision,0,Industry,United States of America,Unreleased,0,0,Confident,2100000000.0,7.3e+22,78043.3756911775,22.8633
+384,MetaLM,Microsoft Research,2022-06-13,2022,"Multimodal,Language,Vision",1,Industry,United States of America,Unreleased,0,0,Speculative,,,,
+385,DITTO,"Tsinghua University,Apple,Westlake University,Chinese University of Hong Kong (CUHK)",2022-06-06,2022,Language,1,Collaboration,China,Unreleased,0,0,Confident,750000000.0,3.31776e+18,,18.5208
+386,Diffusion-GAN,"UT Austin,Microsoft",2022-06-05,2022,Image generation,0,Collaboration,United States of America,Open weights (unrestricted),1,0,Unknown,,,,
+387,CogVideo,"Tsinghua University,Beijing Academy of Artificial Intelligence / BAAI",2022-05-29,2022,Video,0,Academia,China,Open weights (unrestricted),1,0,Speculative,9400000000.0,,,
+388,Tranception,"University of Oxford,Harvard Medical School,Cohere",2022-05-27,2022,Biology,0,Collaboration,United Kingdom of Great Britain and Northern Ireland,Open weights (unrestricted),1,0,Confident,700000000.0,7.24e+21,15247.43608848737,21.8597
+389,GPT-2 Medium (FlashAttention),"Stanford University,University at Buffalo",2022-05-27,2022,Language,1,Academia,United States of America,Open weights (unrestricted),1,0,Confident,355000000.0,8.9280922e+20,,20.9508
+390,Imagen,Google Brain,2022-05-23,2022,Image generation,0,Industry,United States of America,API access,0,0,Likely,7762000000.0,1.46e+22,7915.823806150154,22.1644
+391,SimCSE,"Princeton University,Tsinghua University",2022-05-18,2022,Language,1,Academia,United States of America,Open weights (unrestricted),1,0,Likely,,,,
+392,Gato,DeepMind,2022-05-12,2022,"Multimodal,Robotics,Games,Language",1,Industry,United Kingdom of Great Britain and Northern Ireland,Unreleased,0,0,Confident,1180000000.0,4.02e+21,3523.0649800752253,21.6042
+393,UL2,"Google Research,Google Brain",2022-05-10,2022,Language,1,Industry,United States of America,Open weights (unrestricted),1,0,Confident,20000000000.0,1.2e+23,126785.76203549477,23.0792
+394,DeBERTaV3large + KEAR,Microsoft,2022-05-04,2022,Language,1,Industry,United States of America,Unreleased,0,0,Confident,418000000.0,,,
+395,OPT-175B,Meta AI,2022-05-02,2022,Language,1,Industry,United States of America,Open weights (non-commercial),1,0,Confident,175000000000.0,4.3e+23,733634.637,23.6335
+396,Flamingo,DeepMind,2022-04-29,2022,"Multimodal,Vision,Language,Video",1,Industry,United Kingdom of Great Britain and Northern Ireland,Unreleased,0,0,Confident,80000000000.0,2.18972000000001e+23,183423.16330597224,23.3404
+397,XMC-GAN,Google Research,2022-04-14,2022,Image generation,0,Industry,United States of America,Unreleased,0,0,Unknown,,,,
+398,Sparse all-MLP,Meta AI,2022-04-14,2022,Language,1,Industry,United States of America,Unreleased,0,0,Confident,9410000000.0,5.32224e+20,,20.7261
+399,Stable Diffusion (LDM-KL-8-G),"Runway,Ludwig Maximilian University of Munich,Heidelberg University",2022-04-13,2022,Image generation,0,Collaboration,United States of America,Open weights (unrestricted),1,0,Confident,1450000000.0,5.0000000000000004e+22,111248.21698072631,22.699
+400,BERT-RBP,Waseda University,2022-04-07,2022,Biology,0,Academia,Japan,Open weights (non-commercial),1,0,Confident,110000000.0,1.4e+20,,20.1461
+401,DALL·E 2,OpenAI,2022-04-06,2022,Image generation,0,Industry,United States of America,API access,0,0,Speculative,3500000000.0,3.3695784e+23,,23.5276
+402,PaLM (540B),Google Research,2022-04-04,2022,Language,1,Industry,United States of America,Unreleased,0,1,Confident,540350000000.0,2.5272e+24,3060364.5969860666,24.4026
+403,Chinchilla,DeepMind,2022-03-29,2022,Language,1,Industry,United Kingdom of Great Britain and Northern Ireland,Unreleased,0,0,Confident,70000000000.0,5.76e+23,,23.7604
+404,Make-A-Scene,Meta AI,2022-03-24,2022,Image generation,0,Industry,United States of America,Unreleased,0,0,Likely,4000000000.0,6.4172851e+21,,21.8074
+405,"Segatron-XL large, M=384 + HCP","Microsoft Research,University of Waterloo",2022-03-21,2022,Language,1,Collaboration,United States of America,Unreleased,0,0,Confident,256999999.99999997,2.65e+19,,19.4232
+406,GPT-3.5 (davinci-002),OpenAI,2022-03-15,2022,Language,1,Industry,United States of America,API access,0,1,Speculative,,2.578e+24,4897551.634095244,24.4113
+407,ViT-G (model soup),"University of Washington,Columbia University,Google,Meta AI,Tel Aviv University",2022-03-10,2022,Vision,0,Collaboration,United States of America,Open weights (non-commercial),1,0,Confident,1843000000.0,3.4e+21,,21.5315
+408,MegaSyn,Collaborations Pharmaceuticals,2022-03-07,2022,Medicine,0,Industry,United States of America,Hosted access (no API),0,0,Unknown,,,,
+409,Statement Curriculum Learning,OpenAI,2022-03-02,2022,"Language,Mathematics",1,Industry,United States of America,API access,0,0,Likely,774000000.0,1.7901648e+22,,22.2529
+410,DeepNet,Microsoft Research,2022-03-01,2022,Language,1,Industry,United States of America,Unreleased,0,0,Confident,3200000000.0,,,
+411,PolyCoder,Carnegie Mellon University (CMU),2022-02-26,2022,Language,1,Academia,United States of America,Open weights (unrestricted),1,0,Likely,2700000000.0,1.1e+21,,21.0414
+412,FourCastNet,"NVIDIA,NERSC, Lawrence Berkeley National Laboratory,University of Michigan,Rice University,California Institute of Technology,Purdue University",2022-02-22,2022,Earth science,0,Collaboration,United States of America,Unreleased,0,0,Confident,,3.4504704e+20,,20.5379
+413,ST-MoE,"Google,Google Brain,Google Research",2022-02-17,2022,Language,1,Industry,United States of America,Unreleased,0,0,Likely,269000000000.0,2.9e+23,,23.4624
+414,Midjourney V1,Midjourney,2022-02-15,2022,Image generation,0,Industry,United States of America,Hosted access (no API),0,0,Unknown,,,,
+415,ProteinBERT,"Hebrew University of Jerusalem,Ben-Gurion University of the Negev,Deep Trading",2022-02-10,2022,Biology,0,Collaboration,Israel,Open weights (unrestricted),1,0,Confident,16000000.0,6.5e+19,,19.8129
+416,LaMDA,Google,2022-02-10,2022,Language,1,Industry,United States of America,Unreleased,0,0,Confident,137000000000.0,3.55e+23,229949.98625999544,23.5502
+417,GPT-NeoX-20B,EleutherAI,2022-02-09,2022,Language,1,Other,United States of America,Open weights (unrestricted),1,0,Confident,20000000000.0,9.31627008e+22,184272.80736002637,22.9692
+418,MaskGIT (ImageNet),Google Research,2022-02-08,2022,Image generation,0,Industry,United States of America,,,0,Confident,227000000.0,,,
+419,RETRO-7B,DeepMind,2022-02-07,2022,Language,1,Industry,United Kingdom of Great Britain and Northern Ireland,Unreleased,0,0,Confident,7500000000.0,1.68e+22,,22.2253
+420,AlphaCode,DeepMind,2022-02-02,2022,Language,1,Industry,United Kingdom of Great Britain and Northern Ireland,Unreleased,0,0,Confident,41100000000.0,2.38010000000001e+23,,23.3766
+421,InstructGPT 175B,OpenAI,2022-01-27,2022,Language,1,Industry,United States of America,API access,0,0,Confident,175000000000.0,3.19181e+23,,23.504
+422,InstructGPT 6B,OpenAI,2022-01-27,2022,Language,1,Industry,United States of America,API access,0,0,Confident,6000000000.0,,,
+423,InstructGPT 1.3B,OpenAI,2022-01-27,2022,Language,1,Industry,United States of America,API access,0,0,Confident,1300000000.0,,,
+424,OntoProtein,Zhejiang University (ZJU),2022-01-23,2022,"Biology,Language",1,Academia,China,Open weights (unrestricted),1,0,Likely,420000000.0,,,
+425,AbLang (heavy sequences),University of Oxford,2022-01-22,2022,Biology,0,Academia,United Kingdom of Great Britain and Northern Ireland,Open weights (unrestricted),1,0,Confident,355000000.0,,,
+426,data2vec (vision),Meta AI,2022-01-20,2022,Vision,0,Industry,United States of America,Open weights (unrestricted),1,0,,705134592.0,,,
+427,data2vec (speech),Meta AI,2022-01-20,2022,Speech,0,Industry,United States of America,Open weights (unrestricted),1,0,,705134592.0,,,
+428,data2vec (language),Meta AI,2022-01-20,2022,Language,1,Industry,United States of America,Open weights (unrestricted),1,0,Likely,705134592.0,,,
+429,Detic,"Meta AI,University of Texas at Austin",2022-01-07,2022,Vision,0,Collaboration,United States of America,Open weights (unrestricted),1,0,Speculative,88000000.0,2.34399744e+19,191.44581825616135,19.37
+430,ERNIE-ViLG,Baidu,2021-12-31,2021,"Multimodal,Image generation,Vision,Language",1,Industry,China,Unreleased,0,0,,10000000000.0,,,
+431,ERNIE 3.0 Titan,"Baidu,Peng Cheng Laboratory",2021-12-23,2021,Language,1,Collaboration,China,Hosted access (no API),0,1,Confident,260000000000.0,1.0421e+24,,24.0179
+432,XGLM-7.5B,"Meta AI,Facebook AI Research",2021-12-20,2021,Language,1,Industry,United States of America,Open weights (non-commercial),1,0,Confident,7500000000.0,2.25e+22,104152.22590136188,22.3522
+433,LDM-1.45B,"Heidelberg University,Runway",2021-12-20,2021,Image generation,0,Collaboration,Germany,Open weights (unrestricted),1,0,Confident,1450000000.0,,,
+434,Contriever,"Meta AI,University College London (UCL),PSL University,Université Grenoble Alpes",2021-12-16,2021,Language,1,Collaboration,United States of America,Open weights (non-commercial),1,0,Likely,110000000.0,1.57e+20,,20.1959
+435,LongT5,Google Research,2021-12-15,2021,Language,1,Industry,United States of America,Open weights (unrestricted),1,0,Confident,3000000000.0,,,
+436,GLaM,Google,2021-12-13,2021,Language,1,Industry,United States of America,Unreleased,0,0,Confident,1200000000000.0,3.6363112434e+23,541437.4162400038,23.5607
+437,Gopher (280B),DeepMind,2021-12-08,2021,Language,1,Industry,United Kingdom of Great Britain and Northern Ireland,Unreleased,0,1,Confident,280000000000.0,6.31e+23,640616.8522346151,23.8
+438,Student of Games,DeepMind,2021-12-06,2021,Games,0,Industry,United Kingdom of Great Britain and Northern Ireland,Unreleased,0,0,Speculative,,3.6679273004682866e+22,,22.5644
+439,T-NLRv5 XXL,Microsoft,2021-12-03,2021,Language,1,Industry,United States of America,Unreleased,0,0,Confident,5400000000.0,,,
+440,NÜWA,"Microsoft Research,Peking University",2021-11-24,2021,"Multimodal,Vision,Image generation,Video,Language",1,Collaboration,United States of America,Unreleased,0,0,Confident,870000000.0,7.24598784e+21,,21.8601
+441,Florence,Microsoft,2021-11-22,2021,Vision,0,Industry,United States of America,Unreleased,0,0,Confident,893000000.0,4.831e+22,106950.61569328007,22.684
+442,BASIC-L,Google,2021-11-19,2021,Vision,0,Industry,United States of America,Unreleased,0,0,Likely,3070000000.0,4.12e+22,1684.770712126102,22.6149
+443,Swin Transformer V2 (SwinV2-G),Microsoft Research Asia,2021-11-18,2021,"Vision,Video",0,Industry,China,Open weights (unrestricted),1,0,Confident,3000000000.0,1.1e+21,2326.6636503781665,21.0414
+444,ViT-G/14 (LiT),Google Research,2021-11-15,2021,Vision,0,Industry,United States of America,Unreleased,0,0,Confident,3005000000.0,,,
+445,Masked Autoencoders ViT-H,Facebook AI Research,2021-11-11,2021,Vision,0,Industry,United States of America,Open weights (non-commercial),1,0,Speculative,632000000.0,4.6e+20,,20.6628
+446,Projected GAN,Heidelberg University,2021-11-01,2021,Image generation,0,Academia,Germany,Open weights (unrestricted),1,0,Confident,,1.05e+19,,19.0212
+447,CodeT5-base,"Salesforce,Nanyang Technological University",2021-11-01,2021,Language,1,Collaboration,United States of America,Open weights (unrestricted),1,0,Likely,220000000.0,1.56e+21,3114.8690946174474,21.1931
+448,S4,Stanford University,2021-10-31,2021,Language,1,Academia,United States of America,Open weights (unrestricted),1,0,Likely,249000000.00000003,7.8328627e+19,,19.8939
+449,EfficientZero,"Tsinghua University,University of California (UC) Berkeley,Shanghai Qi Zhi institute",2021-10-30,2021,Games,0,Academia,China,Unreleased,0,0,Unknown,,,,
+450,Eve,"Harvard Medical School,University of Oxford",2021-10-27,2021,Biology,0,Academia,United States of America,Unreleased,0,0,Likely,15010300.0,,,
+451,base LM+GNN+kNN,"Shannon.AI,Nanjing University,Nanyang Technological University,Zhejiang University (ZJU)",2021-10-17,2021,Language,1,Collaboration,China,Open weights (unrestricted),1,0,Confident,274000000.0,5.2587456e+19,,19.7209
+452,Yuan 1.0,Inspur,2021-10-12,2021,Language,1,Industry,China,API access,0,1,Confident,245730000000.0,3.5380000000001e+23,591664.5798708292,23.5488
+453,Megatron-Turing NLG 530B,"Microsoft,NVIDIA",2021-10-11,2021,Language,1,Industry,United States of America,Unreleased,0,1,Confident,530000000000.0,8.586e+23,3848505.6256471733,23.9338
+454,AlphaFold-Multimer,"Google DeepMind,DeepMind",2021-10-04,2021,Biology,0,Industry,United States of America,Open weights (unrestricted),1,0,Confident,,4.35e+21,7966.2330131223,21.6385
+455,Turing ULRv5,Microsoft,2021-09-28,2021,Language,1,Industry,United States of America,Hosted access (no API),0,0,Confident,2200000000.0,2.8983951e+22,,22.4622
+456,TrOCR,"Beihang University,Microsoft Research Asia",2021-09-21,2021,Vision,0,Collaboration,China,Open weights (unrestricted),1,0,Confident,558000000.0,,,
+457,PLATO-XL,Baidu,2021-09-20,2021,Language,1,Industry,China,Open weights (unrestricted),1,0,Confident,11000000000.0,9.9e+21,,21.9956
+458,HyperCLOVA 204B,NAVER,2021-09-10,2021,Language,1,Industry,Korea (Republic of),Hosted access (no API),0,1,Speculative,204000000000.0,2.0000000001e+23,441770.0038182093,23.301
+459,PermuteFormer,Peking University,2021-09-06,2021,Language,1,Academia,China,Unreleased,0,0,Speculative,149697024.0,2.775e+18,,18.4433
+460,MEB,Microsoft,2021-09-04,2021,"Search,Language",1,Industry,United States of America,Hosted access (no API),0,0,Confident,135000000000.0,,,
+461,FLAN 137B,Google Research,2021-09-03,2021,Language,1,Industry,United States of America,Unreleased,0,1,Confident,137000000000.0,2.047e+24,,24.3111
+462,XLMR-XXL,Facebook AI Research,2021-08-17,2021,Language,1,Industry,United States of America,Open weights (unrestricted),1,0,Confident,10700000000.0,3.366e+22,,22.5271
+463,DNABERT,Northeastern University,2021-08-15,2021,Biology,0,Academia,United States of America,Open weights (unrestricted),1,0,Confident,110000000.0,1.07e+20,,20.0294
+464,Zidong Taichu,"Chinese Academy of Sciences,Wuhan AI Computing Center",2021-08-11,2021,"Multimodal,Speech,Vision,Language",1,Collaboration,China,Open weights (unrestricted),1,0,Confident,3200000000.0,8.016e+20,,20.904
+465,Jurassic-1-Jumbo,AI21 Labs,2021-08-11,2021,Language,1,Industry,Israel,API access,0,1,Confident,178000000000.0,3.7e+23,836700.050829598,23.5682
+466,W2v-BERT,"Google Brain,Massachusetts Institute of Technology (MIT)",2021-08-07,2021,Speech,0,Collaboration,United States of America,Unreleased,0,0,Confident,1000000000.0,,,
+467,YOLOX-X,Megvii Inc,2021-08-06,2021,Vision,0,Industry,China,Open weights (unrestricted),1,0,Likely,99100000.0,6.34275e+20,,20.8023
+468,6-Act Tether,"Facebook AI Research,Georgia Institute of Technology",2021-08-03,2021,Robotics,0,Collaboration,United States of America,Open weights (unrestricted),1,0,Confident,5000000.0,,,
+469,SEER,"Facebook AI Research,INRIA",2021-07-29,2021,Vision,0,Collaboration,United States of America,Open weights (non-commercial),1,0,Confident,1300000000.0,1.8e+22,34114.252463690456,22.2553
+470,HuBERT,Facebook AI Research,2021-07-27,2021,Speech,0,Industry,United States of America,Open weights (unrestricted),1,0,Speculative,1000000000.0,5.54e+21,,21.7435
+471,GOAT,DeepMind,2021-07-27,2021,Games,0,Industry,United Kingdom of Great Britain and Northern Ireland,Unreleased,0,0,Speculative,3472816.0,2.412e+22,84799.78517435073,22.3824
+472,Codex,OpenAI,2021-07-07,2021,Language,1,Industry,United States of America,API access,0,0,Likely,12000000000.0,7.344e+22,,22.8659
+473,ERNIE 3.0,Baidu,2021-07-05,2021,Language,1,Industry,China,Open weights (unrestricted),1,0,Confident,10000000000.0,2.25e+22,39104.26710360624,22.3522
+474,Adaptive Input Transformer + RD,"Microsoft Research Asia,Soochow University",2021-06-28,2021,Language,1,Collaboration,China,Unreleased,0,0,Likely,247000000.00000003,8.58e+19,,19.9335
+475,Fold2Seq,"IBM,Texas A&M",2021-06-24,2021,Biology,0,Collaboration,United States of America,Unreleased,0,0,Speculative,12427904.0,1.4e+17,,17.1461
+476,EfficientNetV2-XL,"Google,Google Brain",2021-06-23,2021,Vision,0,Industry,United States of America,Open weights (unrestricted),1,0,Confident,208000000.0,9.56e+19,104.34013401561589,19.9805
+477,StyleGAN3-T,"NVIDIA,Aalto University",2021-06-21,2021,Image generation,0,Collaboration,United States of America,Open weights (non-commercial),1,0,Confident,2230000.0,1.70208e+21,,21.231
+478,StyleGAN3-R,"NVIDIA,Aalto University",2021-06-21,2021,Image generation,0,Collaboration,United States of America,Open weights (non-commercial),1,0,Confident,1580000.0,2.42784e+21,,21.3852
+479,Denoising Diffusion Probabilistic Models (LSUN Bedroom),University of California (UC) Berkeley,2021-06-11,2021,Vision,0,Academia,United States of America,Open weights (unrestricted),1,0,Confident,256000000.0,7.840125000000001e+19,436.308484475363,19.8943
+480,ALIGN,Google Research,2021-06-11,2021,"Multimodal,Vision,Language",1,Industry,United States of America,Unreleased,0,0,Confident,820000000.0,2.598670000001e+22,32852.91660437908,22.4148
+481,DeBERTa,Microsoft,2021-06-10,2021,Language,1,Industry,United States of America,Open weights (unrestricted),1,0,Confident,1500000000.0,2.588e+22,6682.2289986716,22.413
+482,EMDR,"Mila - Quebec AI (originally Montreal Institute for Learning Algorithms),McGill University,DeepMind",2021-06-09,2021,Language,1,Collaboration,Canada,Open weights (unrestricted),1,0,Confident,440000000.0,1.91e+21,2773.3124307816734,21.281
+483,CoAtNet,"Google,Google Research,Google Brain",2021-06-09,2021,Vision,0,Industry,United States of America,Unreleased,0,0,Confident,2440000000.0,4.27e+22,1887.1635925610951,22.6304
+484,ViT-G/14,"Google Brain,Google Research",2021-06-08,2021,Vision,0,Industry,United States of America,Unreleased,0,0,Confident,1843000000.0,5.85e+22,3847.8613922131217,22.7672
+485,ByT5-XXL,"Google,Google Research",2021-05-28,2021,Language,1,Industry,United States of America,Open weights (unrestricted),1,0,Likely,12900000000.0,8.1e+22,92453.37635669747,22.9085
+486,Transformer local-attention (NesT-B),"Google Cloud,Google Research",2021-05-26,2021,Vision,0,Industry,United States of America,Open weights (unrestricted),1,0,Confident,90100000.0,2.40576e+19,,19.3813
+487,CogView,"Tsinghua University,Alibaba DAMO Academy",2021-05-26,2021,Image generation,0,Collaboration,China,Open weights (unrestricted),1,0,Likely,4000000000.0,2.68e+22,60071.706664791694,22.4281
+488,MedBERT,"Peng Cheng Laboratory,University of Texas at Houston",2021-05-20,2021,Medicine,0,Academia,China,Unreleased,0,0,Likely,17000000.0,9.47e+18,62.48645493610712,18.9763
+489,ADM,OpenAI,2021-05-11,2021,Image generation,0,Industry,United States of America,Open weights (non-commercial),1,0,Confident,559000000.0,6.2e+21,11274.484326547095,21.7924
+490,ProtT5-XL-U50,"Technical University of Munich,Med AI Technology,NVIDIA,Oak Ridge National Laboratory,Google,Seoul National University",2021-05-04,2021,Biology,0,Collaboration,Germany,Open weights (non-commercial),1,0,Confident,3000000000.0,1.8704498688e+22,,22.2719
+491,ProtBERT-BFD,"Technical University of Munich,NVIDIA,Seoul National University,Google,Oak Ridge National Laboratory,Med AI Technology",2021-05-04,2021,Biology,0,Collaboration,Germany,Open weights (unrestricted),1,0,Confident,420000000.0,3.9e+22,45350.735956744036,22.5911
+492,PLUG,Alibaba,2021-04-19,2021,Language,1,Industry,China,Hosted access (no API),0,0,Confident,27000000000.0,3.5997696e+22,108672.69136370042,22.5563
+493,Unicorn,Allen Institute for AI,2021-03-24,2021,Language,1,Other,United States of America,Open weights (unrestricted),1,0,Confident,11000000000.0,,,
+494,M6-T,Alibaba,2021-03-05,2021,"Multimodal,Language,Vision",1,Industry,China,Unreleased,0,0,Likely,1002700000000.0,5.5e+21,13156.86123531961,21.7404
+495,Generative BST,Facebook AI Research,2021-03-05,2021,Language,1,Industry,United States of America,Open weights (unrestricted),1,0,Confident,9431810048.0,1.449e+22,,22.1611
+496,Meta Pseudo Labels,"Google Brain,Google AI",2021-03-01,2021,Vision,0,Industry,United States of America,Unreleased,0,0,Likely,480000000.0,4.79e+22,53844.28059190435,22.6803
+497,SRU++ Large,ASAPP,2021-02-24,2021,Language,1,Industry,United States of America,Open weights (unrestricted),1,0,Confident,234000000.0,2.1173704e+19,,19.3258
+498,Rational DQN Average,TU Darmstadt,2021-02-18,2021,Games,0,Academia,Germany,Unreleased,0,0,,1683456.0,,,
+499,MSA Transformer,"Facebook AI Research,University of California (UC) Berkeley,New York University (NYU)",2021-02-13,2021,Biology,0,Collaboration,United States of America,Open weights (unrestricted),1,0,Likely,100000000.0,5.49e+21,13256.937301517895,21.7396
+500,top-down frozen classifier,"University of Edinburgh,Toshiba Cambridge Research Laboratory",2021-02-09,2021,Speech,0,Collaboration,United Kingdom of Great Britain and Northern Ireland,Unreleased,0,0,Unknown,,,,
+501,DLWP,"University of Washington,Microsoft Research",2021-02-09,2021,Earth science,0,Collaboration,United States of America,Unreleased,0,0,Confident,2676376.0,5.6845152e+18,,18.7547
+502,DeiT-B,"Meta AI,Sorbonne University",2021-01-15,2021,Vision,0,Collaboration,United States of America,Open weights (unrestricted),1,0,Confident,86000000.0,7.884e+19,,19.8967
+503,Switch,Google,2021-01-11,2021,Language,1,Industry,United States of America,Open weights (unrestricted),1,1,Confident,1571000000000.0,8.22e+22,145100.89767585773,22.9149
+504,BigSSL,"Google,Apple",2021-01-10,2021,Speech,0,Industry,United States of America,Unreleased,0,0,,8000000000.0,,,
+505,DALL-E,OpenAI,2021-01-05,2021,Image generation,0,Industry,United States of America,API access,0,0,Likely,12000000000.0,4.7e+22,125818.6901,22.6721
+506,CLIP (ViT L/14@336px),OpenAI,2021-01-05,2021,"Multimodal,Vision,Language,Video",1,Industry,United States of America,Open weights (unrestricted),1,0,Confident,370000000.0,1.05e+22,24638.518413409514,22.0212
+507,CLIP (ResNet-50),OpenAI,2021-01-05,2021,"Multimodal,Vision,Language,Video",1,Industry,United States of America,Open weights (unrestricted),1,0,Likely,88600000.0,,,
+508,ERNIE-Doc (247M),Baidu,2020-12-31,2020,Language,1,Industry,China,Open weights (unrestricted),1,0,Confident,247000000.00000003,3.0302798e+19,,19.4815
+509,CT-MoS (WT2),"Google,National Tsing Hua University",2020-12-25,2020,Language,1,Collaboration,United States of America,Unreleased,0,0,Confident,45000000.0,5.4e+17,,17.7324
+510,DensePhrases,"Korea University,Princeton University",2020-12-23,2020,Language,1,Academia,Korea (Republic of),Open weights (unrestricted),1,0,Speculative,,2.09952e+18,,18.3221
+511,VQGAN + CLIP,Heidelberg University,2020-12-17,2020,Image generation,0,Academia,Germany,Open weights (unrestricted),1,0,Unknown,,,,
+512,ESM1b,"Facebook AI Research,New York University (NYU)",2020-12-15,2020,Biology,0,Collaboration,United States of America,Open weights (unrestricted),1,0,Confident,652400000.0,5.1e+21,924.3248891034536,21.7076
+513,CPM-Large,"Tsinghua University,Beijing Academy of Artificial Intelligence / BAAI",2020-12-01,2020,Language,1,Academia,China,Open weights (unrestricted),1,0,Confident,2600000000.0,2.6052e+20,7340.099044719796,20.4158
+514,AlphaFold 2,DeepMind,2020-11-30,2020,Biology,0,Industry,United Kingdom of Great Britain and Northern Ireland,Open weights (unrestricted),1,0,Likely,93000000.0,2.99e+21,3841.772612266474,21.4757
+515,KEPLER,"Tsinghua University,Mila - Quebec AI (originally Montreal Institute for Learning Algorithms),HEC,CIFAR AI Research,Princeton University,University of Montreal / Université de Montréal",2020-11-23,2020,Language,1,Collaboration,China,Unreleased,0,0,Confident,125000000.0,1.66e+21,,21.2201
+516,wave2vec 2.0 LARGE,Facebook,2020-10-22,2020,Speech,0,Industry,United States of America,Open weights (unrestricted),1,0,Confident,317000000.0,3.87072e+21,5021.241075362514,21.5878
+517,ViT-Huge/14,"Google Brain,Google Research",2020-10-22,2020,Vision,0,Industry,United States of America,Open weights (unrestricted),1,0,Confident,632000000.0,4.262e+21,6724.023241261178,21.6296
+518,ViT-Base/32,Google Brain,2020-10-22,2020,Vision,0,Industry,United States of America,Open weights (unrestricted),1,0,,86000000.0,,,
+519,German ELECTRA Large,"deepset,Bayerische Staatsbibliothek Muenchen",2020-10-21,2020,Language,1,Collaboration,Germany,Open weights (unrestricted),1,0,Confident,335000000.0,1.42829568e+21,2392.2883349806307,21.1548
+520,mT5-XXL,"Google,Google Research",2020-10-20,2020,Language,1,Industry,United States of America,Open weights (unrestricted),1,1,Confident,13000000000.0,8.2e+22,179442.0291399545,22.9138
+521,Conformer + Wav2vec 2.0 + Noisy Student,"Google,Google Research,Google Brain",2020-10-20,2020,Speech,0,Industry,United States of America,Unreleased,0,0,Confident,1000000000.0,7.6e+21,9449.541661137231,21.8808
+522,LUKE,"University of Washington,National Institute of Informatics",2020-10-02,2020,Language,1,Academia,United States of America,Open weights (unrestricted),1,0,Likely,483000000.0,1.8144e+22,4186.383565732907,22.2587
+523,ProBERTa,"University of Illinois Urbana-Champaign (UIUC),Reed College",2020-09-01,2020,Biology,0,Academia,United States of America,Open weights (non-commercial),1,0,Confident,44000000.0,9.72e+18,26.206992435694062,18.9877
+524,ERNIE-GEN (large),Baidu,2020-08-06,2020,Language,1,Industry,China,Open weights (non-commercial),1,0,Speculative,340000000.0,2e+20,,20.301
+525,DeLighT,"University of Washington,Allen Institute for AI,Facebook AI Research",2020-08-03,2020,Language,1,Collaboration,United States of America,Unreleased,0,0,Likely,99000000.0,3.8016e+18,,18.58
+526,EfficientDet,Google Brain,2020-07-27,2020,Vision,0,Industry,United States of America,Open weights (unrestricted),1,0,,77000000.0,,,
+527,Hopfield Networks (2020),"Johannes Kepler University Linz,Institute of Advanced Research in Artificial Intelligence,University of Oslo",2020-07-16,2020,"Biology,Vision,Language,Medicine",1,Academia,Austria,Open weights (unrestricted),1,0,Unknown,,,,
+528,SemExp,"Carnegie Mellon University (CMU),Facebook AI Research",2020-07-02,2020,Robotics,0,Collaboration,United States of America,Open weights (unrestricted),1,0,Unknown,,,,
+529,GShard (dense),Google,2020-06-30,2020,Language,1,Industry,United States of America,Unreleased,0,1,Confident,2300000000.0,4.765e+22,266200.0315979732,22.6781
+530,GPT-3 175B (davinci),OpenAI,2020-05-28,2020,Language,1,Industry,United States of America,API access,0,1,Confident,174600000000.0,3.14e+23,2116866.2428390156,23.4969
+531,DETR,Facebook,2020-05-26,2020,Vision,0,Industry,United States of America,Open weights (unrestricted),1,0,Confident,60000000.0,4e+20,959.9097627206426,20.6021
+532,Retrieval-Augmented Generator,"Facebook,New York University (NYU),University College London (UCL)",2020-05-22,2020,Language,1,Collaboration,United States of America,Open weights (unrestricted),1,0,Confident,626000000.0,,,
+533,Conformer,Google,2020-05-16,2020,Speech,0,Industry,United States of America,Unreleased,0,0,Confident,118800000.0,,,
+534,ContextNet,Google,2020-05-07,2020,Speech,0,Industry,United States of America,Unreleased,0,0,Likely,112700000.0,,,
+535,NAS+ESS (23M),"Northeastern University (China),NiuTrans Research,Kingsoft",2020-05-06,2020,Language,1,Collaboration,China,Unreleased,0,0,Confident,23000000.0,,,
+536,UnifiedQA,"Allen Institute for AI,University of Washington",2020-05-02,2020,Language,1,Collaboration,United States of America,Open weights (unrestricted),1,0,Confident,11000000000.0,1.65e+19,59.122086907352475,19.2175
+537,Once for All,"MIT-IBM Watson AI Lab,Massachusetts Institute of Technology (MIT),IBM",2020-04-29,2020,Vision,0,Collaboration,United States of America,Open weights (unrestricted),1,0,Confident,7700000.0,6.237e+20,1753.9255676777682,20.795
+538,Go-explore,"Uber AI,OpenAI",2020-04-27,2020,Games,0,Industry,United States of America,Unreleased,0,0,Unknown,,,,
+539,CURL,University of California (UC) Berkeley,2020-04-08,2020,Games,0,Academia,United States of America,Open weights (unrestricted),1,0,,907264.0,,,
+540,Agent57,DeepMind,2020-03-30,2020,Games,0,Industry,United Kingdom of Great Britain and Northern Ireland,Unreleased,0,0,Unknown,,,,
+541,MetNet,Google,2020-03-24,2020,Earth science,0,Industry,United States of America,Unreleased,0,0,Speculative,225000000.0,9.510912e+18,,18.9782
+542,ELECTRA,"Stanford University,Google,Google Brain",2020-03-23,2020,Language,1,Collaboration,United States of America,Open weights (unrestricted),1,0,Likely,335000000.0,3.1e+21,,21.4914
+543,Tensor-Transformer(1core)+PN (WT103),University of California (UC) Berkeley,2020-03-17,2020,Language,1,Academia,United States of America,Open weights (unrestricted),1,0,Confident,85300000.0,1.58e+18,,18.1987
+544,Routing Transformer (WT-103),Google Research,2020-03-12,2020,Language,1,Industry,United States of America,Open weights (unrestricted),1,0,Confident,79500000.0,,,
+545,TransformerXL + spectrum control,"University of California Los Angeles (UCLA),JD.com",2020-03-11,2020,Language,1,Collaboration,United States of America,Unreleased,0,0,Speculative,151000000.0,2.6289761e+19,,19.4198
+546,TCAN (WT2),"Nanjing University,Ant Group",2020-02-28,2020,Language,1,Collaboration,China,Unreleased,0,0,Confident,33000000.0,,,
+547,Feedback Transformer,"LORIA,University of Lorraine,Facebook AI Research",2020-02-21,2020,Language,1,Collaboration,France,Unreleased,0,0,Speculative,126000000.0,7.690547e+18,,18.886
+548,FFN SwiGLU,Google,2020-02-14,2020,Language,1,Industry,United States of America,Unreleased,0,0,Confident,220000000.0,3.3687317e+19,,19.5275
+549,Turing-NLG,Microsoft,2020-02-13,2020,Language,1,Industry,United States of America,Unreleased,0,0,Likely,17000000000.0,1.57e+22,51659.713290894986,22.1959
+550,SimCLR,Google Brain,2020-02-13,2020,Vision,0,Industry,United States of America,Open weights (unrestricted),1,0,,375000000.0,,,
+551,ALBERT-xxlarge,"Toyota Technological Institute at Chicago,Google",2020-02-09,2020,Language,1,Collaboration,United States of America,Open weights (unrestricted),1,0,Speculative,235000000.0,2.39e+21,4439.921298510215,21.3784
+552,TaLK Convolution,Carleton University,2020-02-08,2020,Language,1,Academia,Canada,Unreleased,0,0,Likely,240000000.0,2.6990346e+19,,19.4312
+553,Perceiver IO (optical flow),DeepMind,2020-02-08,2020,"Multimodal,Language,Vision",1,Industry,United Kingdom of Great Britain and Northern Ireland,Unreleased,0,0,Confident,27900000.0,,,
+554,Theseus 6/768,"University of California San Diego,Beihang University,Microsoft",2020-02-07,2020,Language,1,Collaboration,United States of America,Open weights (unrestricted),1,0,Confident,66000000.0,,,
+555,Meena,Google Brain,2020-01-28,2020,Language,1,Industry,United States of America,Unreleased,0,1,Confident,2600000000.0,1.12e+23,214809.91213508433,23.0492
+556,ContextNet + Noisy Student,Google,2020-01-19,2020,Speech,0,Industry,United States of America,Unreleased,0,0,Confident,,8.16e+21,14226.054462994534,21.9117
+557,AlphaFold,DeepMind,2020-01-15,2020,Biology,0,Industry,United Kingdom of Great Britain and Northern Ireland,Unreleased,0,0,Speculative,16340840.0,1e+20,,20.0
+558,Big Transfer (BiT-L),Google Brain,2019-12-24,2019,Vision,0,Industry,United States of America,Unreleased,0,0,,928000000.0,,,
+559,DD-PPO,"Georgia Institute of Technology,Facebook AI Research,Oregon State University,Simon Fraser University",2019-12-19,2019,Robotics,0,Collaboration,United States of America,Unreleased,0,0,Likely,,7.8e+20,1926.8992900057376,20.8921
+560,OpenAI Five Rerun,OpenAI,2019-12-13,2019,Games,0,Industry,United States of America,Unreleased,0,0,Confident,159000000.0,1.3e+22,321105.9055,22.1139
+561,OpenAI Five,OpenAI,2019-12-13,2019,Games,0,Industry,United States of America,Unreleased,0,1,Confident,159000000.0,6.7e+22,4328311.470477086,22.8261
+562,MMLSTM (WT-2),"Beijing University of Posts and Telecommunications,University of West London",2019-12-05,2019,Language,1,Academia,China,Unreleased,0,0,Likely,32300000.0,1.938e+17,,17.2874
+563,MMLSTM (PTB),"Beijing University of Posts and Telecommunications,University of West London",2019-12-05,2019,Language,1,Academia,China,Unreleased,0,0,Likely,21300000.0,5.8298782e+16,,16.7657
+564,StarGAN v2,"NAVER,Yonsei University,Swiss Federal Institute of Technology",2019-12-04,2019,"Vision,Image generation",0,Collaboration,Korea (Republic of),Open weights (non-commercial),1,0,Unknown,,,,
+565,StyleGAN2,"NVIDIA,Aalto University",2019-12-03,2019,Image generation,0,Collaboration,United States of America,Open weights (restricted use),1,0,Confident,30000000.0,,,
+566,Transformer-XL DeFINE (141M),"University of Washington,Allen Institute for AI",2019-11-27,2019,Language,1,Collaboration,United States of America,Unreleased,0,0,Speculative,141000000.0,1.74276e+18,,18.2412
+567,Photo-Geometric Autoencoder,University of Oxford,2019-11-25,2019,"3D modeling,Vision",0,Academia,United Kingdom of Great Britain and Northern Ireland,Open weights (unrestricted),1,0,Unknown,,,,
+568,Transformer - LibriVox + Decoding/Rescoring,Facebook,2019-11-19,2019,Speech,0,Industry,United States of America,Open weights (unrestricted),1,0,Confident,296000000.0,,,
+569,MuZero,DeepMind,2019-11-19,2019,Games,0,Industry,United Kingdom of Great Britain and Northern Ireland,Unreleased,0,0,Speculative,36864000.0,4.8e+19,,19.6812
+570,MoCo,Facebook AI,2019-11-13,2019,"Vision,Image generation",0,Industry,United States of America,Open weights (non-commercial),1,0,,375000000.0,,,
+571,Noisy Student (L2),"Carnegie Mellon University (CMU),Google",2019-11-11,2019,Vision,0,Collaboration,United States of America,Unreleased,0,1,Confident,480000000.0,2.612e+22,45609.73119622589,22.417
+572,Sandwich Transformer,"Allen Institute for AI,Facebook AI Research",2019-11-10,2019,Language,1,Collaboration,United States of America,Unreleased,0,0,Speculative,209000000.0,2.3504093e+19,,19.3711
+573,CamemBERT,"Facebook,INRIA,Sorbonne University",2019-11-10,2019,Language,1,Collaboration,United States of America,Open weights (unrestricted),1,0,Confident,335000000.0,8.3e+20,2319.5419478533995,20.9191
+574,XLM-RoBERTa,Facebook AI,2019-11-05,2019,Language,1,Industry,United States of America,Open weights (non-commercial),1,1,Confident,550000000.0,2.076e+22,77861.31819548723,22.3172
+575,Base LM + kNN LM + Continuous Cache,"Stanford University,Facebook AI Research",2019-11-01,2019,Language,1,Collaboration,United States of America,Unreleased,0,0,Likely,247000000.00000003,3.05292e+19,,19.4847
+576,AlphaStar,DeepMind,2019-10-30,2019,Games,0,Industry,United Kingdom of Great Britain and Northern Ireland,Unreleased,0,1,Confident,139000000.0,1.0773400001e+23,130654.07330431018,23.0324
+577,BART-large,Facebook AI,2019-10-29,2019,Language,1,Industry,United States of America,Open weights (unrestricted),1,0,Likely,406291456.0,,,
+578,T5-11B,Google,2019-10-23,2019,Language,1,Industry,United States of America,Open weights (unrestricted),1,1,Confident,11000000000.0,3.3e+22,78464.68282814459,22.5185
+579,T5-3B,Google,2019-10-23,2019,Language,1,Industry,United States of America,Open weights (unrestricted),1,1,Confident,2800000000.0,9.0000000001e+21,17420.709393371122,21.9542
+580,M4-50B,Google,2019-10-11,2019,Language,1,Industry,United States of America,Unreleased,0,0,Confident,50000000000.0,,,
+581,DistilBERT,Hugging Face,2019-10-02,2019,Language,1,Industry,United States of America,Open weights (unrestricted),1,0,Confident,66000000.0,1.24416e+19,,19.0949
+582,AlphaX-1,"Facebook AI Research,Brown University",2019-10-02,2019,Vision,0,Collaboration,United States of America,Unreleased,0,0,Confident,5400000.0,8.89344e+17,,17.9491
+583,ALBERT,"Toyota Technological Institute at Chicago,Google Research",2019-09-26,2019,Language,1,Collaboration,United States of America,Open weights (unrestricted),1,0,Confident,18000000.0,,,
+584,Adaptive Inputs + LayerDrop,"Facebook AI Research,LORIA",2019-09-25,2019,Language,1,Collaboration,United States of America,Open weights (unrestricted),1,0,Confident,423000000.00000006,,,
+585,Megatron-LM (8.3B),NVIDIA,2019-09-17,2019,Language,1,Industry,United States of America,Unreleased,0,1,Likely,8300000000.0,9.1e+21,109287.55758939347,21.959
+586,Megatron-LM (1.2B),NVIDIA,2019-09-17,2019,Language,1,Industry,United States of America,Unreleased,0,0,Confident,1200000000.0,1.13e+22,,22.0531
+587,Megatron-BERT,NVIDIA,2019-09-17,2019,Language,1,Industry,United States of America,Unreleased,0,1,Confident,3900000000.0,2.2e+22,171818.64196707975,22.3424
+588,UDSMProt,Fraunhofer Heinrich Hertz Institute,2019-09-04,2019,Biology,0,Other,Germany,Open weights (unrestricted),1,0,Likely,28303800.0,6.37e+17,,17.8041
+589,"Mogrifier (d2, MoS2, MC) + dynamic eval","DeepMind,University of Oxford",2019-09-04,2019,Language,1,Collaboration,United Kingdom of Great Britain and Northern Ireland,Unreleased,0,0,Confident,35000000.0,,,
+590,trRosetta,"Nankai University,University of Washington,Tianjin University,Harvard University",2019-08-22,2019,Biology,0,Academia,China,Open weights (unrestricted),1,0,Confident,,3.8047968e+19,,19.5803
+591,EN^2AS with performance reward,"Beijing Institute of Technology,University of Technology Sydney,Monash University",2019-07-22,2019,Language,1,Academia,China,Unreleased,0,0,,23000000.0,,,
+592,Pluribus,Facebook AI Research,2019-07-11,2019,Games,0,Industry,United States of America,Unreleased,0,0,Likely,,6.6e+16,,16.8195
+593,BigBiGAN,Google,2019-07-04,2019,"Vision,Image generation",0,Industry,United States of America,Open weights (unrestricted),1,0,,86000000.0,,,
+594,RoBERTa Large,"Facebook,University of Washington",2019-07-01,2019,Language,1,Collaboration,United States of America,Open weights (unrestricted),1,1,Confident,355000000.0,8.5067e+21,85350.2350127364,21.9298
+595,Walking Minotaur robot,"University of California (UC) Berkeley,Google Brain",2019-06-19,2019,Robotics,0,Collaboration,United States of America,Unreleased,0,0,Unknown,,,,
+596,LaNet-L (CIFAR-10),"Brown University,Facebook",2019-06-17,2019,Vision,0,Collaboration,United States of America,Open weights (non-commercial),1,0,Confident,44100000.0,,,
+597,PG-SWGAN,ETH Zurich,2019-06-15,2019,Image generation,0,Academia,Switzerland,Unreleased,0,0,Unknown,,,,
+598,FixRes ResNeXt-101 WSL,Facebook AI,2019-06-14,2019,Vision,0,Industry,United States of America,Open weights (non-commercial),1,0,,829000000.0,,,
+599,Char-CNN-BiLSTM,Capital One,2019-06-13,2019,Language,1,Industry,United States of America,Unreleased,0,0,Confident,,,,
+600,AWD-LSTM + MoS + Partial Shuffled,University of Texas at Austin,2019-06-10,2019,Language,1,Academia,United States of America,Open weights (non-commercial),1,0,Confident,35000000.0,3.15e+17,,17.4983
+601,Transformer-XL Large + Phrase Induction,"Massachusetts Institute of Technology (MIT),University of Illinois Urbana-Champaign (UIUC)",2019-06-04,2019,Language,1,Academia,United States of America,Unreleased,0,0,Speculative,256999999.99999997,3.7848651e+20,,20.5781
+602,XLNet,"Carnegie Mellon University (CMU),Google Brain",2019-06-01,2019,Language,1,Collaboration,United States of America,Open weights (unrestricted),1,1,Confident,340000000.0,6.19e+21,13644.959135438661,21.7917
+603,XLM,Facebook,2019-06-01,2019,Language,1,Industry,United States of America,Open weights (non-commercial),1,0,,665000000.0,,,
+604,DLRM-2020,Facebook AI,2019-05-31,2019,Recommendation,0,Industry,United States of America,Unreleased,0,0,Confident,100000000000.0,4e+18,,18.6021
+605,EfficientNet-L2,Google,2019-05-28,2019,Vision,0,Industry,United States of America,Open weights (unrestricted),1,0,,480000000.0,,,
+606,CPC v2,"DeepMind,University of California (UC) Berkeley",2019-05-22,2019,Vision,0,Collaboration,United Kingdom of Great Britain and Northern Ireland,Unreleased,0,0,,303000000.0,,,
+607,AWD-LSTM-DRILL + dynamic evaluation† (WT2),IDIAP,2019-05-14,2019,Language,1,Academia,Switzerland,Open weights (unrestricted),1,0,Likely,34000000.0,4.08e+17,,17.6107
+608,ResNeXt-101 Billion-scale,Facebook AI,2019-05-02,2019,Vision,0,Industry,United States of America,Open weights (non-commercial),1,0,,193000000.0,,,
+609,RaptorX-Contact,Toyota Technological Institute at Chicago,2019-05-02,2019,Biology,0,Academia,United States of America,Unreleased,0,0,Unknown,,,,
+610,Neuro-Symbolic Concept Learner,"Massachusetts Institute of Technology (MIT),Tsinghua University,MIT-IBM Watson AI Lab,DeepMind",2019-04-26,2019,"Vision,Language",1,Collaboration,United States of America,Unreleased,0,0,Unknown,,,,
+611,MuseNet,OpenAI,2019-04-25,2019,Audio,0,Industry,United States of America,Unreleased,0,0,Likely,2038431744.0,2.208301056e+20,,20.3441
+612,BERT-Large-CAS (PTB+WT2+WT103),Amazon,2019-04-20,2019,Language,1,Industry,United States of America,Unreleased,0,0,Likely,395000000.0,1.5405e+20,,20.1877
+613,Transformer-XL + RMS dynamic eval,University of Edinburgh,2019-04-17,2019,Language,1,Academia,United Kingdom of Great Britain and Northern Ireland,Unreleased,0,0,Confident,256999999.99999997,,,
+614,WeNet (Penn Treebank),Amazon,2019-04-08,2019,Language,1,Industry,United States of America,Unreleased,0,0,Likely,23000000.0,7.30000001e+17,,17.8633
+615,True-Regularization+Finetune+Dynamic-Eval,"Mobvoi,Williams College",2019-04-08,2019,Language,1,Collaboration,China,Unreleased,0,0,Confident,7000000.0,,,
+616,Cross-lingual alignment,"Tel Aviv University,Massachusetts Institute of Technology (MIT)",2019-04-04,2019,Language,1,Academia,Israel,Open weights (unrestricted),1,0,Speculative,,2.56e+18,,18.4082
+617,SciBERT,Allen Institute for AI,2019-03-26,2019,Language,1,Other,United States of America,Open weights (unrestricted),1,0,Confident,110000000.0,8.926848e+19,247.26289010271603,19.9507
+618,NMT Transformer 437M,"Google,Bar-Ilan University",2019-02-28,2019,Language,1,Collaboration,United States of America,Unreleased,0,0,Confident,437700000.0,,,
+619,KataGo,Jane Street,2019-02-27,2019,Games,0,Industry,United States of America,Open weights (unrestricted),1,0,Speculative,2500000.0,2.32e+19,104.91425851608678,19.3655
+620,GPT-2 (1.5B),OpenAI,2019-02-14,2019,Language,1,Industry,United States of America,Open weights (unrestricted),1,0,Speculative,1500000000.0,1.920000000001e+21,4348.443645,21.2833
+621,SDE,"Carnegie Mellon University (CMU),Google Brain,Monash University",2019-02-09,2019,Language,1,Collaboration,United States of America,Unreleased,0,0,Unknown,,,,
+622,Hanabi 4 player,"DeepMind,University of Oxford,Carnegie Mellon University (CMU),Google Brain",2019-02-01,2019,Games,0,Collaboration,United Kingdom of Great Britain and Northern Ireland,Unreleased,0,0,Confident,764000.0,4.3e+18,,18.6335
+623,MT-DNN,Microsoft,2019-01-31,2019,Language,1,Industry,United States of America,Open weights (unrestricted),1,0,Confident,330000000.0,,,
+624,Transformer-XL (257M),"Carnegie Mellon University (CMU),Google Brain",2019-01-09,2019,Language,1,Collaboration,United States of America,Open weights (unrestricted),1,0,Speculative,256999999.99999997,3.7832771e+20,,20.5779
+625,Transformer ELMo,"Allen Institute for AI,University of Washington",2019-01-01,2019,Language,1,Collaboration,United States of America,Unreleased,0,0,Confident,56000000.0,,,
+626,StyleGAN,NVIDIA,2018-12-12,2018,Image generation,0,Industry,United States of America,Open weights (non-commercial),1,0,Confident,26200000.0,3.93e+16,,16.5944
+627,SPN (ImageNet 128),"Google Brain,DeepMind",2018-12-04,2018,Image generation,0,Industry,United States of America,Unreleased,0,0,Confident,250000000.0,,,
+628,GPipe (Transformer),Google,2018-11-16,2018,Language,1,Industry,United States of America,,,0,Likely,6000000000.0,,,
+629,Multi-cell LSTM,University of Hyderabad,2018-11-15,2018,Language,1,Academia,India,Unreleased,0,0,Likely,7200000.0,2006640000000000.0,,15.3025
+630,Fine-tuned-AWD-LSTM-DOC (fin),Samsung R&D Institute Russia,2018-11-12,2018,Language,1,Industry,Russia,Unreleased,0,0,Confident,46000000.0,5.188e+16,,16.715
+631,Mesh-TensorFlow Transformer 4.9B (language),Google Brain,2018-11-05,2018,Language,1,Industry,United States of America,Unreleased,0,0,Confident,4900000000.0,1.617408e+20,935.3300509163912,20.2088
+632,Mesh-TensorFlow Transformer 2.9B (translation),Google Brain,2018-11-05,2018,Language,1,Industry,United States of America,Unreleased,0,0,Likely,2900000000.0,6.84288e+19,395.71656000308855,19.8352
+633,MemoReader,"Samsung,Korea University",2018-10-31,2018,Language,1,Collaboration,Korea (Republic of),Unreleased,0,0,Confident,,,,
+634,TrellisNet,"Carnegie Mellon University (CMU),Bosch Center for Artificial Intelligence,Intel Labs",2018-10-15,2018,Language,1,Collaboration,United States of America,Unreleased,0,0,Confident,180000000.0,2.78e+18,,18.444
+635,MetaMimic,Google,2018-10-11,2018,Robotics,0,Industry,United States of America,,,0,,22000000.0,,,
+636,BERT-Large,Google,2018-10-11,2018,Language,1,Industry,United States of America,Open weights (unrestricted),1,0,Confident,340000000.0,2.85e+20,1751.4770087736404,20.4548
+637,Transformer (Adaptive Input Embeddings) WT103,Facebook AI Research,2018-09-28,2018,Language,1,Industry,United States of America,Open weights (unrestricted),1,0,Confident,247000000.0,4.47e+19,2880.917278699733,19.6503
+638,LSTM+NeuralCache,"KU Leuven,ESAT - PSI,Apple",2018-09-24,2018,Language,1,Collaboration,Belgium,Unreleased,0,0,Likely,2100000.0,982800000000000.0,,14.9925
+639,"AWD-LSTM-MoS + dynamic evaluation (WT2, 2018)","Peking University,Microsoft Research Asia",2018-09-18,2018,Language,1,Collaboration,China,Unreleased,0,0,Confident,35000000.0,,,
+640,Transformer + Simple Recurrent Unit,"ASAPP,Cornell University,Google,Princeton University",2018-09-17,2018,Language,1,Collaboration,United States of America,Unreleased,0,0,Confident,90000000.0,1.1e+19,45.373219244858774,19.0414
+641,NetSurfP-2.0,"Technical University of Denmark,University of Copenhagen,Universidad Nacional de San Martín,AIMST University",2018-09-10,2018,Biology,0,Academia,Denmark,Hosted access (no API),0,0,Unknown,,,,
+642,(ensemble): AWD-LSTM-DOC (fin) × 5 (WT2),"NTT Communication Science Laboratories,Tohoku University",2018-08-30,2018,Language,1,Collaboration,Japan,Open weights (unrestricted),1,0,Confident,185000000.0,6.66e+17,,17.8235
+643,Big Transformer for Back-Translation,"Facebook AI Research,Google Brain",2018-08-28,2018,Language,1,Industry,United States of America,Open weights (unrestricted),1,0,Likely,,4.7808e+20,2442.1618775733145,20.6795
+644,AWD-LSTM-MoS+PDR + dynamic evaluation (WT2),IBM,2018-08-14,2018,Language,1,Industry,United States of America,Unreleased,0,0,Confident,35000000.0,,,
+645,Big-Little Net (speech),IBM,2018-07-10,2018,Speech,0,Industry,United States of America,Open weights (unrestricted),1,0,Speculative,3320000.0,4.290048e+17,,17.6325
+646,Big-Little Net,IBM,2018-07-10,2018,Vision,0,Industry,United States of America,Open weights (unrestricted),1,0,Likely,77360000.0,2.46048e+17,,17.391
+647,FTW (For The Win),DeepMind,2018-07-03,2018,Games,0,Industry,United Kingdom of Great Britain and Northern Ireland,Unreleased,0,0,Speculative,126001330.0,3.49e+19,,19.5428
+648,MobileNetV2,Google,2018-06-18,2018,Vision,0,Industry,United States of America,,,0,,3400000.0,,,
+649,Relational Memory Core,"DeepMind,University College London (UCL)",2018-06-05,2018,Language,1,Collaboration,United Kingdom of Great Britain and Northern Ireland,Unreleased,0,0,Confident,,,,
+650,GPT-1,OpenAI,2018-06-01,2018,Language,1,Industry,United States of America,Open weights (unrestricted),1,0,Likely,117000000.0,1.7578125e+19,,19.245
+651,aLSTM(depth-2)+RecurrentPolicy (WT2),"University of Manchester,Alan Turing Institute",2018-05-22,2018,Language,1,Collaboration,United Kingdom of Great Britain and Northern Ireland,Unreleased,0,0,Confident,32000000.0,7.296e+16,,16.8631
+652,Dropout-LSTM+Noise(Bernoulli) (WT2),"Columbia University,New York University (NYU),Princeton University",2018-05-03,2018,Language,1,Academia,United States of America,Unreleased,0,0,Likely,51000000.0,1.27e+17,,17.1038
+653,ResNeXt-101 32x48d,Facebook,2018-05-02,2018,Vision,0,Industry,United States of America,Open weights (non-commercial),1,1,Confident,829000000.0,8.74395e+21,134077.42688552555,21.9417
+654,YOLOv3,University of Washington,2018-04-08,2018,Vision,0,Academia,United States of America,Unreleased,0,0,Likely,56933216.0,1.3416380824e+19,,19.1276
+655,4 layer QRNN (h=2500),Salesforce Research,2018-03-22,2018,Language,1,Industry,United States of America,Unreleased,0,0,Likely,151000000.0,5.9158815e+17,,17.772
+656,Chinese - English translation,Microsoft,2018-03-01,2018,Language,1,Industry,United States of America,,,0,Unknown,,,,
+657,TCN (P-MNIST),"Carnegie Mellon University (CMU),Intel Labs",2018-02-15,2018,Vision,0,Collaboration,United States of America,,,0,Confident,42000.0,,,
+658,DeepLabV3+,Google,2018-02-07,2018,Vision,0,Industry,United States of America,,,0,Unknown,,,,
+659,IMPALA,DeepMind,2018-02-05,2018,Games,0,Industry,United Kingdom of Great Britain and Northern Ireland,Unreleased,0,0,Confident,1600000.0,1.68e+20,53.42846804494412,20.2253
+660,QRNN,Salesforce Research,2018-02-01,2018,Language,1,Industry,United States of America,Unreleased,0,0,Likely,135000000.0,6.8866472e+17,,17.838
+661,ELMo,"University of Washington,Allen Institute for AI",2018-02-01,2018,Language,1,Collaboration,United States of America,,,0,Speculative,94000000.0,3300100000000010.0,,15.5185
+662,T-DMCA,Google Brain,2018-01-30,2018,Language,1,Industry,United States of America,Unreleased,0,0,Likely,,,,
+663,AlphaZero,DeepMind,2017-12-05,2017,Games,0,Industry,United Kingdom of Great Britain and Northern Ireland,Unreleased,0,0,Likely,,1.0600000001e+20,229918.6146969874,20.0253
+664,DL scaling speech,Baidu,2017-12-01,2017,Speech,0,Industry,China,Unreleased,0,0,Likely,193000000.0,,,
+665,DL scaling LM,Baidu,2017-12-01,2017,Language,1,Industry,China,Unreleased,0,0,Speculative,177000000.0,,,
+666,DL scaling Image,Baidu,2017-12-01,2017,Vision,0,Industry,China,Unreleased,0,0,Confident,121000000.0,,,
+667,TriNet,"Visual Computing Institute,RWTH Aachen University",2017-11-21,2017,Video,0,Academia,Germany,,,0,Unknown,,,,
+668,"AWD-LSTM-MoS + dynamic evaluation (WT2, 2017)",Carnegie Mellon University (CMU),2017-11-10,2017,Language,1,Academia,United States of America,Unreleased,0,0,Likely,35000000.0,3.36e+18,,18.5263
+669,VQ-VAE,DeepMind,2017-11-02,2017,Vision,0,Industry,United Kingdom of Great Britain and Northern Ireland,Unreleased,0,0,Unknown,,,,
+670,Fraternal dropout + AWD-LSTM 3-layer (WT2),"Jagiellonian University,Mila - Quebec AI (originally Montreal Institute for Learning Algorithms),University of Montreal / Université de Montréal",2017-10-31,2017,Language,1,Academia,Poland,Unreleased,0,0,Likely,34000000.0,3.06e+17,,17.4857
+671,DCN+,Salesforce Research,2017-10-31,2017,Language,1,Industry,United States of America,Unreleased,0,0,Confident,,,,
+672,S-Norm,"University of Washington,Allen Institute for AI",2017-10-29,2017,Language,1,Collaboration,United States of America,,,0,Confident,,,,
+673,PhraseCond,"Carnegie Mellon University (CMU),University of Pittsburgh",2017-10-28,2017,Language,1,Academia,United States of America,,,0,Confident,,,,
+674,ProgressiveGAN,NVIDIA,2017-10-27,2017,Vision,0,Industry,United States of America,,,0,Unknown,,,,
+675,AlphaGo Master,DeepMind,2017-10-19,2017,Games,0,Industry,United Kingdom of Great Britain and Northern Ireland,Unreleased,0,0,Likely,,3.4100000001e+20,471445.3247973037,20.5328
+676,AlphaGo Zero,DeepMind,2017-10-18,2017,Games,0,Industry,United Kingdom of Great Britain and Northern Ireland,Unreleased,0,1,Confident,46400244.0,6.49439910290227e+20,1213.8707315707268,20.8125
+677,Rainbow DQN,DeepMind,2017-10-06,2017,Games,0,Industry,United Kingdom of Great Britain and Northern Ireland,Unreleased,0,0,Unknown,,,,
+678,AWD-LSTM+WT+Cache+IOG (WT2),NTT Communication Science Laboratories,2017-09-26,2017,Language,1,Industry,Japan,Unreleased,0,0,Confident,53000000.0,3180000000000000.0,,15.5024
+679,LSTM + dynamic eval,University of Edinburgh,2017-09-21,2017,Language,1,Academia,United Kingdom of Great Britain and Northern Ireland,Unreleased,0,0,Likely,50000000.0,,,
+680,ISS,"Duke University,Microsoft",2017-09-15,2017,Language,1,Collaboration,United States of America,Unreleased,0,0,Confident,11100000.000000002,3400000000000000.0,,15.5315
+681,PyramidNet,Korea Advanced Institute of Science and Technology (KAIST),2017-09-06,2017,Vision,0,Academia,Korea (Republic of),Open weights (unrestricted),1,0,Likely,26000000.0,2340000000000000.0,,15.3692
+682,SENet (ImageNet),"Chinese Academy of Sciences,University of Oxford",2017-09-05,2017,Vision,0,Academia,China,,,0,,28100000.0,,,
+683,GL-LWGC-AWD-MoS-LSTM + dynamic evaluation (WT2),Ben-Gurion University of the Negev,2017-08-29,2017,Language,1,Academia,Israel,Unreleased,0,0,Confident,38000000.0,4.56e+17,,17.659
+684,Libratus,Carnegie Mellon University (CMU),2017-08-19,2017,Games,0,Academia,United States of America,Unreleased,0,0,Likely,,5.51e+20,,20.7412
+685,NeuMF (Pinterest),"Shandong University,Texas A&M,National University of Singapore,Columbia University",2017-08-16,2017,Recommendation,0,Academia,China,,,0,Unknown,,,,
+686,EI-REHN-1000D,Korea Advanced Institute of Science and Technology (KAIST),2017-08-14,2017,Language,1,Academia,Korea (Republic of),Unreleased,0,0,Confident,19000000.0,1.06e+16,,16.0253
+687,OpenAI TI7 DOTA 1v1,OpenAI,2017-08-11,2017,Games,0,Industry,United States of America,,,1,Confident,,6.046095222592002e+20,,20.7815
+688,RetinaNet-R101,Facebook AI Research,2017-08-07,2017,Vision,0,Industry,United States of America,,,0,Confident,53000000.0,2.065392e+18,,18.315
+689,RetinaNet-R50,Facebook AI Research,2017-08-07,2017,Vision,0,Industry,United States of America,,,0,,34000000.0,,,
+690,AWD-LSTM - 3-layer LSTM (tied) + continuous cache pointer (WT2),Salesforce Research,2017-08-07,2017,Language,1,Industry,United States of America,Unreleased,0,0,Confident,33000000.0,2.97e+17,,17.4728
+691,GSM,"Peking University,Microsoft Research",2017-07-30,2017,Language,1,Collaboration,China,,,0,Likely,,,,
+692,ConvS2S (ensemble of 8 models),Meta AI,2017-07-25,2017,Language,1,Industry,United States of America,,,0,Likely,,5.64e+19,,19.7513
+693,PSPNet,Chinese University of Hong Kong (CUHK),2017-07-21,2017,Vision,0,Academia,Hong Kong,,,0,Unknown,,,,
+694,NASNet-A,Google Brain,2017-07-21,2017,Vision,0,Industry,United States of America,,,0,,89000000.0,,,
+695,AWD-LSTM,"DeepMind,University of Oxford",2017-07-18,2017,Language,1,Collaboration,United Kingdom of Great Britain and Northern Ireland,Unreleased,0,0,Confident,24000000.0,,,
+696,JFT,"Google Research,Carnegie Mellon University (CMU)",2017-07-10,2017,Vision,0,Collaboration,United States of America,,,1,Confident,44654504.0,8.43e+20,17910.759507843868,20.9258
+697,DeepLoc,"Technical University of Denmark,University of Copenhagen",2017-07-07,2017,Biology,0,Academia,Denmark,Hosted access (no API),0,0,Likely,,5.781024e+17,,17.762
+698,ShuffleNet v1,Megvii Inc,2017-07-03,2017,Vision,0,Industry,China,,,0,,2430000.0,,,
+699,NoisyNet-Dueling,DeepMind,2017-06-30,2017,Games,0,Industry,United Kingdom of Great Britain and Northern Ireland,Unreleased,0,0,Unknown,,,,
+700,DeepLabV3,Google,2017-06-17,2017,Vision,0,Industry,United States of America,,,0,Unknown,,,,
+701,HRA,"Maluuba,Microsoft",2017-06-13,2017,Games,0,Industry,Canada,,,0,Unknown,,,,
+702,Transformer,"Google Research,Google Brain",2017-06-12,2017,Language,1,Industry,United States of America,Unreleased,0,0,Confident,213000000.0,7.4245248e+18,438.0356518424336,18.8707
+703,EDSR,Seoul National University,2017-06-10,2017,"Vision,Image generation",0,Academia,Korea (Republic of),,,0,Unknown,,,,
+704,Reading Twice for NLU,DeepMind,2017-06-08,2017,Language,1,Industry,United Kingdom of Great Britain and Northern Ireland,,,0,Unknown,,,,
+705,PointNet++,Stanford University,2017-06-07,2017,3D modeling,0,Academia,United States of America,,,0,Unknown,,,,
+706,Inflated 3D ConvNet,"DeepMind,University of Oxford",2017-06-01,2017,3D modeling,0,Collaboration,United Kingdom of Great Britain and Northern Ireland,,,0,Unknown,,,,
+707,SRGAN,Twitter,2017-05-25,2017,"Vision,Image generation",0,Industry,United States of America,Unreleased,0,0,Unknown,,,,
+708,Mnemonic Reader,"Fudan University,Microsoft Research",2017-05-08,2017,Language,1,Collaboration,China,,,0,Confident,,,,
+709,DeepLab (2017),"Johns Hopkins University,Google,University College London (UCL)",2017-04-27,2017,Vision,0,Collaboration,United States of America,,,0,Unknown,,,,
+710,MobileNet,Google,2017-04-17,2017,Vision,0,Industry,United States of America,,,0,,4200000.0,,,
+711,WGAN-GP,"Courant Institute of Mathematical Sciences,Mila - Quebec AI (originally Montreal Institute for Learning Algorithms)",2017-03-31,2017,Image generation,0,Academia,United States of America,Unreleased,0,0,Unknown,,,,
+712,Mask R-CNN,Facebook AI Research,2017-03-30,2017,Vision,0,Industry,United States of America,,,0,Unknown,,,,
+713,Prototypical networks,"University of Toronto,Twitter",2017-03-15,2017,Vision,0,Collaboration,Canada,,,0,Unknown,,,,
+714,DnCNN,"Harbin Institute of Technology,Hong Kong Polytechnic University,ULSee Inc.,Xi’an Jiaotong University",2017-02-01,2017,"Vision,Image generation",0,Collaboration,China,,,0,Unknown,,,,
+715,MoE-Multi,"Jagiellonian University,Google Brain",2017-01-23,2017,Language,1,Collaboration,Poland,Unreleased,0,0,Confident,8700000000.0,9.393905664e+19,3874.12265,19.9728
+716,OR-WideResNet,"Duke University,University of Chinese Academy of Sciences",2017-01-07,2017,Vision,0,Academia,United States of America,,,0,Confident,18200000.0,,,
+717,DeepStack,"University of Alberta,Charles University,Czech Technical University",2017-01-06,2017,Games,0,Academia,Canada,,,0,Speculative,2500000.0,1.446336e+19,,19.1603
+718,YOLOv2,"University of Washington,Allen Institute for AI",2016-12-25,2016,Vision,0,Collaboration,United States of America,Open weights (non-commercial),1,0,,51000000.0,,,
+719,EnhanceNet,Max Planck Institute for Intelligent Systems,2016-12-23,2016,Vision,0,Academia,Germany,Open weights (unrestricted),1,0,Confident,814464.0,1.3079231999999998e+17,,17.1166
+720,3DMM-CNN,University of Southern California,2016-12-15,2016,Vision,0,Academia,United States of America,Open weights (restricted use),1,0,Confident,44500000.0,,,
+721,HR-ResNet101,Carnegie Mellon University (CMU),2016-12-13,2016,Vision,0,Academia,United States of America,Open weights (unrestricted),1,0,Confident,44500000.0,7.077e+18,,18.8498
+722,GAN-Advancer,OpenAI,2016-12-05,2016,Vision,0,Industry,United States of America,Unreleased,0,0,Unknown,,,,
+723,PointNet,Stanford University,2016-12-02,2016,3D modeling,0,Academia,United States of America,,,0,Unknown,,,,
+724,Elastic weight consolidation,DeepMind,2016-12-02,2016,"Vision,Games",0,Industry,United Kingdom of Great Britain and Northern Ireland,,,0,Unknown,,,,
+725,Image-to-image cGAN,University of California (UC) Berkeley,2016-11-21,2016,"Vision,Image generation",0,Academia,United States of America,,,0,Unknown,,,,
+726,PolyNet,Chinese University of Hong Kong (CUHK),2016-11-17,2016,Vision,0,Academia,Hong Kong,,,0,Likely,92000000.0,6.4e+19,617.1106542,19.8062
+727,ResNeXt-101 (64×4d),"University of California San Diego,Facebook",2016-11-16,2016,Vision,0,Collaboration,United States of America,Open weights (unrestricted),1,0,Confident,83000000.0,1.2e+19,,19.0792
+728,ResNeXt-50,"University of California San Diego,Facebook",2016-11-16,2016,Vision,0,Collaboration,United States of America,Open weights (unrestricted),1,0,Likely,25000000.0,,,
+729,DAC-CSR,"Jiangnan University,University of Surrey",2016-11-16,2016,Vision,0,Academia,China,Unreleased,0,0,Confident,,,,
+730,DTN (Domain Transfer Network),Facebook AI Research,2016-11-07,2016,"Vision,Image generation",0,Industry,United States of America,Unreleased,0,0,Unknown,,,,
+731,DLDL (PASCAL),University of Oxford,2016-11-06,2016,Vision,0,Academia,United Kingdom of Great Britain and Northern Ireland,Open weights (unrestricted),1,0,Likely,564000000.0,,,
+732,NASv3 (CIFAR-10),Google Brain,2016-11-05,2016,Vision,0,Industry,United States of America,,,1,Likely,37400000.0,2.2e+21,21184.441090423978,21.3424
+733,NAS with base 8 and shared embeddings,Google Brain,2016-11-05,2016,Language,1,Industry,United States of America,Unreleased,0,0,Confident,54000000.0,1.05e+16,,16.0212
+734,BIDAF,"University of Washington,Allen Institute for AI",2016-11-05,2016,Language,1,Collaboration,United States of America,Open weights (unrestricted),1,0,Confident,2600000.0,3.4686144e+18,41.25014556779628,18.5402
+735,VD-LSTM+REAL Large,"Salesforce Research,Stanford University",2016-11-04,2016,Language,1,Collaboration,United States of America,Unreleased,0,0,Confident,51000000.0,2.13e+16,,16.3284
+736,SPIDER2,"Griffith University,University of Iowa,Dezhou University",2016-10-28,2016,Biology,0,Academia,Australia,Open weights (non-commercial),1,0,Likely,409536.0,1.822e+16,,16.2605
+737,GAWWN,"University of Michigan,Max Planck Institute for Informatics",2016-10-08,2016,Vision,0,Academia,United States of America,Unreleased,0,0,Confident,,,,
+738,Xception,Google,2016-10-07,2016,Vision,0,Industry,United States of America,,,1,Confident,22855952.0,4.36e+20,13108.852355728606,20.6395
+739,Pointer Sentinel-LSTM (medium),"MetaMind Inc,Salesforce",2016-09-26,2016,Language,1,Industry,United States of America,Unreleased,0,0,Confident,21000000.0,7490000000000000.0,,15.8745
+740,GNMT,Google,2016-09-26,2016,Language,1,Industry,United States of America,Hosted access (no API),0,1,Likely,278000000.0,6.620000000001e+21,201331.569937687,21.8209
+741,Wide Residual Network,Université Paris-Est,2016-09-19,2016,Vision,0,Academia,France,,,0,Unknown,,,,
+742,ResNet-1001,Microsoft,2016-09-17,2016,Vision,0,Industry,United States of America,,,0,,10200000.0,,,
+743,ResNet-200,Microsoft Research Asia,2016-09-17,2016,Vision,0,Industry,China,Unreleased,0,0,Speculative,,2.9741645e+19,,19.4734
+744,Youtube recommendation model,Google,2016-09-15,2016,Recommendation,0,Industry,United States of America,,,0,Unknown,,,,
+745,WaveNet,Google DeepMind,2016-09-12,2016,Speech,0,Industry,United States of America,,,0,Unknown,,,,
+746,MS-ensemble-speech-recognition,Microsoft,2016-09-12,2016,Speech,0,Industry,United States of America,Unreleased,0,0,Likely,3172117056.0,,,
+747,LF-MMI,"Johns Hopkins University,Cornell University",2016-09-08,2016,Speech,0,Academia,United States of America,Unreleased,0,0,Confident,16600000.0,,,
+748,DenseNet-264,"Tsinghua University,Facebook AI Research,Cornell University",2016-08-25,2016,Vision,0,Collaboration,China,Open weights (unrestricted),1,0,Confident,34000000.0,,,
+749,SimpleNet,"Sensifai,Islamic Azad University,Technicolor R&I,Institute for Research in Fundamental Sciences (IPM)",2016-08-22,2016,Vision,0,Collaboration,Belgium,,,0,Confident,5480000.0,,,
+750,Character-enriched word2vec,Facebook AI Research,2016-07-15,2016,Language,1,Industry,United States of America,,,0,Unknown,,,,
+751,CCL,"SenseTime,Chinese University of Hong Kong (CUHK),Chinese Academy of Sciences",2016-06-27,2016,Vision,0,Collaboration,Hong Kong,Unreleased,0,0,Confident,,,,
+752,R-FCN,"Tsinghua University,Microsoft Research",2016-06-21,2016,Vision,0,Collaboration,China,,,0,Confident,,7.1935776e+17,,17.8569
+753,Segmental RNN,"University of Edinburgh,Carnegie Mellon University (CMU),University of Washington",2016-06-20,2016,Speech,0,Academia,United Kingdom of Great Britain and Northern Ireland,Unreleased,0,0,Unknown,,,,
+754,CMS-RCNN,IEEE,2016-06-17,2016,Vision,0,Industry,Multinational,Unreleased,0,0,Likely,138000000.0,,,
+755,PixelCNN,Google DeepMind,2016-06-16,2016,Vision,0,Industry,United States of America,,,0,Unknown,,,,
+756,LRR-4X,UC Irvine,2016-05-08,2016,Vision,0,Academia,United States of America,Open weights (unrestricted),1,0,Likely,138000000.0,,,
+757,Gated HORNN (3rd order),York University,2016-04-30,2016,Language,1,Academia,Canada,Unreleased,0,0,,8970000.0,,,
+758,Dueling DQN,Google DeepMind,2016-04-05,2016,Games,0,Industry,United States of America,Unreleased,0,0,Confident,1700000.0,,,
+759,Template Adaptation,University of Oxford,2016-03-12,2016,Vision,0,Academia,United Kingdom of Great Britain and Northern Ireland,Unreleased,0,0,Likely,138000000.0,,,
+760,Named Entity Recognition model,Carnegie Mellon University (CMU),2016-03-04,2016,Language,1,Academia,United States of America,,,0,Confident,,9.69408e+16,,16.9865
+761,Double DQN,Google DeepMind,2016-03-02,2016,Games,0,Industry,United States of America,Unreleased,0,0,Confident,1500000.0,,,
+762,SqueezeNet,"DeepScale,University of California (UC) Berkeley,Stanford University",2016-02-24,2016,Vision,0,Academia,United States of America,,,0,,1200000.0,,,
+763,Inceptionv4,Google,2016-02-23,2016,Vision,0,Industry,United States of America,,,0,,43000000.0,,,
+764,Inception-ResNet-V2,Google,2016-02-23,2016,Vision,0,Industry,United States of America,,,0,,56000000.0,,,
+765,A3C FF hs,"Google,University of Montreal / Université de Montréal",2016-02-04,2016,Games,0,Collaboration,United States of America,,,0,Unknown,,,,
+766,AlphaGo Lee,DeepMind,2016-01-27,2016,Games,0,Industry,United Kingdom of Great Britain and Northern Ireland,Unreleased,0,1,Speculative,,1.9e+21,22206.80954117433,21.2788
+767,"Variational (untied weights, MC) LSTM (Large)",University of Cambridge,2015-12-16,2015,Language,1,Academia,United Kingdom of Great Britain and Northern Ireland,Unreleased,0,0,Confident,66000000.0,5886144000000000.0,,15.7698
+768,Advantage Learning,Google DeepMind,2015-12-15,2015,Games,0,Industry,United States of America,,,0,Unknown,,,,
+769,ResNet-152 (ImageNet),Microsoft,2015-12-10,2015,Vision,0,Industry,United States of America,,,0,Confident,60200000.0,1.041408e+19,,19.0176
+770,ResNet-110 (CIFAR-10),Microsoft,2015-12-10,2015,Vision,0,Industry,United States of America,,,0,,1700000.0,,,
+771,ResNet-101 (ImageNet),Microsoft,2015-12-10,2015,Vision,0,Industry,United States of America,Open weights (unrestricted),1,0,Confident,44500000.0,7.004e+18,,18.8453
+772,SSD,,2015-12-08,2015,Vision,0,,,Open weights (unrestricted),1,0,Confident,,,,
+773,Inception v3,"Google,University College London (UCL)",2015-12-02,2015,Vision,0,Collaboration,United States of America,,,1,Likely,23626728.0,1e+20,1218.1810104797394,20.0
+774,Netflix Recommender System,Netflix,2015-12-01,2015,Recommendation,0,Industry,United States of America,,,0,Unknown,,,,
+775,Multi-scale Dilated CNN,"Princeton University,Intel Labs",2015-11-23,2015,Vision,0,Collaboration,United States of America,,,0,Unknown,,,,
+776,3DDFA,"Chinese Academy of Sciences,Michigan State University",2015-11-23,2015,Vision,0,Academia,China,Unreleased,0,0,Confident,5355584.0,,,
+777,SAF R-CNN,"Beijing Institute of Technology,Sun Yat-sen University,Panasonic R&D,National University of Singapore",2015-10-28,2015,Vision,0,Collaboration,China,Unreleased,0,1,Likely,138000000.0,1.2311081250000001e+19,,19.0903
+778,AlphaGo Fan,DeepMind,2015-10-01,2015,Games,0,Industry,United Kingdom of Great Britain and Northern Ireland,Unreleased,0,1,Likely,8209984.0,3.8e+20,4828.322276803044,20.5798
+779,Deep Deterministic Policy Gradients,Google DeepMind,2015-09-09,2015,Robotics,0,Industry,United States of America,,,0,Unknown,,,,
+780,BPE,University of Edinburgh,2015-08-31,2015,Language,1,Academia,United Kingdom of Great Britain and Northern Ireland,,,0,,,,,
+781,DCNN,"University of Maryland,Rutgers University",2015-08-07,2015,Vision,0,Academia,United States of America,Unreleased,0,0,Confident,5006000.0,4.8098691e+17,,17.6821
+782,Deep CNN + COTS,IEEE,2015-07-26,2015,Vision,0,Industry,Multinational,Unreleased,0,0,Confident,5006000.0,,,
+783,CompACT-Deep,University of California San Diego,2015-07-19,2015,Vision,0,Academia,United States of America,Unreleased,0,0,Confident,,,,
+784,BatchNorm,Google,2015-06-15,2015,Vision,0,Industry,United States of America,,,0,Confident,13600000.0,,,
+785,YOLO,"University of Washington,Allen Institute for AI,Facebook AI Research",2015-06-08,2015,Vision,0,Collaboration,United States of America,,,0,,271684800.0,,,
+786,CFSS,"SenseTime,Chinese University of Hong Kong (CUHK),Shenzhen Institute of Advanced Technology",2015-06-07,2015,Vision,0,Collaboration,Hong Kong,Open weights (unrestricted),1,0,Likely,17408.0,,,
+787,Faster R-CNN,Microsoft Research,2015-06-04,2015,Vision,0,Industry,United States of America,Open weights (unrestricted),1,0,Unknown,,,,
+788,U-Net,University of Freiburg,2015-05-18,2015,Vision,0,Academia,Germany,Open weights (unrestricted),1,0,Confident,37676160.0,5.0832252e+16,,16.7061
+789,Fast R-CNN,Microsoft Research,2015-04-30,2015,Vision,0,Industry,United States of America,,,0,Unknown,,,,
+790,TC-DNN-BLSTM-DNN,Carnegie Mellon University (CMU),2015-04-06,2015,Speech,0,Academia,United States of America,Unreleased,0,0,Confident,18413568.0,1.9410191999999997e+17,,17.288
+791,genCNN + dyn eval,"Chinese Academy of Sciences,Huawei Noah's Ark Lab,Dublin City University",2015-03-17,2015,Language,1,Collaboration,China,Unreleased,0,0,Speculative,8000000.0,3.4153451e+16,,16.5334
+792,DQN-2015,Google,2015-02-25,2015,Games,0,Industry,United States of America,,,0,,1693362.0,,,
+793,TRPO,University of California (UC) Berkeley,2015-02-19,2015,Games,0,Academia,United States of America,Unreleased,0,0,Confident,33500.0,,,
+794,"MSRA (C, PReLU)",Microsoft Research,2015-02-06,2015,Vision,0,Industry,United States of America,,,1,Confident,87048800.0,2.397403008e+19,1394.115708804708,19.3797
+795,VGG-Face,University of Oxford,2015-01-01,2015,Vision,0,Academia,United Kingdom of Great Britain and Northern Ireland,Unreleased,0,0,Confident,138000000.0,,,
+796,ADAM (CIFAR-10),"University of Amsterdam,OpenAI,University of Toronto",2014-12-22,2014,Vision,0,Collaboration,Netherlands,Unreleased,0,0,Confident,2370000.0,624979800000000.0,,14.7959
+797,Fractional Max-Pooling,University of Warwick,2014-12-18,2014,Vision,0,Academia,United Kingdom of Great Britain and Northern Ireland,,,0,Likely,27000000.0,1e+17,,17.0
+798,SNM-skip,Google,2014-12-03,2014,Language,1,Industry,United States of America,,,1,Speculative,62000000000.0,2.97600000001e+20,,20.4736
+799,TA-CNN,Chinese University of Hong Kong (CUHK),2014-11-29,2014,Vision,0,Academia,Hong Kong,Unreleased,0,0,Likely,706048.0,1.0854e+16,,16.0356
+800,Cascaded LNet-ANet,Chinese University of Hong Kong (CUHK),2014-11-28,2014,Vision,0,Academia,Hong Kong,,,0,Unknown,,,,
+801,Fully Convolutional Networks,University of California (UC) Berkeley,2014-11-14,2014,Vision,0,Academia,United States of America,,,0,Unknown,,,,
+802,SC-NLM,University of Toronto,2014-11-10,2014,"Multimodal,Vision,Language",1,Academia,Canada,,,0,Confident,,,,
+803,LRCN,"UT Austin,University of Massachusetts Lowell,University of California (UC) Berkeley",2014-11-07,2014,Video,0,Academia,United States of America,,,0,,142552000.0,,,
+804,Spatially-Sparse CNN,University of Warwick,2014-09-23,2014,Vision,0,Academia,United Kingdom of Great Britain and Northern Ireland,,,0,Unknown,,,,
+805,Deeply-supervised nets,Microsoft Research,2014-09-18,2014,Vision,0,Industry,United States of America,,,0,,,,,
+806,GoogLeNet / InceptionV1,"Google,University of Michigan,University of North Carolina",2014-09-17,2014,Vision,0,Collaboration,United States of America,,,0,Confident,6797700.0,1.51e+18,,18.179
+807,SPN-4+KN5,"Singapore University of Technology & Design,DSO National Laboratories",2014-09-14,2014,Language,1,Collaboration,Singapore,Unreleased,0,0,Likely,5000000.0,4.4e+16,,16.6435
+808,Seq2Seq LSTM,Google,2014-09-10,2014,Language,1,Industry,United States of America,,,1,Confident,1920000000.0,5.6e+19,,19.7482
+809,VGG19,University of Oxford,2014-09-04,2014,Vision,0,Academia,United Kingdom of Great Britain and Northern Ireland,,,1,Likely,144000000.0,1.1e+19,,19.0414
+810,VGG16,University of Oxford,2014-09-04,2014,Vision,0,Academia,United Kingdom of Great Britain and Northern Ireland,,,1,Confident,138000000.0,1.2291e+19,239.2376655010467,19.0896
+811,RNNsearch-50*,"Jacobs University Bremen,University of Montreal / Université de Montréal",2014-09-01,2014,Language,1,Academia,Germany,,,1,Confident,,1.5552e+18,,18.1918
+812,NPD,IEEE,2014-08-06,2014,Vision,0,Industry,Multinational,Open weights (unrestricted),1,0,Confident,313856.0,,,
+813,ACF-WIDER,Chinese Academy of Sciences,2014-07-15,2014,Vision,0,Academia,China,Unreleased,0,0,Confident,6144.0,76380000000000.0,,13.883
+814,SmooCT,University College London (UCL),2014-07-01,2014,Games,0,Academia,United Kingdom of Great Britain and Northern Ireland,,,0,Likely,,6.9e+16,,16.8388
+815,Multiresolution CNN,"Google,Stanford University",2014-06-23,2014,Video,0,Collaboration,United States of America,,,0,,126125568.0,,,
+816,DeepFace,"Tel Aviv University,Facebook",2014-06-23,2014,Vision,0,Collaboration,Israel,,,0,Unknown,,,,
+817,RNN-WER,"DeepMind,University of Toronto",2014-06-22,2014,Speech,0,Collaboration,United Kingdom of Great Britain and Northern Ireland,,,0,Likely,26500000.0,,,
+818,Fragment embedding,Stanford University,2014-06-21,2014,Vision,0,Academia,United States of America,,,0,Likely,144496000.0,,,
+819,SPPNet,"Microsoft,Xi’an Jiaotong University,University of Science and Technology of China (USTC)",2014-06-18,2014,Vision,0,Collaboration,United States of America,,,1,Confident,,3.411072e+18,51.65209223027738,18.5329
+820,GANs,University of Montreal / Université de Montréal,2014-06-10,2014,Image generation,0,Academia,Canada,,,0,Speculative,,5.184e+17,,17.7147
+821,Two-stream ConvNets for action recognition,University of Oxford,2014-06-09,2014,Video,0,Academia,United Kingdom of Great Britain and Northern Ireland,,,0,Unknown,,,,
+822,GRUs,"University of Montreal / Université de Montréal,Jacobs University,University of Maine",2014-06-03,2014,Language,1,Academia,Canada,,,0,Unknown,,,,
+823,Dropout: SVHN,University of Toronto,2014-06-01,2014,Vision,0,Academia,Canada,Unreleased,0,0,Confident,47795232.0,,,
+824,AdaRNN,Beihang University,2014-06-01,2014,Language,1,Academia,China,,,0,Confident,13040.0,,,
+825,Paragraph Vector,Google,2014-05-14,2014,Language,1,Industry,United States of America,,,0,Confident,32000000.0,,,
+826,HyperNEAT,University of Texas at Austin,2014-03-05,2014,Games,0,Academia,United States of America,,,0,,239712.0,,,
+827,GloVe (32B),Stanford University,2014-01-01,2014,Language,1,Academia,United States of America,,,0,,120000000.0,,,
+828,GloVe (6B),Stanford University,2014-01-01,2014,Language,1,Academia,United States of America,,,0,,120000000.0,,,
+829,OverFeat,New York University (NYU),2013-12-21,2013,Vision,0,Academia,United States of America,,,0,Confident,144000000.0,,,
+830,Image generation,University of Amsterdam,2013-12-20,2013,Vision,0,Academia,Netherlands,,,0,Confident,784000.0,475200000000000.0,,14.6769
+831,DQN,DeepMind,2013-12-19,2013,Games,0,Industry,United Kingdom of Great Britain and Northern Ireland,,,0,Confident,836096.0,2846883840000000.0,,15.4544
+832,Network in Network,National University of Singapore,2013-12-16,2013,Vision,0,Academia,Singapore,,,0,Unknown,,,,
+833,RNN for 1B words,Google,2013-12-11,2013,Language,1,Industry,United States of America,,,0,Speculative,20000000000.0,,,
+834,TransE,"Universite de Technologie de Compiègne – CNRS,Google",2013-12-05,2013,Language,1,Collaboration,France,,,1,Speculative,942000000.0,1.340928e+18,30.028097313317172,18.1274
+835,DeViSE,Google,2013-12-05,2013,Vision,0,Industry,United States of America,,,0,Confident,,,,
+836,Visualizing CNNs,New York University (NYU),2013-11-12,2013,Vision,0,Academia,United States of America,,,1,Confident,,5.32e+17,12.994002368456531,17.7259
+837,R-CNN (T-net),University of California (UC) Berkeley,2013-11-11,2013,Vision,0,Academia,United States of America,,,0,,69003872.0,,,
+838,Word2Vec (small),Google,2013-10-16,2013,Language,1,Industry,United States of America,,,0,,207600000.0,,,
+839,Word2Vec (large),Google,2013-10-16,2013,Language,1,Industry,United States of America,,,0,Likely,692000000.0,3.888e+16,,16.5897
+840,RNTN,Stanford University,2013-10-01,2013,Language,1,Academia,United States of America,Unreleased,0,0,Likely,,1.422e+16,,16.1529
+841,RCTM,University of Oxford,2013-10-01,2013,Language,1,Academia,United Kingdom of Great Britain and Northern Ireland,,,0,Likely,,9331200000000000.0,,15.9699
+842,Hierarchical Scene Labeling (Stanford Background),New York University (NYU),2013-08-01,2013,Vision,0,Academia,United States of America,Unreleased,0,0,Confident,51609600.0,2.3774688e+17,,17.3761
+843,ReLU-Speech,"Google,University of Toronto,New York University (NYU)",2013-05-26,2013,Speech,0,Collaboration,United States of America,,,0,Likely,101706240.0,1.2773376e+17,,17.1063
+844,Multilingual DNN,Google,2013-05-26,2013,Speech,0,Industry,United States of America,,,0,Confident,206899200.0,,,
+845,Selective Search,"University of Trento,University of Amsterdam",2013-04-02,2013,Vision,0,Academia,Italy,,,0,Unknown,,,,
+846,PreTrans-3L-250H,University of Toronto,2013-03-22,2013,Speech,0,Academia,Canada,,,0,,43000000.0,,,
+847,DistBelief NNLM,Google,2013-01-16,2013,Language,1,Industry,United States of America,,,1,Likely,,2.612736e+18,3255.1839637787602,18.4171
+848,DNN EM segmentation,"IDSIA,SUPSI",2012-12-03,2012,Vision,0,Academia,Switzerland,Unreleased,0,1,Confident,218896.0,4.78e+17,3.9045853984413377,17.6794
+849,DistBelief Vision,Google,2012-12-03,2012,Vision,0,Industry,United States of America,,,0,Likely,1700000000.0,,,
+850,DistBelief Speech,Google,2012-12-03,2012,Speech,0,Industry,United States of America,,,0,Speculative,47185920.0,3.114e+17,,17.4933
+851,Bayesian automated hyperparameter tuning,"University of Toronto,University of Sherbrooke,Harvard University",2012-12-02,2012,Other,0,Academia,Canada,,,0,Unknown,,,,
+852,RNN+LDA+KN5+cache,"Microsoft,Brno University of Technology",2012-12-01,2012,Language,1,Collaboration,United States of America,Unreleased,0,0,,9000000.0,,,
+853,AlexNet,University of Toronto,2012-09-30,2012,Vision,0,Academia,Canada,,,1,Confident,60000000.0,4.7e+17,15.56975299843643,17.6721
+854,LSTM LM,RWTH Aachen University,2012-09-09,2012,Language,1,Academia,Germany,,,0,Speculative,102720000.0,1.66e+16,,16.2201
+855,Context-dependent RNN,"Microsoft Research,Brno University of Technology",2012-07-27,2012,Language,1,Collaboration,United States of America,,,0,Unknown,,,,
+856,Unsupervised High-level Feature Learner,Google,2012-07-12,2012,Vision,0,Industry,United States of America,,,1,Likely,1000000000.0,6e+17,16.029257461780738,17.7782
+857,Dropout (TIMIT),University of Toronto,2012-06-03,2012,Speech,0,Academia,Canada,Unreleased,0,0,,48840185.0,,,
+858,Dropout (MNIST),University of Toronto,2012-06-03,2012,Vision,0,Academia,Canada,Unreleased,0,0,Confident,5594010.0,6039370800000000.0,,15.781
+859,Dropout (ImageNet),University of Toronto,2012-06-03,2012,Vision,0,Academia,Canada,Unreleased,0,1,Confident,,2.731968e+17,7.952555832759744,17.4365
+860,Dropout (CIFAR),University of Toronto,2012-06-03,2012,Vision,0,Academia,Canada,Unreleased,0,0,Confident,,4268700000000000.0,,15.6303
+861,NLP from scratch,"NEC Laboratories,Princeton University",2011-11-08,2011,Language,1,Collaboration,United States of America,,,0,,5000000.0,,,
+862,CNN committee (traffic sign),IDSIA,2011-10-03,2011,Vision,0,Academia,Switzerland,Unreleased,0,0,Likely,1388800.0,991981425600000.0,,14.9965
+863,Adaptive Subgrad,"Technion - Israel Institute of Technology,Google,University of California (UC) Berkeley",2011-10-03,2011,Language,1,Collaboration,Israel,,,0,Unknown,,,,
+864,CNN Committee (NIST),IDSIA,2011-09-18,2011,Vision,0,Academia,Switzerland,Unreleased,0,0,Likely,128420.0,2.6e+16,,16.415
+865,CNN Committee (MNIST),IDSIA,2011-09-18,2011,Vision,0,Academia,Switzerland,Unreleased,0,1,Likely,120620.0,5.2e+16,,16.716
+866,High Performance CNN (NORB),"IDSIA,SUPSI",2011-07-16,2011,Vision,0,Academia,Switzerland,Unreleased,0,0,Likely,4878300.0,2.57985e+16,,16.4116
+867,Recursive Neural Network,Stanford University,2011-06-28,2011,"Vision,Language",1,Academia,United States of America,,,0,Confident,,,,
+868,Vector Space Model,Stanford University,2011-06-19,2011,Language,1,Academia,United States of America,,,0,Confident,255000.0,,,
+869,Cross-Lingual POS Tagger,"Carnegie Mellon University (CMU),Google Research",2011-06-19,2011,Language,1,Collaboration,United States of America,,,0,Unknown,,,,
+870,Deep Autoencoders,University of Toronto,2011-04-29,2011,Vision,0,Academia,Canada,,,1,Confident,139808256.0,3.672864e+16,,16.565
+871,Deep rectifier networks,University of Montreal / Université de Montréal,2011-04-13,2011,Vision,0,Academia,Canada,,,0,Unknown,,,,
+872,YouTube Video Recommendation System,Google,2010-09-26,2010,Recommendation,0,Industry,United States of America,,,0,,,,,
+873,RNN LM,Johns Hopkins University,2010-09-26,2010,Language,1,Academia,United States of America,,,1,Speculative,70265000.0,5.396e+16,,16.7321
+874,Pooling CNN (NORB),University of Bonn,2010-09-15,2010,Vision,0,Academia,Germany,Unreleased,0,0,Confident,268664.0,1456277227200000.0,,15.1632
+875,Pooling CNN (Caltech 101),University of Bonn,2010-09-15,2010,Vision,0,Academia,Germany,Unreleased,0,0,Confident,294912.0,1221124128768000.0,,15.0868
+876,ReLU (NORB),University of Toronto,2010-06-15,2010,Vision,0,Academia,Canada,,,0,,16210006.0,,,
+877,ReLU (LFW),University of Toronto,2010-06-15,2010,Vision,0,Academia,Canada,,,0,Unknown,,,,
+878,iCCCP,Massachusetts Institute of Technology (MIT),2010-06-13,2010,Vision,0,Academia,United States of America,Unreleased,0,0,Confident,,1080000000000000.0,,15.0334
+879,Feedforward NN,University of Montreal / Université de Montréal,2010-05-13,2010,Vision,0,Academia,Canada,,,0,Confident,7082000.0,350000000000000.0,,14.5441
+880,Stacked Denoising Autoencoders,"University of Montreal / Université de Montréal,University of Toronto",2010-01-03,2010,Other,0,Academia,Canada,,,0,Unknown,,,,
+881,Super-vector coding,"University of Illinois Urbana-Champaign (UIUC),NEC Laboratories,Rutgers University",2010-01-01,2010,Vision,0,Collaboration,United States of America,,,0,Speculative,1025.0,,,
+882,LCNP NORB,,2009-11-22,2009,Vision,0,,,,,0,Confident,16818176.0,2452090060800000.0,,15.3895
+883,LCNP MNIST,,2009-11-22,2009,Vision,0,,,,,1,Confident,11616256.0,4181852160000000.0,,15.6214
+884,LCNP LabelMe,University of Bonn,2009-11-22,2009,Vision,0,Academia,Germany,,,1,Confident,13729792.0,3295150080000000.0,,15.5179
+885,BellKor 2007,AT&T,2009-09-21,2009,Recommendation,0,Industry,United States of America,,,0,,,,,
+886,Two Stage Feature Extraction (MNIST),New York University (NYU),2009-09-01,2009,Vision,0,Academia,United States of America,Unreleased,0,0,Confident,258800.0,20754000000000.0,,13.3171
+887,MatrixFac for Recommenders,"Yahoo Research,AT&T",2009-08-07,2009,Recommendation,0,Industry,United States of America,,,0,,,,,
+888,Pragmatic Theory solution (Netflix 2009),Pragmatic Theory Inc.,2009-08-01,2009,Recommendation,0,Industry,Canada,,,0,Confident,,,,
+889,BigChaos OptiBlend,AT&T,2009-08-01,2009,Recommendation,0,Industry,United States of America,,,0,,,,,
+890,BellKor 2009,AT&T,2009-08-01,2009,Recommendation,0,Industry,United States of America,,,0,,,,,
+891,BellKor 2008,AT&T,2009-08-01,2009,Recommendation,0,Industry,United States of America,,,0,,,,,
+892,GPU DBNs,Stanford University,2009-06-15,2009,Other,0,Academia,United States of America,,,0,Confident,100000000.0,1000000000000000.0,,15.0
+893,RBM Image Classifier,University of Toronto,2009-04-08,2009,Vision,0,Academia,Canada,,,0,Likely,80000000.0,,,
+894,BP-DBN,University of Toronto,2009-01-01,2009,Speech,0,Academia,Canada,Unreleased,0,0,Confident,18030592.0,,,
+895,GNN,University of Siena,2008-12-09,2008,Other,0,Academia,Italy,Open weights (unrestricted),1,0,Confident,30.0,1614600000.0,,9.2081
+896,HLBL,University of Toronto,2008-12-08,2008,Language,1,Academia,Canada,,,0,Confident,1846400.0,,,
+897,BigChaos 2008,AT&T,2008-11-25,2008,Recommendation,0,Industry,United States of America,,,0,,,,,
+898,Sparse digit recognition SVM,University of Lubeck,2008-11-19,2008,Vision,0,Academia,Germany,,,0,Unknown,,,,
+899,Denoising Autoencoders,University of Montreal / Université de Montréal,2008-07-05,2008,Other,0,Academia,Canada,,,0,Unknown,,,,
+900,Deep Multitask NLP Network,NEC Laboratories,2008-07-05,2008,Language,1,Industry,United States of America,,,0,Speculative,1500000.0,,,
+901,BLSTM for handwriting (2),"University of Bern,IDSIA,Technical University of Munich",2007-12-03,2007,Vision,0,Academia,Switzerland,,,0,,100881.0,,,
+902,Enhanced Neighborhood-Based Filtering,AT&T,2007-10-28,2007,Recommendation,0,Industry,United States of America,,,0,Unknown,,,,
+903,BLSTM for handwriting (1),"University of Bern,IDSIA,Technical University of Munich",2007-09-23,2007,Vision,0,Academia,Switzerland,,,0,Unknown,,,,
+904,SB-LM,Google,2007-06-22,2007,Language,1,Industry,United States of America,,,1,Likely,300000000000.0,1.4494464e+18,,18.1612
+905,KN-LM,Google,2007-06-22,2007,Language,1,Industry,United States of America,,,1,Likely,21000000000.0,7.7303808e+17,,17.8882
+906,λ-WASP,UT Austin,2007-06-01,2007,Language,1,Academia,United States of America,,,0,,,,,
+907,Greedy layer-wise DNN training,University of Montreal / Université de Montréal,2006-12-04,2006,Other,0,Academia,Canada,,,0,Unknown,,,,
+908,Local Binary Patterns for facial recognition,"University of Oulu,IEEE",2006-12-01,2006,Vision,0,Collaboration,Finland,,,0,Unknown,,,,
+909,Dimensionality Reduction,University of Toronto,2006-07-18,2006,Vision,0,Academia,Canada,,,0,,3800000.0,,,
+910,Deep Belief Nets,"University of Toronto,National University of Singapore",2006-07-18,2006,Vision,0,Academia,Canada,,,0,,1600000.0,,,
+911,SVM-CNN,New York University (NYU),2006-06-17,2006,Vision,0,Academia,United States of America,Unreleased,0,1,Confident,90857.0,745200000000000.0,,14.8723
+912,Spatial Pyramid Matching,"INRIA,University of Illinois Urbana-Champaign (UIUC),Ecole Normale Supèrieure",2006-06-17,2006,Vision,0,Academia,France,,,0,Unknown,,,,
+913,Crazy Stone,INRIA,2006-05-29,2006,Games,0,Academia,France,Unreleased,0,0,Unknown,,,,
+914,FAST,University of Cambridge,2006-05-07,2006,Video,0,Academia,United Kingdom of Great Britain and Northern Ireland,,,0,Unknown,,,,
+915,TFE SVM,"Centre de Recherche en Automatique de Nancy (CRAN),CENPARMI",2006-02-02,2006,Vision,0,Academia,France,,,0,Unknown,,,,
+916,RankNet,"Microsoft Research,Microsoft",2005-08-07,2005,Search,0,Industry,United States of America,Unreleased,0,0,Confident,5711.0,3482081588304.0,,12.5418
+917,Histograms of Oriented Gradients,INRIA,2005-06-25,2005,Vision,0,Academia,France,,,0,,,,,
+918,Hierarchical LM,,2005-01-06,2005,Language,1,,,,,1,Confident,,115848000000000.0,,14.0639
+919,LMICA,,2004-12-01,2004,Vision,0,,,,,1,Confident,4096000.0,2782080000000000.0,,15.4444
+920,Invariant CNN,New York University (NYU),2004-06-27,2004,Vision,0,Academia,United States of America,,,0,Confident,90575.0,974230000000.0,,11.9887
+921,NPLM (Brown),University of Montreal / Université de Montréal,2003-03-15,2003,Language,1,Academia,Canada,,,1,Confident,4124233.0,132076260000000.0,,14.1208
+922,NPLM (AP News),University of Montreal / Université de Montréal,2003-03-15,2003,Language,1,Academia,Canada,,,1,Confident,11904264.0,1666869200000000.0,,15.2219
+923,LDA,Stanford University,2003-02-02,2003,Language,1,Academia,United States of America,,,0,Unknown,,,,
+924,Statistical Shape Constellations,California Institute of Technology,2003-01-01,2003,Vision,0,Academia,United States of America,,,0,Unknown,,,,
+925,Thumbs Up?,"Cornell University,IBM",2002-05-28,2002,Language,1,Collaboration,United States of America,,,0,,,,,
+926,Decision tree (classification),"Mitsubishi Electric Research Labs,Compaq CRL",2001-12-08,2001,Vision,0,Industry,United States of America,,,1,Likely,12000.0,63000000000000.0,,13.7993
+927,Gradient Boosting Machine,Stanford University,2001-10-01,2001,Mathematics,0,Academia,United States of America,,,0,Unknown,,,,
+928,Immediate trihead,Brown University,2001-07-06,2001,Language,1,Academia,United States of America,,,0,Unknown,,,,
+929,PoE MNIST,University College London (UCL),2000-11-28,2000,Vision,0,Academia,United Kingdom of Great Britain and Northern Ireland,,,1,Confident,3925310.0,51810000000000.0,,13.7144
+930,Neural LM,University of Montreal / Université de Montréal,2000-11-28,2000,Language,1,Academia,Canada,,,1,Confident,6906980.0,6339000000000000.0,,15.802
+931,IBM Model 4,"University of Southern California,IBM,University of Pennsylvania",1999-07-02,1999,Language,1,Collaboration,United States of America,,,0,,,,,
+932,RECONTRA-uncategorized,,1999-06-02,1999,Language,1,,,,,0,Likely,112000.0,3864000000000.0,,12.587
+933,RECONTRA-categorized,,1999-06-02,1999,Language,1,,,,,1,Likely,66780.0,8013600000000.0,,12.9038
+934,LSTM with forget gates,IDSIA,1999-01-02,1999,Language,1,Academia,Switzerland,,,0,,276.0,,,
+935,LeNet-5,AT&T,1998-11-01,1998,Vision,0,Industry,United States of America,,,1,Confident,60000.0,2810937600000.0,,12.4489
+936,LSTM,Technical University of Munich,1997-11-15,1997,Language,1,Academia,Germany,,,1,Confident,10504.0,31512000000000.0,,13.4985
+937,Bidirectional RNN,Advanced Telecommunications Research Institute,1997-11-01,1997,Speech,0,Industry,Japan,,,0,,13000.0,,,
+938,Deep Blue,IBM,1997-05-01,1997,Games,0,Industry,United States of America,Unreleased,0,0,Speculative,8000.0,,,
+939,SOM-CNN,,1997-01-31,1997,Vision,0,,,,,0,Confident,32015.0,31431600000.0,,10.4974
+940,AdaBoost.M2 Digit Recognition,AT&T,1996-07-03,1996,Vision,0,Industry,United States of America,,,0,Confident,,,,
+941,System 11,Carnegie Mellon University (CMU),1996-06-18,1996,Vision,0,Academia,United States of America,,,0,Confident,6452.0,25859616000.0,,10.4126
+942,MUSIC perceptron,,1996-06-03,1996,Vision,0,,,,,1,Confident,13607.0,881733600000.0,,11.9453
+943,LISSOM,University of Texas at Austin,1995-11-27,1995,Vision,0,Academia,United States of America,,,0,Likely,432800.0,195544800000.0,,11.2912
+944,Support Vector Machines,"AT&T,Bell Laboratories",1995-09-01,1995,Vision,0,Industry,United States of America,,,0,,100000000.0,,,
+945,Predictive Coding NN,Technical University of Munich,1994-12-02,1994,Language,1,Academia,Germany,,,1,Confident,206910.0,18621900000000.0,,13.27
+946,NeuroChess,,1994-12-02,1994,Games,0,,,,,1,Speculative,72251.0,858730812676.0,,11.9339
+947,Mixture of linear models,,1994-12-02,1994,Vision,0,,,,,0,Likely,384000.0,453600000000.0,,11.6567
+948,JPMAX,,1994-12-02,1994,Vision,0,,,,,0,Speculative,4446.0,80828280.0,,7.9076
+949,GroupLens,Massachusetts Institute of Technology (MIT),1994-10-22,1994,Recommendation,0,Academia,United States of America,,,0,,,,,
+950,Ceramic-MLP,Sapienza Università di Roma,1994-01-07,1994,Materials science,0,Academia,Italy,,,0,Likely,1888.0,4531200000.0,,9.6562
+951,ANN Eye Tracker,,1993-11-29,1993,Vision,0,,,,,0,Confident,5620.0,17534400000.0,,10.2439
+952,Siamese-TDNN,Bell Laboratories,1993-08-01,1993,Vision,0,Industry,United States of America,,,1,Likely,744.0,12869570138112.0,,13.1096
+953,IBM-5,IBM,1993-06-15,1993,Language,1,Industry,United States of America,,,0,,1658364.0,,,
+954,Boosting,Bell Laboratories,1992-11-30,1992,Vision,0,Industry,United States of America,,,0,Likely,2578.0,,,
+955,Cancer drug mechanism prediction,National Cancer Institute,1992-10-16,1992,Medicine,0,Other,United States of America,,,0,Likely,594.0,53460000.0,,7.728
+956,Golem,Alan Turing Institute,1992-10-01,1992,Biology,0,Other,United Kingdom of Great Britain and Northern Ireland,,,0,Confident,,,,
+957,TD-Gammon,IBM,1992-05-01,1992,Games,0,Industry,United States of America,,,1,Speculative,25000.0,18232157622832.703,,13.2608
+958,Weight Decay,,1991-12-02,1991,Speech,0,,,,,1,Confident,8386.0,75474000000.0,,10.8778
+959,RAAM,,1990-11-01,1990,Other,0,,,,,0,Confident,1536.0,,,
+960,SexNet compression,,1990-10-01,1990,Vision,0,,,,,1,Confident,72940.0,78775200000.0,,10.8964
+961,SexNet classification,,1990-10-01,1990,Vision,0,,,,,0,Likely,1640.0,,,
+962,ISR network,Stanford University,1990-10-01,1990,Vision,0,Academia,United States of America,,,0,Confident,,,,
+963,Bankruptcy-NN,,1990-06-17,1990,Other,0,,,,,0,Confident,36.0,3059337600.0,,9.4856
+964,NETtalk reimplementation,Oregon State University,1990-06-01,1990,Speech,0,Academia,United States of America,,,1,Confident,27480.0,35811936000.0,,10.554
+965,Zip CNN,"AT&T,Bell Laboratories",1989-12-01,1989,Vision,0,Industry,United States of America,,,1,Confident,9760.0,1496338054440.0,,12.175
+966,Speaker-independent vowel classification,University of Washington,1989-11-27,1989,Speech,0,Academia,United States of America,,,0,Confident,3040.0,7485696000.0,,9.8742
+967,Handwritten digit recognition network,AT&T,1989-11-27,1989,Vision,0,Industry,United States of America,,,1,Confident,2578.0,181440000000.0,,11.2587
+968,Truck backer-upper,Stanford University,1989-06-18,1989,Driving,0,Academia,United States of America,,,0,Confident,805.0,,,
+969,Invariant image recognition,Complutense University of Madrid,1989-06-18,1989,Vision,0,Academia,Spain,,,1,Confident,,27000000000.0,,10.4314
+970,Q-learning,University of London,1989-01-01,1989,"Robotics,Games",0,Academia,United Kingdom of Great Britain and Northern Ireland,,,0,Unknown,,,,
+971,MLP baggage detector,Science Applications International Corporation / SAIC,1989-01-01,1989,Vision,0,Industry,United States of America,,,0,Confident,,,,
+972,MLN-ASR,McGill University,1988-08-01,1988,Speech,0,Academia,Canada,,,0,Confident,10000.0,296425000.0,,8.4719
+973,Latent semantic analysis,"University of Chicago,Bell Laboratories,University of Western Ontario",1988-04-05,1988,Language,1,Collaboration,United States of America,Unreleased,0,0,Unknown,,,,
+974,Translation-invariant MLP,Carnegie Mellon University (CMU),1987-06-15,1987,,0,Academia,United States of America,,,1,Confident,816.0,18032947200.0,,10.2561
+975,NetTalk (transcription),Princeton University,1987-06-06,1987,Speech,0,Academia,United States of America,,,1,Confident,18629.0,28328002560.0,,10.4522
+976,NetTalk (dictionary),Princeton University,1987-06-06,1987,Speech,0,Academia,United States of America,,,1,Confident,18629.0,27664065000.0,,10.4419
+977,Optimized Multi-Scale Edge Detection,Massachusetts Institute of Technology (MIT),1986-11-01,1986,Vision,0,Academia,United States of America,,,0,Unknown,,,,
+978,MLP with back-propagation,"University of California San Diego,Carnegie Mellon University (CMU)",1986-10-01,1986,Mathematics,0,Academia,United States of America,,,1,Confident,720.0,673920000.0,,8.8286
+979,Distributed representation NN,Carnegie Mellon University (CMU),1986-08-15,1986,Other,0,Academia,United States of America,,,1,Confident,432.0,388800000.0,,8.5897
+980,Error Propagation,"University of California San Diego,Carnegie Mellon University (CMU)",1986-01-03,1986,Other,0,Academia,United States of America,,,0,Unknown,,,,
+981,Hierarchical Cognitron,NHK Broadcasting Science Research Laboratories,1984-04-01,1984,Other,0,Industry,Japan,,,0,Speculative,9315.0,,,
+982,ASE+ACE,University of Massachusetts Amherst,1983-09-01,1983,Robotics,0,Academia,United States of America,,,1,Likely,324.0,324000000.0,,8.5105
+983,Hopfield network,California Institute of Technology,1982-04-01,1982,Other,0,Academia,United States of America,,,0,,9900.0,,,
+984,Kohonen network,Helsinki University of Technology,1981-07-25,1981,Mathematics,0,Academia,Finland,,,0,,4096.0,,,
+985,Neocognitron,NHK Broadcasting Science Research Laboratories,1980-04-01,1980,Vision,0,Industry,Japan,,,1,Confident,1140576.0,273738240.0,,8.4373
+986,Transfer Learning,University of Zagreb,1976-07-01,1976,Vision,0,Academia,Croatia,Unreleased,0,0,Unknown,,,,
+987,Cognitron,Biological Cybernetics,1975-09-01,1975,Other,0,Industry,Japan,,,0,Confident,21600.0,5184000.0,,6.7147
+988,Piecewise linear model,University of Kansas,1973-11-01,1973,Vision,0,Academia,United States of America,,,0,Confident,357.0,,,
+989,Decision tree adaline,Tokyo Medical and Dental University,1969-05-01,1969,Medicine,0,Academia,Japan,,,0,Confident,2450.0,,,
+990,GLEE,University of Edinburgh,1968-07-01,1968,Games,0,Academia,United Kingdom of Great Britain and Northern Ireland,,,0,Unknown,,,,
+991,Boxes (pole),University of Edinburgh,1968-07-01,1968,Games,0,Academia,United Kingdom of Great Britain and Northern Ireland,,,0,Unknown,,,,
+992,LTE speaker verification system,IBM,1966-11-01,1966,Speech,0,Industry,United States of America,,,1,Likely,2061.0,105917060.0,,8.025
+993,Heuristic Reinforcement Learning,Purdue University,1965-10-01,1965,Robotics,0,Academia,United States of America,,,0,Speculative,,1080000.0,,6.0334
+994,Print Recognition Logic,IBM,1963-01-01,1963,Vision,0,Industry,United States of America,,,1,Speculative,,22500000.0,,7.3522
+995,MADALINE I,Stanford University,1962-07-01,1962,Other,0,Academia,United States of America,,,0,Unknown,,,,
+996,Linear Decision Functions,Bell Laboratories,1962-06-01,1962,Mathematics,0,Industry,United States of America,,,1,Speculative,,1559250.0,,6.1929
+997,ADALINE,Stanford University,1960-06-30,1960,Vision,0,Academia,United States of America,,,1,Confident,17.0,6600.0,,3.8195
+998,Perceptron (1960),Cornell Aeronautical Laboratory,1960-03-30,1960,Vision,0,Academia,United States of America,,,1,Speculative,1000.0,720000000.0,,8.8573
+999,Pattern recognition and reading by machine,Sandia Corporation,1959-12-01,1959,Vision,0,Industry,United States of America,,,0,,2625.0,,,
+1000,Samuel Neural Checkers,IBM,1959-07-01,1959,Games,0,Industry,United States of America,,,1,Likely,16.0,428400000.0,,8.6318
+1001,Pandemonium (morse),Massachusetts Institute of Technology (MIT),1959-02-01,1959,Language,1,Academia,United States of America,,,1,Speculative,,600000000.0,,8.7782
+1002,Perceptron Mark I,"Cornell Aeronautical Laboratory,Cornell University",1957-01-01,1957,Other,0,Academia,United States of America,,,1,Likely,1000.0,694894.9377361819,,5.8419
+1003,Sequence-based pattern recognition,Massachusetts Institute of Technology (MIT),1955-03-01,1955,Vision,0,Academia,United States of America,,,0,Unknown,,,,
+1004,Self Organizing System,Massachusetts Institute of Technology (MIT),1955-03-01,1955,Other,0,Academia,United States of America,,,0,,225.0,,,
+1005,Genetic algorithm,Institute for Advanced Study,1954-07-02,1954,"Mathematics,Biology",0,Academia,United States of America,,,0,Unknown,,,,
+1006,SNARC,Harvard University,1952-01-08,1952,Robotics,0,Academia,United States of America,,,0,,40.0,,,
+1007,Theseus,Bell Laboratories,1950-07-02,1950,Robotics,0,Industry,United States of America,,,1,Confident,40.0,40.0,,1.6021
+1008,Kaiju Small,Character.ai,,,Language,1,Industry,United States of America,Hosted access (no API),0,0,Likely,13000000000.0,,,
+1009,Kaiju Medium,Character.ai,,,Language,1,Industry,United States of America,Hosted access (no API),0,0,Likely,34000000000.0,,,
+1010,Kaiju Large,Character.ai,,,Language,1,Industry,United States of America,Hosted access (no API),0,0,Likely,110000000000.0,,,
+1011,Grok 4.20,xAI,,,Language,1,Industry,United States of America,API access,0,0,Likely,500000000000.0,,,

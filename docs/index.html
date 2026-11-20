@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Who builds frontier AI? Compute, sectors and openness</title>
+<style>
+:root { --ink:#1d2a33; --muted:#5b6b76; --line:#e3e7ea; --accent:#2a6f97; --warn:#c1440e; }
+* { box-sizing: border-box; }
+body { margin:0; color:var(--ink); background:#f7f9fa; font:17px/1.6 system-ui,-apple-system,"Segoe UI",sans-serif; }
+main { max-width:820px; margin:0 auto; padding:48px 20px 80px; }
+h1 { font-size:2.1rem; line-height:1.2; margin:0 0 12px; }
+h2 { font-size:1.35rem; margin:48px 0 8px; }
+.lede { color:var(--muted); font-size:1.1rem; margin:0 0 28px; }
+.stats { display:grid; grid-template-columns:repeat(auto-fit,minmax(170px,1fr)); gap:12px; margin:28px 0; }
+.stat { background:#fff; border:1px solid var(--line); border-radius:10px; padding:14px 16px; }
+.stat b { display:block; font-size:1.7rem; color:var(--accent); line-height:1.2; }
+.stat span { color:var(--muted); font-size:.88rem; }
+figure { margin:16px 0; background:#fff; border:1px solid var(--line); border-radius:10px; padding:10px; }
+figure img { width:100%; height:auto; display:block; }
+.caveat { border-left:4px solid var(--warn); background:#fff; padding:10px 16px; border-radius:0 8px 8px 0; margin:16px 0; }
+table { border-collapse:collapse; width:100%; background:#fff; font-size:.92rem; }
+th, td { border:1px solid var(--line); padding:7px 10px; text-align:left; }
+th { background:#eef2f4; }
+td.num { text-align:right; font-variant-numeric:tabular-nums; }
+code { background:#eef2f4; padding:1px 5px; border-radius:4px; font-size:.9em; }
+a { color:var(--accent); }
+footer { color:var(--muted); font-size:.88rem; margin-top:56px; border-top:1px solid var(--line); padding-top:16px; }
+</style></head><body><main>
+<h1>Who builds frontier AI?</h1>
+<p class="lede">A SQL and Python analysis of 1,011 notable AI models from Epoch AI: how fast training compute grew, which sectors build the models, and how open they are.</p>
+
+<div class="stats">
+<div class="stat"><b>6.3 mo</b><span>compute doubling time, 2010 to 2022</span></div>
+<div class="stat"><b>92%</b><span>of 2025 notable models built by industry alone</span></div>
+<div class="stat"><b>40%</b><span>open weights in 2025, down from 56% in 2020</span></div>
+<div class="stat"><b>521/1,011</b><span>models have a compute estimate</span></div>
+</div>
+
+<h2>1. Compute grew by orders of magnitude</h2>
+<figure><img src="img/compute-over-time.png" alt="Scatter plot of training compute for notable AI models on a log scale from 1990 to 2026, with fitted growth lines for 2010 to 2022 and 2023 to 2026"></figure>
+<p>From 2010 to 2022, training compute doubled about every 6.3 months (95% bootstrap interval 5.8 to 6.9, 306 models), roughly 3.7× per year. Before 2010 the doubling time was about 20 months. Models that were at the frontier of compute when released doubled every 5.4 months.</p>
+<table><thead><tr><th>Group</th><th>Models</th><th>Doubling time (months)</th><th>95% interval</th><th>Growth per year</th></tr></thead><tbody>
+<tr><td>Before 2010</td><td class='num'>62</td><td class='num'>20.5</td><td class='num'>16.9 to 25.5</td><td class='num'>1.5×</td></tr><tr><td>2010 to 2022</td><td class='num'>306</td><td class='num'>6.3</td><td class='num'>5.8 to 6.9</td><td class='num'>3.7×</td></tr><tr><td>2023 to 2026 (partial)</td><td class='num'>153</td><td class='num'>3.3</td><td class='num'>2.7 to 4.5</td><td class='num'>12.1×</td></tr><tr><td>Frontier models, 2010 on</td><td class='num'>71</td><td class='num'>5.4</td><td class='num'>5.2 to 5.7</td><td class='num'>4.6×</td></tr>
+</tbody></table>
+<div class="caveat"><b>Treat the 2023 on figure as fragile.</b> It is a short window that includes a partial 2026, it rests on 153 models, and the share of models with a compute estimate fell from 80% in 2021 to 37% in 2025 (section 4). The frontier interval is narrow because frontier status is defined by compute, so that subset is selected on the outcome.</div>
+<p>The largest run in the data is Grok 4 (xAI, 2025) at about 5.0 × 10<sup>26</sup> FLOP. Of the 179 models with a cost estimate, the costliest is Grok 4 at roughly $388 million (2023 USD).</p>
+
+<h2>2. Industry took over</h2>
+<figure><img src="img/sector-share.png" alt="Stacked area chart of the share of notable AI models by developer type from 2010 to 2025"></figure>
+<p>Academia built 32% of notable models in 2015, but only 2% in 2025. Industry alone built 92%, and industry-academia collaborations 5%. The earliest years have few models each, so read the direction and not single points.</p>
+
+<h2>3. Openness is lower where industry leads</h2>
+<figure><img src="img/open-weights.png" alt="Line chart of the share of notable AI models with open weights by year from 2018 to 2025"></figure>
+<p>Among models where Epoch records weight availability, the open share was 56% in 2020 and 40% in 2025. From 2022 to 2025, 33% of industry-built models had open weights (290 models), compared with 70% for academia (40) and 69% for collaborations (71). Sector and year are mixed together here, so this describes the pattern and does not isolate a cause.</p>
+
+<h2>4. How complete is the compute data?</h2>
+<figure><img src="img/coverage.png" alt="Bar chart of the share of notable AI models per year that have a training compute estimate, 2010 to 2025"></figure>
+<p>Only 521 of 1,011 models (52%) have a compute estimate, and coverage varies a lot by year. Labs that publish less about their models make estimation harder, so missing values are probably not random. Every growth rate above describes models with estimates only.</p>
+
+<h2>5. Where the models come from</h2>
+<figure><img src="img/country-share.png" alt="Grouped bar chart of the share of notable AI models by country group across three periods"></figure>
+<p>US-based developers account for 62% of notable models from 2022 to 2025. China rose from 12% in 2018 to 2021 to 24% in 2022 to 2025. Country is the first one listed for the developing organizations, which simplifies multinational teams.</p>
+
+<h2>Method and limits</h2>
+<ul>
+<li><b>Data.</b> Epoch AI's notable AI models table (1,011 rows, 1950 to 2026; 18 models in 2026, a partial year). It is released under CC BY 4.0. The copy in this repo is a snapshot taken from a public GitHub mirror, not downloaded from Epoch directly, so it may differ from Epoch's current release. See <a href="https://github.com/tavialaw7/ai-compute-trends/blob/main/data/README.md">data/README.md</a>.</li>
+<li><b>Notable is Epoch's judgment.</b> The dataset does not cover every model, and its inclusion rules shape every share shown here.</li>
+<li><b>Growth fits.</b> Ordinary least squares of log<sub>2</sub> compute on publication date. Intervals come from a 2,000-draw bootstrap over models with a fixed seed. They capture sampling noise only, not estimate error or selection. Era boundaries (2010, 2023) are my choices.</li>
+<li><b>Shares count models, not importance.</b> A frontier model and a small research model each count once.</li>
+</ul>
+
+<footer>Code and SQL: <a href="https://github.com/tavialaw7/ai-compute-trends">github.com/tavialaw7/ai-compute-trends</a>. Data: Epoch AI, "Data on AI models", CC BY 4.0. Built by <a href="https://github.com/tavialaw7">Tavia</a>.</footer>
+</main></body></html>
